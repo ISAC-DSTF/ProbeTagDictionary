@@ -1,0 +1,2940 @@
+{
+  "Fluorescence":[
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"6-Carboxyfluorescein",
+      "PreferredShortName":"6-FAM",
+      "ExcitationMaximum(nm)":492,
+      "EmissionMaximum(nm)":518,
+      "CAS#":"92557-81-8*"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"6-JOE",
+      "PreferredShortName":"6-JOE",
+      "ExcitationMaximum(nm)":520,
+      "EmissionMaximum(nm)":550,
+      "CAS#":"113394-23-3*"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"7-Aminoactinomycin D",
+      "PreferredShortName":"7-AAD",
+      "ExcitationMaximum(nm)":545,
+      "EmissionMaximum(nm)":647,
+      "CAS#":"7240-37-1"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Acridine Orange",
+      "PreferredShortName":"Acrid-O",
+      "ExcitationMaximum(nm)":503,
+      "EmissionMaximum(nm)":525,
+      "CAS#":"65-61-2"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Alexa Fluor 350",
+      "PreferredShortName":"AF350",
+      "ExcitationMaximum(nm)":343,
+      "EmissionMaximum(nm)":442,
+      "CAS#":"244636-14-4"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Alexa Fluor 405",
+      "PreferredShortName":"AF405",
+      "ExcitationMaximum(nm)":401,
+      "EmissionMaximum(nm)":425,
+      "CAS#":"791637-08-6"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Alexa Fluor 430",
+      "PreferredShortName":"AF430",
+      "ExcitationMaximum(nm)":433,
+      "EmissionMaximum(nm)":541,
+      "CAS#":"467233-94-9"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Alexa Fluor 488",
+      "PreferredShortName":"AF488",
+      "ExcitationMaximum(nm)":496,
+      "EmissionMaximum(nm)":519,
+      "CAS#":"247144-99-6"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Alexa Fluor 500",
+      "PreferredShortName":"AF500",
+      "ExcitationMaximum(nm)":503,
+      "EmissionMaximum(nm)":525,
+      "CAS#":"798557-08-1"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Alexa Fluor 514",
+      "PreferredShortName":"AF514",
+      "ExcitationMaximum(nm)":517,
+      "EmissionMaximum(nm)":542,
+      "CAS#":"798557-07-0"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Alexa Fluor 532",
+      "PreferredShortName":"AF532",
+      "ExcitationMaximum(nm)":532,
+      "EmissionMaximum(nm)":553,
+      "CAS#":"222159-92-4"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Alexa Fluor 546",
+      "PreferredShortName":"AF546",
+      "ExcitationMaximum(nm)":556,
+      "EmissionMaximum(nm)":573,
+      "CAS#":"247145-23-9"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Alexa Fluor 555",
+      "PreferredShortName":"AF555",
+      "ExcitationMaximum(nm)":555,
+      "EmissionMaximum(nm)":565,
+      "CAS#":"644990-77-2"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Alexa Fluor 568",
+      "PreferredShortName":"AF568",
+      "ExcitationMaximum(nm)":578,
+      "EmissionMaximum(nm)":603,
+      "CAS#":"247145-38-6"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Alexa Fluor 594",
+      "PreferredShortName":"AF594",
+      "ExcitationMaximum(nm)":590,
+      "EmissionMaximum(nm)":617,
+      "CAS#":"247145-86-4"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Alexa Fluor 610",
+      "PreferredShortName":"AF610",
+      "ExcitationMaximum(nm)":612,
+      "EmissionMaximum(nm)":628,
+      "CAS#":"900528-62-3"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Alexa Fluor 633",
+      "PreferredShortName":"AF633",
+      "ExcitationMaximum(nm)":632,
+      "EmissionMaximum(nm)":647,
+      "CAS#":"477780-06-6"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Alexa Fluor 635",
+      "PreferredShortName":"AF635",
+      "ExcitationMaximum(nm)":633,
+      "EmissionMaximum(nm)":647,
+      "CAS#":"945850-82-8"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Alexa Fluor 647",
+      "PreferredShortName":"AF647",
+      "ExcitationMaximum(nm)":650,
+      "EmissionMaximum(nm)":665,
+      "CAS#":"400051-23-2"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Alexa Fluor 660",
+      "PreferredShortName":"AF660",
+      "ExcitationMaximum(nm)":663,
+      "EmissionMaximum(nm)":690,
+      "CAS#":"422309-89-5"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Alexa Fluor 680",
+      "PreferredShortName":"AF680",
+      "ExcitationMaximum(nm)":679,
+      "EmissionMaximum(nm)":702,
+      "CAS#":"422309-67-9"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Alexa Fluor 700",
+      "PreferredShortName":"AF700",
+      "ExcitationMaximum(nm)":702,
+      "EmissionMaximum(nm)":723,
+      "CAS#":"697795-05-4"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Alexa Fluor 750",
+      "PreferredShortName":"AF750",
+      "ExcitationMaximum(nm)":749,
+      "EmissionMaximum(nm)":775,
+      "CAS#":"697795-06-5"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Alexa Fluor 790",
+      "PreferredShortName":"AF790",
+      "ExcitationMaximum(nm)":784,
+      "EmissionMaximum(nm)":814,
+      "CAS#":"950891-33-5"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Allophycocyanin",
+      "PreferredShortName":"APC",
+      "ExcitationMaximum(nm)":650,
+      "EmissionMaximum(nm)":660,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Anemonia Majano Cyan",
+      "PreferredShortName":"AmCyan",
+      "ExcitationMaximum(nm)":457,
+      "EmissionMaximum(nm)":489,
+      "CAS#":"1216872-44-4"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Aminomethylcoumarin Acetate",
+      "PreferredShortName":"AMCA",
+      "ExcitationMaximum(nm)":346,
+      "EmissionMaximum(nm)":448,
+      "CAS#":"106562-32-7"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Allophycocyanin-Alexa Fluor 680",
+      "PreferredShortName":"APC-AF680",
+      "ExcitationMaximum(nm)":655,
+      "EmissionMaximum(nm)":704,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Allophycocyanin-Alexa Fluor 700",
+      "PreferredShortName":"APC-AF700",
+      "ExcitationMaximum(nm)":655,
+      "EmissionMaximum(nm)":718,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Allophycocyanin-Alexa Fluor 750",
+      "PreferredShortName":"APC-AF750",
+      "ExcitationMaximum(nm)":650,
+      "EmissionMaximum(nm)":775,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Allophycocyanin-Cy5.5",
+      "PreferredShortName":"APC-Cy5.5",
+      "ExcitationMaximum(nm)":650,
+      "EmissionMaximum(nm)":695,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Allophycocyanin-Cy7",
+      "PreferredShortName":"APC-Cy7",
+      "ExcitationMaximum(nm)":650,
+      "EmissionMaximum(nm)":767,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Allophycocyanin-eFluor 750",
+      "PreferredShortName":"APC-eFluor750",
+      "ExcitationMaximum(nm)":650,
+      "EmissionMaximum(nm)":750,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Allophycocyanin-eFluor 780",
+      "PreferredShortName":"APC-eFluor780",
+      "ExcitationMaximum(nm)":650,
+      "EmissionMaximum(nm)":780,
+      "CAS#":"1472056-77-1"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Allophycocyanin-H7",
+      "PreferredShortName":"APC-H7",
+      "ExcitationMaximum(nm)":650,
+      "EmissionMaximum(nm)":765,
+      "CAS#":"1366000-62-5"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Allophycocyanin-Vio770",
+      "PreferredShortName":"APC-Vio770",
+      "ExcitationMaximum(nm)":652,
+      "EmissionMaximum(nm)":775,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Atto488",
+      "PreferredShortName":"ATTO488",
+      "ExcitationMaximum(nm)":501,
+      "EmissionMaximum(nm)":523,
+      "CAS#":"923585-42-6"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"BODIPY FL",
+      "PreferredShortName":"BODIPY-FL",
+      "ExcitationMaximum(nm)":502,
+      "EmissionMaximum(nm)":511,
+      "CAS#":"146616-66-2*"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"BODIPY R6G",
+      "PreferredShortName":"BODIPY-R6G",
+      "ExcitationMaximum(nm)":527,
+      "EmissionMaximum(nm)":547,
+      "CAS#":"335193-70-9"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Brilliant Blue 515",
+      "PreferredShortName":"BB515",
+      "ExcitationMaximum(nm)":490,
+      "EmissionMaximum(nm)":515,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Brilliant Utraviolet 395",
+      "PreferredShortName":"BUV395",
+      "ExcitationMaximum(nm)":348,
+      "EmissionMaximum(nm)":395,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Brilliant Utraviolet 496",
+      "PreferredShortName":"BUV496",
+      "ExcitationMaximum(nm)":348,
+      "EmissionMaximum(nm)":496,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Brilliant Utraviolet 563",
+      "PreferredShortName":"BUV563",
+      "ExcitationMaximum(nm)":348,
+      "EmissionMaximum(nm)":563,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Brilliant Utraviolet 661",
+      "PreferredShortName":"BUV661",
+      "ExcitationMaximum(nm)":348,
+      "EmissionMaximum(nm)":661,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Brilliant Utraviolet 737",
+      "PreferredShortName":"BUV737",
+      "ExcitationMaximum(nm)":348,
+      "EmissionMaximum(nm)":737,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Brilliant Utraviolet 805",
+      "PreferredShortName":"BUV805",
+      "ExcitationMaximum(nm)":348,
+      "EmissionMaximum(nm)":805,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Brilliant Violet 421",
+      "PreferredShortName":"BV421",
+      "ExcitationMaximum(nm)":406,
+      "EmissionMaximum(nm)":423,
+      "CAS#":"1428441-68-2"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Brilliant Violet 480",
+      "PreferredShortName":"BV480",
+      "ExcitationMaximum(nm)":436,
+      "EmissionMaximum(nm)":478,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Brilliant Violet 510",
+      "PreferredShortName":"BV510",
+      "ExcitationMaximum(nm)":405,
+      "EmissionMaximum(nm)":510,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Brilliant Violet 570",
+      "PreferredShortName":"BV570",
+      "ExcitationMaximum(nm)":407,
+      "EmissionMaximum(nm)":571,
+      "CAS#":"1428441-76-2"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Brilliant Violet 605",
+      "PreferredShortName":"BV605",
+      "ExcitationMaximum(nm)":407,
+      "EmissionMaximum(nm)":603,
+      "CAS#":"1632128-60-9"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Brilliant Violet 650",
+      "PreferredShortName":"BV650",
+      "ExcitationMaximum(nm)":407,
+      "EmissionMaximum(nm)":647,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Brilliant Violet 711",
+      "PreferredShortName":"BV711",
+      "ExcitationMaximum(nm)":405,
+      "EmissionMaximum(nm)":711,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Brilliant Violet 785",
+      "PreferredShortName":"BV785",
+      "ExcitationMaximum(nm)":405,
+      "EmissionMaximum(nm)":786,
+      "CAS#":"1613592-44-1"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Brilliant Violet 786",
+      "PreferredShortName":"BV786",
+      "ExcitationMaximum(nm)":407,
+      "EmissionMaximum(nm)":786,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Calcein",
+      "PreferredShortName":"Calcein",
+      "ExcitationMaximum(nm)":493,
+      "EmissionMaximum(nm)":514,
+      "CAS#":"1461-15-0"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Calcein Blue AM",
+      "PreferredShortName":"Calcein-BAM",
+      "ExcitationMaximum(nm)":360,
+      "EmissionMaximum(nm)":445,
+      "CAS#":"168482-84-6"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Calcein Violet AM",
+      "PreferredShortName":"Calcein-VAM",
+      "ExcitationMaximum(nm)":400,
+      "EmissionMaximum(nm)":452,
+      "CAS#":"148504-34-1"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Calcium Sensor Dye eFluor 514",
+      "PreferredShortName":"CSD-eFluor514",
+      "ExcitationMaximum(nm)":490,
+      "EmissionMaximum(nm)":514,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Carboxyfluorescein Diacetate Succinimidyl Ester",
+      "PreferredShortName":"CFDA-SE",
+      "ExcitationMaximum(nm)":492,
+      "EmissionMaximum(nm)":517,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Carboxyfluorescein Succinimidyl Ester",
+      "PreferredShortName":"CFSE",
+      "ExcitationMaximum(nm)":492,
+      "EmissionMaximum(nm)":525,
+      "CAS#":"150347-59-4"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Cascade Blue",
+      "PreferredShortName":"Cascade-B",
+      "ExcitationMaximum(nm)":401,
+      "EmissionMaximum(nm)":420,
+      "CAS#":"1325-87-7"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Cascade Yellow",
+      "PreferredShortName":"Cascade-Y",
+      "ExcitationMaximum(nm)":400,
+      "EmissionMaximum(nm)":550,
+      "CAS#":"220930-95-0"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Cell Proliferation Dye eFluor 450",
+      "PreferredShortName":"CPD-eFluor450",
+      "ExcitationMaximum(nm)":405,
+      "EmissionMaximum(nm)":445,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Cell Proliferation Dye eFluor 670",
+      "PreferredShortName":"CPD-eFluor670",
+      "ExcitationMaximum(nm)":652,
+      "EmissionMaximum(nm)":672,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"CellTrace Violet Cell Proliferation",
+      "PreferredShortName":"CellTrace-Vio",
+      "ExcitationMaximum(nm)":392,
+      "EmissionMaximum(nm)":455,
+      "CAS#":"1437217-10-1"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"CellVue Claret",
+      "PreferredShortName":"CellVue-Claret",
+      "ExcitationMaximum(nm)":655,
+      "EmissionMaximum(nm)":657,
+      "CAS#":"1042142-46-0"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Cyanine 2",
+      "PreferredShortName":"Cy2",
+      "ExcitationMaximum(nm)":492,
+      "EmissionMaximum(nm)":507,
+      "CAS#":"102185-03-5"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Cyanine 3",
+      "PreferredShortName":"Cy3",
+      "ExcitationMaximum(nm)":552,
+      "EmissionMaximum(nm)":566,
+      "CAS#":"146368-16-3"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Cyanine 3.5",
+      "PreferredShortName":"Cy3.5",
+      "ExcitationMaximum(nm)":581,
+      "EmissionMaximum(nm)":598,
+      "CAS#":"189767-45-1"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Cyanine 5",
+      "PreferredShortName":"Cy5",
+      "ExcitationMaximum(nm)":633,
+      "EmissionMaximum(nm)":670,
+      "CAS#":"144377-05-9"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Cyanine 5.5",
+      "PreferredShortName":"Cy5.5",
+      "ExcitationMaximum(nm)":677,
+      "EmissionMaximum(nm)":695,
+      "CAS#":"210892-23-2"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Cyanine 7",
+      "PreferredShortName":"Cy7",
+      "ExcitationMaximum(nm)":743,
+      "EmissionMaximum(nm)":767,
+      "CAS#":"169799-14-8"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"CyQUANT DNA",
+      "PreferredShortName":"CyQUANT-GR",
+      "ExcitationMaximum(nm)":502,
+      "EmissionMaximum(nm)":522,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"CyTRAK Orange",
+      "PreferredShortName":"CyTRAK-O",
+      "ExcitationMaximum(nm)":514,
+      "EmissionMaximum(nm)":609,
+      "CAS#":"1195771-25-5"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"DAPI",
+      "PreferredShortName":"DAPI",
+      "ExcitationMaximum(nm)":358,
+      "EmissionMaximum(nm)":462,
+      "CAS#":"47165-04-8"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"DiA",
+      "PreferredShortName":"DiA",
+      "ExcitationMaximum(nm)":455,
+      "EmissionMaximum(nm)":586,
+      "CAS#":"371114-38-4"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dichloro-Dihydro-Fluorescein",
+      "PreferredShortName":"DCF",
+      "ExcitationMaximum(nm)":505,
+      "EmissionMaximum(nm)":525,
+      "CAS#":"106070-31-9"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"DiD",
+      "PreferredShortName":"DiD",
+      "ExcitationMaximum(nm)":647,
+      "EmissionMaximum(nm)":669,
+      "CAS#":"127274-91-3"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dil",
+      "PreferredShortName":"Dil",
+      "ExcitationMaximum(nm)":550,
+      "EmissionMaximum(nm)":568,
+      "CAS#":"41085-99-8"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"DiO",
+      "PreferredShortName":"DiO",
+      "ExcitationMaximum(nm)":489,
+      "EmissionMaximum(nm)":506,
+      "CAS#":"34215-57-1"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"DiR",
+      "PreferredShortName":"DiR",
+      "ExcitationMaximum(nm)":750,
+      "EmissionMaximum(nm)":781,
+      "CAS#":"100068-60-8"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"DRAQ5",
+      "PreferredShortName":"DRAQ5",
+      "ExcitationMaximum(nm)":645,
+      "EmissionMaximum(nm)":683,
+      "CAS#":"254098-36-7"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"DRAQ7",
+      "PreferredShortName":"DRAQ7",
+      "ExcitationMaximum(nm)":599,
+      "EmissionMaximum(nm)":694,
+      "CAS#":"1533453-55-2"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Discosoma sp. Red Fluorescent Protein",
+      "PreferredShortName":"DsRED",
+      "ExcitationMaximum(nm)":532,
+      "EmissionMaximum(nm)":595,
+      "CAS#":"469863-23-8"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"DyLight 350",
+      "PreferredShortName":"DL350",
+      "ExcitationMaximum(nm)":353,
+      "EmissionMaximum(nm)":432,
+      "CAS#":"1436849-83-0"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"DyLight 405",
+      "PreferredShortName":"DL405",
+      "ExcitationMaximum(nm)":400,
+      "EmissionMaximum(nm)":420,
+      "CAS#":"1051927-09-3"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"DyLight 488",
+      "PreferredShortName":"DL488",
+      "ExcitationMaximum(nm)":493,
+      "EmissionMaximum(nm)":518,
+      "CAS#":"1051927-12-8"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"DyLight 549",
+      "PreferredShortName":"DL549",
+      "ExcitationMaximum(nm)":562,
+      "EmissionMaximum(nm)":576,
+      "CAS#":"1051927-13-9"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"DyLight 550",
+      "PreferredShortName":"DL550",
+      "ExcitationMaximum(nm)":562,
+      "EmissionMaximum(nm)":576,
+      "CAS#":"1340586-78-8"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"DyLight 594",
+      "PreferredShortName":"DL594",
+      "ExcitationMaximum(nm)":593,
+      "EmissionMaximum(nm)":618,
+      "CAS#":"1268612-00-5"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"DyLight 633",
+      "PreferredShortName":"DL633",
+      "ExcitationMaximum(nm)":638,
+      "EmissionMaximum(nm)":658,
+      "CAS#":"1051927-14-0"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"DyLight 649",
+      "PreferredShortName":"DL649",
+      "ExcitationMaximum(nm)":654,
+      "EmissionMaximum(nm)":670,
+      "CAS#":"1051927-15-1"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"DyLight 650",
+      "PreferredShortName":"DL650",
+      "ExcitationMaximum(nm)":652,
+      "EmissionMaximum(nm)":672,
+      "CAS#":"1364214-13-0"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"DyLight 680",
+      "PreferredShortName":"DL680",
+      "ExcitationMaximum(nm)":682,
+      "EmissionMaximum(nm)":712,
+      "CAS#":"1051927-24-2"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"DyLight 800",
+      "PreferredShortName":"DL800",
+      "ExcitationMaximum(nm)":777,
+      "EmissionMaximum(nm)":794,
+      "CAS#":"1051927-23-1"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-350",
+      "PreferredShortName":"DY-350",
+      "ExcitationMaximum(nm)":353,
+      "EmissionMaximum(nm)":432,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-405",
+      "PreferredShortName":"DY-405",
+      "ExcitationMaximum(nm)":400,
+      "EmissionMaximum(nm)":423,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-415",
+      "PreferredShortName":"DY-415",
+      "ExcitationMaximum(nm)":418,
+      "EmissionMaximum(nm)":467,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-430",
+      "PreferredShortName":"DY-430",
+      "ExcitationMaximum(nm)":444,
+      "EmissionMaximum(nm)":487,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-431",
+      "PreferredShortName":"DY-431",
+      "ExcitationMaximum(nm)":442,
+      "EmissionMaximum(nm)":496,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-478",
+      "PreferredShortName":"DY-478",
+      "ExcitationMaximum(nm)":478,
+      "EmissionMaximum(nm)":518,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-490",
+      "PreferredShortName":"DY-490",
+      "ExcitationMaximum(nm)":491,
+      "EmissionMaximum(nm)":515,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-495",
+      "PreferredShortName":"DY-495",
+      "ExcitationMaximum(nm)":493,
+      "EmissionMaximum(nm)":521,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-505",
+      "PreferredShortName":"DY-505",
+      "ExcitationMaximum(nm)":505,
+      "EmissionMaximum(nm)":530,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-530",
+      "PreferredShortName":"DY-530",
+      "ExcitationMaximum(nm)":539,
+      "EmissionMaximum(nm)":561,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-547",
+      "PreferredShortName":"DY-547",
+      "ExcitationMaximum(nm)":551,
+      "EmissionMaximum(nm)":565,
+      "CAS#":"947138-67-2"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-548",
+      "PreferredShortName":"DY-548",
+      "ExcitationMaximum(nm)":558,
+      "EmissionMaximum(nm)":572,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-549",
+      "PreferredShortName":"DY-549",
+      "ExcitationMaximum(nm)":550,
+      "EmissionMaximum(nm)":575,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-550",
+      "PreferredShortName":"DY-550",
+      "ExcitationMaximum(nm)":553,
+      "EmissionMaximum(nm)":578,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-554",
+      "PreferredShortName":"DY-554",
+      "ExcitationMaximum(nm)":551,
+      "EmissionMaximum(nm)":572,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-555",
+      "PreferredShortName":"DY-555",
+      "ExcitationMaximum(nm)":547,
+      "EmissionMaximum(nm)":572,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-556",
+      "PreferredShortName":"DY-556",
+      "ExcitationMaximum(nm)":548,
+      "EmissionMaximum(nm)":573,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-560",
+      "PreferredShortName":"DY-560",
+      "ExcitationMaximum(nm)":559,
+      "EmissionMaximum(nm)":578,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-590",
+      "PreferredShortName":"DY-590",
+      "ExcitationMaximum(nm)":580,
+      "EmissionMaximum(nm)":599,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-591",
+      "PreferredShortName":"DY-591",
+      "ExcitationMaximum(nm)":581,
+      "EmissionMaximum(nm)":598,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-594",
+      "PreferredShortName":"DY-594",
+      "ExcitationMaximum(nm)":594,
+      "EmissionMaximum(nm)":615,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-605",
+      "PreferredShortName":"DY-605",
+      "ExcitationMaximum(nm)":600,
+      "EmissionMaximum(nm)":624,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-610",
+      "PreferredShortName":"DY-610",
+      "ExcitationMaximum(nm)":610,
+      "EmissionMaximum(nm)":630,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-615",
+      "PreferredShortName":"DY-615",
+      "ExcitationMaximum(nm)":621,
+      "EmissionMaximum(nm)":641,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-630",
+      "PreferredShortName":"DY-630",
+      "ExcitationMaximum(nm)":636,
+      "EmissionMaximum(nm)":657,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-631",
+      "PreferredShortName":"DY-631",
+      "ExcitationMaximum(nm)":637,
+      "EmissionMaximum(nm)":658,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-632",
+      "PreferredShortName":"DY-632",
+      "ExcitationMaximum(nm)":637,
+      "EmissionMaximum(nm)":657,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-633",
+      "PreferredShortName":"DY-633",
+      "ExcitationMaximum(nm)":637,
+      "EmissionMaximum(nm)":657,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-634",
+      "PreferredShortName":"DY-634",
+      "ExcitationMaximum(nm)":635,
+      "EmissionMaximum(nm)":658,
+      "CAS#":"1189010-49-8"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-635",
+      "PreferredShortName":"DY-635",
+      "ExcitationMaximum(nm)":647,
+      "EmissionMaximum(nm)":671,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-636",
+      "PreferredShortName":"DY-636",
+      "ExcitationMaximum(nm)":645,
+      "EmissionMaximum(nm)":671,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-647",
+      "PreferredShortName":"DY-647",
+      "ExcitationMaximum(nm)":653,
+      "EmissionMaximum(nm)":672,
+      "CAS#":"890317-39-2"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-648",
+      "PreferredShortName":"DY-648",
+      "ExcitationMaximum(nm)":653,
+      "EmissionMaximum(nm)":674,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-649",
+      "PreferredShortName":"DY-649",
+      "ExcitationMaximum(nm)":655,
+      "EmissionMaximum(nm)":676,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-650",
+      "PreferredShortName":"DY-650",
+      "ExcitationMaximum(nm)":653,
+      "EmissionMaximum(nm)":674,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-651",
+      "PreferredShortName":"DY-651",
+      "ExcitationMaximum(nm)":656,
+      "EmissionMaximum(nm)":678,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-652",
+      "PreferredShortName":"DY-652",
+      "ExcitationMaximum(nm)":654,
+      "EmissionMaximum(nm)":675,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-654",
+      "PreferredShortName":"DY-654",
+      "ExcitationMaximum(nm)":653,
+      "EmissionMaximum(nm)":677,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-675",
+      "PreferredShortName":"DY-675",
+      "ExcitationMaximum(nm)":674,
+      "EmissionMaximum(nm)":699,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-676",
+      "PreferredShortName":"DY-676",
+      "ExcitationMaximum(nm)":674,
+      "EmissionMaximum(nm)":699,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-677",
+      "PreferredShortName":"DY-677",
+      "ExcitationMaximum(nm)":673,
+      "EmissionMaximum(nm)":694,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-678",
+      "PreferredShortName":"DY-678",
+      "ExcitationMaximum(nm)":674,
+      "EmissionMaximum(nm)":694,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-679",
+      "PreferredShortName":"DY-679",
+      "ExcitationMaximum(nm)":679,
+      "EmissionMaximum(nm)":697,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-680",
+      "PreferredShortName":"DY-680",
+      "ExcitationMaximum(nm)":690,
+      "EmissionMaximum(nm)":709,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-681",
+      "PreferredShortName":"DY-681",
+      "ExcitationMaximum(nm)":691,
+      "EmissionMaximum(nm)":708,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-682",
+      "PreferredShortName":"DY-682",
+      "ExcitationMaximum(nm)":692,
+      "EmissionMaximum(nm)":709,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-700",
+      "PreferredShortName":"DY-700",
+      "ExcitationMaximum(nm)":707,
+      "EmissionMaximum(nm)":730,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-701",
+      "PreferredShortName":"DY-701",
+      "ExcitationMaximum(nm)":706,
+      "EmissionMaximum(nm)":731,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-703",
+      "PreferredShortName":"DY-703",
+      "ExcitationMaximum(nm)":705,
+      "EmissionMaximum(nm)":721,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-704",
+      "PreferredShortName":"DY-704",
+      "ExcitationMaximum(nm)":706,
+      "EmissionMaximum(nm)":721,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-730",
+      "PreferredShortName":"DY-730",
+      "ExcitationMaximum(nm)":732,
+      "EmissionMaximum(nm)":758,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-731",
+      "PreferredShortName":"DY-731",
+      "ExcitationMaximum(nm)":736,
+      "EmissionMaximum(nm)":760,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-732",
+      "PreferredShortName":"DY-732",
+      "ExcitationMaximum(nm)":736,
+      "EmissionMaximum(nm)":759,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-734",
+      "PreferredShortName":"DY-734",
+      "ExcitationMaximum(nm)":736,
+      "EmissionMaximum(nm)":759,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-749",
+      "PreferredShortName":"DY-749",
+      "ExcitationMaximum(nm)":759,
+      "EmissionMaximum(nm)":780,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-750",
+      "PreferredShortName":"DY-750",
+      "ExcitationMaximum(nm)":747,
+      "EmissionMaximum(nm)":776,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-751",
+      "PreferredShortName":"DY-751",
+      "ExcitationMaximum(nm)":751,
+      "EmissionMaximum(nm)":779,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-752",
+      "PreferredShortName":"DY-752",
+      "ExcitationMaximum(nm)":748,
+      "EmissionMaximum(nm)":772,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-754",
+      "PreferredShortName":"DY-754",
+      "ExcitationMaximum(nm)":748,
+      "EmissionMaximum(nm)":771,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-776",
+      "PreferredShortName":"DY-776",
+      "ExcitationMaximum(nm)":771,
+      "EmissionMaximum(nm)":793,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-777",
+      "PreferredShortName":"DY-777",
+      "ExcitationMaximum(nm)":770,
+      "EmissionMaximum(nm)":788,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-778",
+      "PreferredShortName":"DY-778",
+      "ExcitationMaximum(nm)":767,
+      "EmissionMaximum(nm)":787,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-780",
+      "PreferredShortName":"DY-780",
+      "ExcitationMaximum(nm)":782,
+      "EmissionMaximum(nm)":800,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-781",
+      "PreferredShortName":"DY-781",
+      "ExcitationMaximum(nm)":783,
+      "EmissionMaximum(nm)":800,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-782",
+      "PreferredShortName":"DY-782",
+      "ExcitationMaximum(nm)":783,
+      "EmissionMaximum(nm)":800,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-800",
+      "PreferredShortName":"DY-800",
+      "ExcitationMaximum(nm)":777,
+      "EmissionMaximum(nm)":791,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Dynomics DY-831",
+      "PreferredShortName":"DY-831",
+      "ExcitationMaximum(nm)":844,
+      "EmissionMaximum(nm)":"-",
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"EdU Alexa Fluor 488",
+      "PreferredShortName":"EdU-AF488",
+      "ExcitationMaximum(nm)":496,
+      "EmissionMaximum(nm)":516,
+      "CAS#":"1431149-10-8"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"EdU Alexa Fluor 647",
+      "PreferredShortName":"EdU-AF647",
+      "ExcitationMaximum(nm)":650,
+      "EmissionMaximum(nm)":665,
+      "CAS#":"1431155-07-5"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"EdU Pacific Blue",
+      "PreferredShortName":"EdU-PacBlue",
+      "ExcitationMaximum(nm)":405,
+      "EmissionMaximum(nm)":455,
+      "CAS#":"1431148-70-7"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"eFluor 450",
+      "PreferredShortName":"eFluor450",
+      "ExcitationMaximum(nm)":400,
+      "EmissionMaximum(nm)":450,
+      "CAS#":"1592653-87-6"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"eFluor 490",
+      "PreferredShortName":"eFluor490",
+      "ExcitationMaximum(nm)":350,
+      "EmissionMaximum(nm)":490,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"eFluor 506 Fixable Viability Dye",
+      "PreferredShortName":"eFluor506-FVD",
+      "ExcitationMaximum(nm)":420,
+      "EmissionMaximum(nm)":506,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"eFluor 525",
+      "PreferredShortName":"eFluor525",
+      "ExcitationMaximum(nm)":350,
+      "EmissionMaximum(nm)":525,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"eFluor 565",
+      "PreferredShortName":"eFluor565",
+      "ExcitationMaximum(nm)":350,
+      "EmissionMaximum(nm)":565,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"eFluor 585",
+      "PreferredShortName":"eFluor585",
+      "ExcitationMaximum(nm)":350,
+      "EmissionMaximum(nm)":604,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"eFluor 605",
+      "PreferredShortName":"eFluor605",
+      "ExcitationMaximum(nm)":350,
+      "EmissionMaximum(nm)":605,
+      "CAS#":"1248429-27-7"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"eFluor 615",
+      "PreferredShortName":"eFluor615",
+      "ExcitationMaximum(nm)":590,
+      "EmissionMaximum(nm)":622,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"eFluor 625",
+      "PreferredShortName":"eFluor625",
+      "ExcitationMaximum(nm)":350,
+      "EmissionMaximum(nm)":625,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"eFluor 650",
+      "PreferredShortName":"eFluor650",
+      "ExcitationMaximum(nm)":350,
+      "EmissionMaximum(nm)":650,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"eFluor 660",
+      "PreferredShortName":"eFluor660",
+      "ExcitationMaximum(nm)":633,
+      "EmissionMaximum(nm)":658,
+      "CAS#":"1634649-16-3"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"eFluor 670",
+      "PreferredShortName":"eFluor670",
+      "ExcitationMaximum(nm)":647,
+      "EmissionMaximum(nm)":670,
+      "CAS#":"1437243-07-6"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"eFluor 700",
+      "PreferredShortName":"eFluor700",
+      "ExcitationMaximum(nm)":350,
+      "EmissionMaximum(nm)":700,
+      "CAS#":"1431525-04-0"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"eFluor 710",
+      "PreferredShortName":"eFluor710",
+      "ExcitationMaximum(nm)":350,
+      "EmissionMaximum(nm)":710,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"eFluor 780 Fixable Viability Dye",
+      "PreferredShortName":"eFluor780-FVD",
+      "ExcitationMaximum(nm)":755,
+      "EmissionMaximum(nm)":780,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Emerald 300",
+      "PreferredShortName":"Emerald300",
+      "ExcitationMaximum(nm)":289,
+      "EmissionMaximum(nm)":530,
+      "CAS#":"608142-29-6"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Enhanced Cyan Flourescent Protein",
+      "PreferredShortName":"ECFP",
+      "ExcitationMaximum(nm)":435,
+      "EmissionMaximum(nm)":477,
+      "CAS#":"1416379-03-7"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Enhanced Green Fluorescent Protein",
+      "PreferredShortName":"EGFP",
+      "ExcitationMaximum(nm)":480,
+      "EmissionMaximum(nm)":510,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Enhanced Yellow Fluorescent Protein",
+      "PreferredShortName":"EYFP",
+      "ExcitationMaximum(nm)":515,
+      "EmissionMaximum(nm)":528,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Eosin",
+      "PreferredShortName":"Eosin",
+      "ExcitationMaximum(nm)":525,
+      "EmissionMaximum(nm)":546,
+      "CAS#":"17372-87-1"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Ethidium Bromide",
+      "PreferredShortName":"EtBr",
+      "ExcitationMaximum(nm)":523,
+      "EmissionMaximum(nm)":604,
+      "CAS#":"1239-45-8"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Ethidium Homodimer-1",
+      "PreferredShortName":"EtHD-1",
+      "ExcitationMaximum(nm)":528,
+      "EmissionMaximum(nm)":617,
+      "CAS#":"61926-22-5"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Ethidium Monoazide EMA",
+      "PreferredShortName":"Et-MonoAz-EMA",
+      "ExcitationMaximum(nm)":510,
+      "EmissionMaximum(nm)":590,
+      "CAS#":"58880-05-0"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Fluo-3",
+      "PreferredShortName":"Fluo-3",
+      "ExcitationMaximum(nm)":506,
+      "EmissionMaximum(nm)":526,
+      "CAS#":"123632-39-3"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Fluo-4",
+      "PreferredShortName":"Fluo-4",
+      "ExcitationMaximum(nm)":494,
+      "EmissionMaximum(nm)":516,
+      "CAS#":"273221-59-3"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Fluorescein Isothiocyanate",
+      "PreferredShortName":"FITC",
+      "ExcitationMaximum(nm)":500,
+      "EmissionMaximum(nm)":520,
+      "CAS#":"27072-45-3"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Fluorescein Mercuric Acetate",
+      "PreferredShortName":"FLMA",
+      "ExcitationMaximum(nm)":495,
+      "EmissionMaximum(nm)":520,
+      "CAS#":"75350-46-8"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Fluoro-Emerald",
+      "PreferredShortName":"Fluoro-Emerald",
+      "ExcitationMaximum(nm)":495,
+      "EmissionMaximum(nm)":523,
+      "CAS#":"194369-11-4"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Fura Red",
+      "PreferredShortName":"Fura-Red",
+      "ExcitationMaximum(nm)":435,
+      "EmissionMaximum(nm)":670,
+      "CAS#":"149732-62-7"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Fura-3",
+      "PreferredShortName":"Fura3",
+      "ExcitationMaximum(nm)":325,
+      "EmissionMaximum(nm)":510,
+      "CAS#":"172890-84-5 "
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"FxCycle Far Red",
+      "PreferredShortName":"FxCycle-FR",
+      "ExcitationMaximum(nm)":640,
+      "EmissionMaximum(nm)":658,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"FxCycle Violet",
+      "PreferredShortName":"FxCycle-Vio",
+      "ExcitationMaximum(nm)":358,
+      "EmissionMaximum(nm)":462,
+      "CAS#":"28718-90-3"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Green Fluorescent Protein - Violet Excitation",
+      "PreferredShortName":"GFP-Vex",
+      "ExcitationMaximum(nm)":398,
+      "EmissionMaximum(nm)":515,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Green Flourescent Protein",
+      "PreferredShortName":"GFP",
+      "ExcitationMaximum(nm)":488,
+      "EmissionMaximum(nm)":515,
+      "CAS#":"147336-22-9"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"HiLyte Fluor 488",
+      "PreferredShortName":"HLF488",
+      "ExcitationMaximum(nm)":501,
+      "EmissionMaximum(nm)":527,
+      "CAS#":"1051927-29-7"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"HiLyte Fluor 555",
+      "PreferredShortName":"HLF555",
+      "ExcitationMaximum(nm)":550,
+      "EmissionMaximum(nm)":566,
+      "CAS#":"1051927-30-0"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"HiLyte Fluor 647",
+      "PreferredShortName":"HLF647",
+      "ExcitationMaximum(nm)":649,
+      "EmissionMaximum(nm)":674,
+      "CAS#":"925693-87-4"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"HiLyte Fluor 680",
+      "PreferredShortName":"HLF680",
+      "ExcitationMaximum(nm)":678,
+      "EmissionMaximum(nm)":699,
+      "CAS#":"1051927-34-4"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"HiLyte Fluor 750",
+      "PreferredShortName":"HLF750",
+      "ExcitationMaximum(nm)":754,
+      "EmissionMaximum(nm)":778,
+      "CAS#":"1051927-32-2"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Hoechst 33258",
+      "PreferredShortName":"Hoechst-33258",
+      "ExcitationMaximum(nm)":345,
+      "EmissionMaximum(nm)":455,
+      "CAS#":"23491-45-4"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Hoechst 33342",
+      "PreferredShortName":"Hoechst-33342",
+      "ExcitationMaximum(nm)":343,
+      "EmissionMaximum(nm)":455,
+      "CAS#":"23491-52-3"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Hydroxycoumarin",
+      "PreferredShortName":"Hydroxycoumarin",
+      "ExcitationMaximum(nm)":360,
+      "EmissionMaximum(nm)":450,
+      "CAS#":"43070-85-5"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Indo-1 Calcium Indicator",
+      "PreferredShortName":"Indo-1",
+      "ExcitationMaximum(nm)":347,
+      "EmissionMaximum(nm)":480,
+      "CAS#":"96314-96-4"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"JC-1 Mitochondrial Potential Sensor",
+      "PreferredShortName":"JC-1",
+      "ExcitationMaximum(nm)":593,
+      "EmissionMaximum(nm)":595,
+      "CAS#":"3520-43-2"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Krome Orange",
+      "PreferredShortName":"Krome-O",
+      "ExcitationMaximum(nm)":398,
+      "EmissionMaximum(nm)":530,
+      "CAS#":"1558035-65-6"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Leadmium Green AM",
+      "PreferredShortName":"Leadmium",
+      "ExcitationMaximum(nm)":490,
+      "EmissionMaximum(nm)":520,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"LIVE/DEAD Fixable Aqua Dead Cell Stain",
+      "PreferredShortName":"LIVE/DEAD-Aqua",
+      "ExcitationMaximum(nm)":367,
+      "EmissionMaximum(nm)":526,
+      "CAS#":"1431148-98-9"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"LIVE/DEAD Fixable Blue Dead Cell Stain",
+      "PreferredShortName":"LIVE/DEAD-Blue",
+      "ExcitationMaximum(nm)":343,
+      "EmissionMaximum(nm)":442,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"LIVE/DEAD Fixable Far Red Dead Cell Stain",
+      "PreferredShortName":"LIVE/DEAD-FarRed",
+      "ExcitationMaximum(nm)":650,
+      "EmissionMaximum(nm)":670,
+      "CAS#":"1431155-49-5"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"LIVE/DEAD Fixable Green Dead Cell Stain",
+      "PreferredShortName":"LIVE/DEAD-Green",
+      "ExcitationMaximum(nm)":498,
+      "EmissionMaximum(nm)":525,
+      "CAS#":"1431152-82-7"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"LIVE/DEAD Fixable Near-IR Dead Cell Stain",
+      "PreferredShortName":"LIVE/DEAD-Near-IR",
+      "ExcitationMaximum(nm)":752,
+      "EmissionMaximum(nm)":776,
+      "CAS#":"1431159-71-5"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"LIVE/DEAD Fixable Red Dead Cell Stain",
+      "PreferredShortName":"LIVE/DEAD-Red",
+      "ExcitationMaximum(nm)":594,
+      "EmissionMaximum(nm)":612,
+      "CAS#":"1431152-85-0"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"LIVE/DEAD Fixable Violet Dead Cell Stain",
+      "PreferredShortName":"LIVE/DEADiViolet",
+      "ExcitationMaximum(nm)":403,
+      "EmissionMaximum(nm)":455,
+      "CAS#":"1431148-96-7"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"LIVE/DEAD Fixable Yellow Dead Cell Stain",
+      "PreferredShortName":"LIVE/DEAD-Yellow",
+      "ExcitationMaximum(nm)":401,
+      "EmissionMaximum(nm)":551,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Lucifer Yellow",
+      "PreferredShortName":"Lucifer-Yellow",
+      "ExcitationMaximum(nm)":428,
+      "EmissionMaximum(nm)":544,
+      "CAS#":"82446-52-4"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Magnesium Green",
+      "PreferredShortName":"Magnesium-Green",
+      "ExcitationMaximum(nm)":507,
+      "EmissionMaximum(nm)":531,
+      "CAS#":"170516-41-3"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Marina Blue",
+      "PreferredShortName":"Marina-Blue",
+      "ExcitationMaximum(nm)":364,
+      "EmissionMaximum(nm)":461,
+      "CAS#":"215868-23-8"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"mBanana",
+      "PreferredShortName":"mBanana",
+      "ExcitationMaximum(nm)":540,
+      "EmissionMaximum(nm)":553,
+      "CAS#":"1114839-40-5"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"mCherry",
+      "PreferredShortName":"mCherry",
+      "ExcitationMaximum(nm)":587,
+      "EmissionMaximum(nm)":610,
+      "CAS#":"1628764-31-7"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"mCitrine",
+      "PreferredShortName":"mCitrine",
+      "ExcitationMaximum(nm)":516,
+      "EmissionMaximum(nm)":529,
+      "CAS#":"1357606-54-2"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"MethylCoumarin",
+      "PreferredShortName":"MetCoumarin",
+      "ExcitationMaximum(nm)":360,
+      "EmissionMaximum(nm)":448,
+      "CAS#":"1333-47-7"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"MitoTracker Green",
+      "PreferredShortName":"MitoTracker-Green",
+      "ExcitationMaximum(nm)":490,
+      "EmissionMaximum(nm)":512,
+      "CAS#":"1304563-13-0"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"MitoTracker Orange",
+      "PreferredShortName":"MitoTracker-Orange",
+      "ExcitationMaximum(nm)":550,
+      "EmissionMaximum(nm)":575,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"MitoTracker Red",
+      "PreferredShortName":"MitoTracker-Red",
+      "ExcitationMaximum(nm)":578,
+      "EmissionMaximum(nm)":598,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"mOrange",
+      "PreferredShortName":"mOrange",
+      "ExcitationMaximum(nm)":548,
+      "EmissionMaximum(nm)":562,
+      "CAS#":"1114839-60-9"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"mPlum",
+      "PreferredShortName":"mPlum",
+      "ExcitationMaximum(nm)":590,
+      "EmissionMaximum(nm)":649,
+      "CAS#":"1399820-93-9"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"mRaspberry",
+      "PreferredShortName":"mRaspberry",
+      "ExcitationMaximum(nm)":597,
+      "EmissionMaximum(nm)":624,
+      "CAS#":"1452799-41-5"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"mRed Fluorescent Protein",
+      "PreferredShortName":"mRFP",
+      "ExcitationMaximum(nm)":584,
+      "EmissionMaximum(nm)":607,
+      "CAS#":"1452799-30-2"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"mStrawberry",
+      "PreferredShortName":"mStrawberry",
+      "ExcitationMaximum(nm)":574,
+      "EmissionMaximum(nm)":596,
+      "CAS#":"1114834-99-9"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Na-Green",
+      "PreferredShortName":"Na-Green",
+      "ExcitationMaximum(nm)":506,
+      "EmissionMaximum(nm)":532,
+      "CAS#":"195244-55-4"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Nile Red",
+      "PreferredShortName":"Nile-Red",
+      "ExcitationMaximum(nm)":559,
+      "EmissionMaximum(nm)":637,
+      "CAS#":"7385-67-3"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"O\u2010Cresolphthalein Complexone",
+      "PreferredShortName":"CPC",
+      "ExcitationMaximum(nm)":488,
+      "EmissionMaximum(nm)":660,
+      "CAS#":"2411-89-4"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Oregon Green",
+      "PreferredShortName":"Oregon-Gr488",
+      "ExcitationMaximum(nm)":491,
+      "EmissionMaximum(nm)":519,
+      "CAS#":"195136-58-4"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Oregon Green 514",
+      "PreferredShortName":"Oregon-Gr514",
+      "ExcitationMaximum(nm)":510,
+      "EmissionMaximum(nm)":532,
+      "CAS#":"198139-53-6"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Pacific Blue",
+      "PreferredShortName":"PacBlue",
+      "ExcitationMaximum(nm)":405,
+      "EmissionMaximum(nm)":455,
+      "CAS#":"215868-31-8"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Pacific Orange",
+      "PreferredShortName":"PacOrange",
+      "ExcitationMaximum(nm)":403,
+      "EmissionMaximum(nm)":551,
+      "CAS#":"1122414-42-9"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Phycoerythrin-Alexa Fluor 610",
+      "PreferredShortName":"PE-AF610",
+      "ExcitationMaximum(nm)":563,
+      "EmissionMaximum(nm)":628,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Phycoerythrin-Alexa Fluor 647",
+      "PreferredShortName":"PE-AF647",
+      "ExcitationMaximum(nm)":567,
+      "EmissionMaximum(nm)":669,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Phycoerythrin-Alexa Fluor 680",
+      "PreferredShortName":"PE-AF680",
+      "ExcitationMaximum(nm)":570,
+      "EmissionMaximum(nm)":702,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Phycoerythrin-Alexa Fluor 700",
+      "PreferredShortName":"PE-AF700",
+      "ExcitationMaximum(nm)":563,
+      "EmissionMaximum(nm)":720,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Phycoerythrin-Alexa Fluor 750",
+      "PreferredShortName":"PE-AF750",
+      "ExcitationMaximum(nm)":570,
+      "EmissionMaximum(nm)":776,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Phycoerythrin-CF594",
+      "PreferredShortName":"PE-CF594",
+      "ExcitationMaximum(nm)":564,
+      "EmissionMaximum(nm)":612,
+      "CAS#":"1613592-67-8"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Phycoerythrin-Cy5",
+      "PreferredShortName":"PE-Cy5",
+      "ExcitationMaximum(nm)":565,
+      "EmissionMaximum(nm)":667,
+      "CAS#":"1448849-77-1"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Phycoerythrin-Cy5.5",
+      "PreferredShortName":"PE-Cy5.5",
+      "ExcitationMaximum(nm)":563,
+      "EmissionMaximum(nm)":695,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Phycoerythrin-Cy7",
+      "PreferredShortName":"PE-Cy7",
+      "ExcitationMaximum(nm)":563,
+      "EmissionMaximum(nm)":760,
+      "CAS#":"1429496-42-3"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Phycoerythrin-DY590",
+      "PreferredShortName":"PE-DY590",
+      "ExcitationMaximum(nm)":563,
+      "EmissionMaximum(nm)":599,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Phycoerythrin-DY647",
+      "PreferredShortName":"PE-DY647",
+      "ExcitationMaximum(nm)":563,
+      "EmissionMaximum(nm)":672,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Peridinin-Chlorophyll Proteins",
+      "PreferredShortName":"PerCP",
+      "ExcitationMaximum(nm)":490,
+      "EmissionMaximum(nm)":675,
+      "CAS#":"422551-33-5"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Peridinin-Chlorophyll Proteins-Cy5.5",
+      "PreferredShortName":"PerCP-Cy5.5",
+      "ExcitationMaximum(nm)":488,
+      "EmissionMaximum(nm)":695,
+      "CAS#":"1474026-81-7"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Peridinin-Chlorophyll Proteins-eFluor 710",
+      "PreferredShortName":"PerCP-eFluor710",
+      "ExcitationMaximum(nm)":488,
+      "EmissionMaximum(nm)":710,
+      "CAS#":"1353683-31-4"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Phycoerythrin-Texas Red",
+      "PreferredShortName":"PE-TxRed",
+      "ExcitationMaximum(nm)":563,
+      "EmissionMaximum(nm)":613,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Phycoerythrin-Vio770",
+      "PreferredShortName":"PE-Vio770",
+      "ExcitationMaximum(nm)":565,
+      "EmissionMaximum(nm)":775,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"pHrodo Green STP Ester ",
+      "PreferredShortName":"pHrodo-Green",
+      "ExcitationMaximum(nm)":509,
+      "EmissionMaximum(nm)":533,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"pHrodo Red, succinimidyl ester",
+      "PreferredShortName":"pHrodo-Red",
+      "ExcitationMaximum(nm)":560,
+      "EmissionMaximum(nm)":585,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Phycocyanin",
+      "PreferredShortName":"PC",
+      "ExcitationMaximum(nm)":617,
+      "EmissionMaximum(nm)":646,
+      "CAS#":"11016-15-2"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Phycoerythrin",
+      "PreferredShortName":"PE",
+      "ExcitationMaximum(nm)":563,
+      "EmissionMaximum(nm)":578,
+      "CAS#":"11016-17-4"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"PicoGreen",
+      "PreferredShortName":"PicoGreen",
+      "ExcitationMaximum(nm)":502,
+      "EmissionMaximum(nm)":522,
+      "CAS#":"177571-06-1"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"PKH2",
+      "PreferredShortName":"PKH2-Green",
+      "ExcitationMaximum(nm)":490,
+      "EmissionMaximum(nm)":504,
+      "CAS#":"145687-07-6"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"PKH26",
+      "PreferredShortName":"PKH26-Red ",
+      "ExcitationMaximum(nm)":551,
+      "EmissionMaximum(nm)":567,
+      "CAS#":"154214-55-8"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"PKH67",
+      "PreferredShortName":"PKH67",
+      "ExcitationMaximum(nm)":490,
+      "EmissionMaximum(nm)":504,
+      "CAS#":"257277-27-3"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"POPO-1 Iodide",
+      "PreferredShortName":"POPO-1",
+      "ExcitationMaximum(nm)":433,
+      "EmissionMaximum(nm)":457,
+      "CAS#":"169454-15-3"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"PO-PRO-1 Iodide",
+      "PreferredShortName":"PO-PRO-1",
+      "ExcitationMaximum(nm)":435,
+      "EmissionMaximum(nm)":457,
+      "CAS#":"157199-56-9"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Propidium Iodide",
+      "PreferredShortName":"PI",
+      "ExcitationMaximum(nm)":350,
+      "EmissionMaximum(nm)":617,
+      "CAS#":"25535-16-4"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Pyronin Y",
+      "PreferredShortName":"Pyronin-Y",
+      "ExcitationMaximum(nm)":547,
+      "EmissionMaximum(nm)":560,
+      "CAS#":"92-32-0"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Quantum Dots 525",
+      "PreferredShortName":"QD525",
+      "ExcitationMaximum(nm)":350,
+      "EmissionMaximum(nm)":525,
+      "CAS#":"885332-45-6"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Quantum Dots 545",
+      "PreferredShortName":"QD545",
+      "ExcitationMaximum(nm)":350,
+      "EmissionMaximum(nm)":545,
+      "CAS#":"948906-89-6"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Quantum Dots 565",
+      "PreferredShortName":"QD565",
+      "ExcitationMaximum(nm)":350,
+      "EmissionMaximum(nm)":565,
+      "CAS#":"859509-02-7"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Quantum Dots 585",
+      "PreferredShortName":"QD585",
+      "ExcitationMaximum(nm)":350,
+      "EmissionMaximum(nm)":585,
+      "CAS#":"885332-46-7"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Quantum Dots 605",
+      "PreferredShortName":"QD605",
+      "ExcitationMaximum(nm)":350,
+      "EmissionMaximum(nm)":605,
+      "CAS#":"849813-89-4"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Quantum Dots 625",
+      "PreferredShortName":"QD625",
+      "ExcitationMaximum(nm)":350,
+      "EmissionMaximum(nm)":625,
+      "CAS#":"1144512-19-5"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Quantum Dots 655",
+      "PreferredShortName":"QD655",
+      "ExcitationMaximum(nm)":350,
+      "EmissionMaximum(nm)":655,
+      "CAS#":"674287-64-0"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Quantum Dots 705",
+      "PreferredShortName":"QD705",
+      "ExcitationMaximum(nm)":350,
+      "EmissionMaximum(nm)":705,
+      "CAS#":"885332-47-8"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Quantum Dots 800",
+      "PreferredShortName":"QD800",
+      "ExcitationMaximum(nm)":350,
+      "EmissionMaximum(nm)":800,
+      "CAS#":"885332-50-3"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Rhodamine",
+      "PreferredShortName":"Rho",
+      "ExcitationMaximum(nm)":550,
+      "EmissionMaximum(nm)":570,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Rhodamine 110",
+      "PreferredShortName":"Rho110",
+      "ExcitationMaximum(nm)":497,
+      "EmissionMaximum(nm)":520,
+      "CAS#":"13558-31-1"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Rhodamine 123",
+      "PreferredShortName":"Rho123",
+      "ExcitationMaximum(nm)":507,
+      "EmissionMaximum(nm)":529,
+      "CAS#":"62669-70-9"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Rhodamine Green",
+      "PreferredShortName":"RhoGreen",
+      "ExcitationMaximum(nm)":505,
+      "EmissionMaximum(nm)":527,
+      "CAS#":"189200-71-3"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Rhodamine Red",
+      "PreferredShortName":"RhoRed",
+      "ExcitationMaximum(nm)":573,
+      "EmissionMaximum(nm)":591,
+      "CAS#":"99752-92-8"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Rhodamine Red-X",
+      "PreferredShortName":"RhoRed-X",
+      "ExcitationMaximum(nm)":560,
+      "EmissionMaximum(nm)":580,
+      "CAS#":"178623-12-6"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"RiboFlavin",
+      "PreferredShortName":"RiboFlavin",
+      "ExcitationMaximum(nm)":266,
+      "EmissionMaximum(nm)":531,
+      "CAS#":"83-88-5"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"SNARF-1",
+      "PreferredShortName":"SNARF1",
+      "ExcitationMaximum(nm)":549,
+      "EmissionMaximum(nm)":586,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Spectral Red",
+      "PreferredShortName":"Spectral-Red",
+      "ExcitationMaximum(nm)":506,
+      "EmissionMaximum(nm)":665,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"SureLight P1",
+      "PreferredShortName":"SureLight-P1",
+      "ExcitationMaximum(nm)":545,
+      "EmissionMaximum(nm)":667,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"SureLight P3",
+      "PreferredShortName":"SureLight-P3",
+      "ExcitationMaximum(nm)":614,
+      "EmissionMaximum(nm)":662,
+      "CAS#":"1365659-06-8"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"SYBR Green",
+      "PreferredShortName":"SYBRGreen",
+      "ExcitationMaximum(nm)":498,
+      "EmissionMaximum(nm)":522,
+      "CAS#":"217087-73-5"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"SYTO 11",
+      "PreferredShortName":"SYTO-11",
+      "ExcitationMaximum(nm)":506,
+      "EmissionMaximum(nm)":526,
+      "CAS#":"173080-67-6"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"SYTO 13",
+      "PreferredShortName":"SYTO-13",
+      "ExcitationMaximum(nm)":488,
+      "EmissionMaximum(nm)":506,
+      "CAS#":"173080-69-8"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"SYTO 16",
+      "PreferredShortName":"SYTO-16",
+      "ExcitationMaximum(nm)":488,
+      "EmissionMaximum(nm)":520,
+      "CAS#":"173080-72-3"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"SYTO 17",
+      "PreferredShortName":"SYTO-17",
+      "ExcitationMaximum(nm)":618,
+      "EmissionMaximum(nm)":637,
+      "CAS#":"189233-66-7"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"SYTO 45",
+      "PreferredShortName":"SYTO-45",
+      "ExcitationMaximum(nm)":450,
+      "EmissionMaximum(nm)":486,
+      "CAS#":"335078-86-9"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"SYTO 59",
+      "PreferredShortName":"SYTO-59",
+      "ExcitationMaximum(nm)":622,
+      "EmissionMaximum(nm)":643,
+      "CAS#":"235422-34-1"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"SYTO 60",
+      "PreferredShortName":"SYTO-60",
+      "ExcitationMaximum(nm)":650,
+      "EmissionMaximum(nm)":681,
+      "CAS#":"335079-14-6"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"SYTO 61",
+      "PreferredShortName":"SYTO-61",
+      "ExcitationMaximum(nm)":618,
+      "EmissionMaximum(nm)":651,
+      "CAS#":"335079-15-7"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"SYTO 62",
+      "PreferredShortName":"SYTO-62",
+      "ExcitationMaximum(nm)":650,
+      "EmissionMaximum(nm)":681,
+      "CAS#":"286951-08-4"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"SYTO 82",
+      "PreferredShortName":"SYTO-82",
+      "ExcitationMaximum(nm)":540,
+      "EmissionMaximum(nm)":560,
+      "CAS#":"335079-10-2"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"SYTO 9",
+      "PreferredShortName":"SYTO-9",
+      "ExcitationMaximum(nm)":482,
+      "EmissionMaximum(nm)":500,
+      "CAS#":"208540-89-0"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"SYTOX AADvanced Stain",
+      "PreferredShortName":"SYTOX-AAD",
+      "ExcitationMaximum(nm)":546,
+      "EmissionMaximum(nm)":646,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"SYTOX Blue Stain",
+      "PreferredShortName":"SYTOX-B",
+      "ExcitationMaximum(nm)":431,
+      "EmissionMaximum(nm)":480,
+      "CAS#":"396077-00-2"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"SYTOX Green Stain",
+      "PreferredShortName":"SYTOX-G",
+      "ExcitationMaximum(nm)":504,
+      "EmissionMaximum(nm)":523,
+      "CAS#":"194100-76-0"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"SYTOX Orange Stain",
+      "PreferredShortName":"SYTOX-O",
+      "ExcitationMaximum(nm)":547,
+      "EmissionMaximum(nm)":570,
+      "CAS#":"324767-53-5"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"SYTOX Red Stain",
+      "PreferredShortName":"SYTOX-R",
+      "ExcitationMaximum(nm)":640,
+      "EmissionMaximum(nm)":658,
+      "CAS#":"915152-67-9"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"tdTomato",
+      "PreferredShortName":"tdTomato",
+      "ExcitationMaximum(nm)":554,
+      "EmissionMaximum(nm)":581,
+      "CAS#":"1114838-94-6"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Texas Red",
+      "PreferredShortName":"TxRed",
+      "ExcitationMaximum(nm)":589,
+      "EmissionMaximum(nm)":615,
+      "CAS#":"82354-19-6"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Thiazole Orange",
+      "PreferredShortName":"Thiazole-Orange",
+      "ExcitationMaximum(nm)":500,
+      "EmissionMaximum(nm)":530,
+      "CAS#":"107091-89-4"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"ThiolTracker Violet",
+      "PreferredShortName":"ThiolTracker-Vio",
+      "ExcitationMaximum(nm)":406,
+      "EmissionMaximum(nm)":526,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"TO-PRO-1",
+      "PreferredShortName":"TO-PRO-1",
+      "ExcitationMaximum(nm)":509,
+      "EmissionMaximum(nm)":533,
+      "CAS#":"157199-59-2"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"TO-PRO-3",
+      "PreferredShortName":"TO-PRO-3",
+      "ExcitationMaximum(nm)":642,
+      "EmissionMaximum(nm)":661,
+      "CAS#":"157199-63-8"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"TOTO-1",
+      "PreferredShortName":"TOTO-1",
+      "ExcitationMaximum(nm)":509,
+      "EmissionMaximum(nm)":533,
+      "CAS#":"143413-84-7"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"TOTO-3",
+      "PreferredShortName":"TOTO-3",
+      "ExcitationMaximum(nm)":642,
+      "EmissionMaximum(nm)":661,
+      "CAS#":"166196-17-4"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Tetramethylrhodamine",
+      "PreferredShortName":"TRITC",
+      "ExcitationMaximum(nm)":547,
+      "EmissionMaximum(nm)":572,
+      "CAS#":"745735-42-6"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"TruRed",
+      "PreferredShortName":"TruRed",
+      "ExcitationMaximum(nm)":490,
+      "EmissionMaximum(nm)":695,
+      "CAS#":"396076-95-2"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"V450",
+      "PreferredShortName":"V450",
+      "ExcitationMaximum(nm)":405,
+      "EmissionMaximum(nm)":448,
+      "CAS#":"1257844-82-8"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"V500",
+      "PreferredShortName":"V500",
+      "ExcitationMaximum(nm)":415,
+      "EmissionMaximum(nm)":500,
+      "CAS#":"1333160-12-5"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"VioBlue",
+      "PreferredShortName":"VioBlue",
+      "ExcitationMaximum(nm)":400,
+      "EmissionMaximum(nm)":452,
+      "CAS#":"1431147-59-9"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"VioGreen",
+      "PreferredShortName":"VioGreen",
+      "ExcitationMaximum(nm)":388,
+      "EmissionMaximum(nm)":520,
+      "CAS#":"-"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Vybrant DyeCycle Green",
+      "PreferredShortName":"VDC-Green",
+      "ExcitationMaximum(nm)":505,
+      "EmissionMaximum(nm)":535,
+      "CAS#":"1431152-50-9"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Vybrant DyeCycle Orange",
+      "PreferredShortName":"VDC-Orange",
+      "ExcitationMaximum(nm)":518,
+      "EmissionMaximum(nm)":563,
+      "CAS#":"1055990-89-0"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Vybrant DyeCycle Ruby",
+      "PreferredShortName":"VDC-Ruby",
+      "ExcitationMaximum(nm)":637,
+      "EmissionMaximum(nm)":686,
+      "CAS#":"1345202-72-3"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Vybrant DyeCycle Violet",
+      "PreferredShortName":"VDC-Violet",
+      "ExcitationMaximum(nm)":370,
+      "EmissionMaximum(nm)":436,
+      "CAS#":"1015439-88-9"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"Yellow Flourescent Protein",
+      "PreferredShortName":"YFP",
+      "ExcitationMaximum(nm)":505,
+      "EmissionMaximum(nm)":530,
+      "CAS#":"1477601-52-7"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"YO-PRO-1",
+      "PreferredShortName":"YO-PRO-1",
+      "ExcitationMaximum(nm)":491,
+      "EmissionMaximum(nm)":506,
+      "CAS#":"152068-09-2"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"YO-PRO-3",
+      "PreferredShortName":"YO-PRO-3",
+      "ExcitationMaximum(nm)":613,
+      "EmissionMaximum(nm)":629,
+      "CAS#":"157199-62-7"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"YOYO-1",
+      "PreferredShortName":"YOYO-1",
+      "ExcitationMaximum(nm)":491,
+      "EmissionMaximum(nm)":509,
+      "CAS#":"143413-85-8"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"YOYO-3",
+      "PreferredShortName":"YOYO-3",
+      "ExcitationMaximum(nm)":613,
+      "EmissionMaximum(nm)":629,
+      "CAS#":"156312-20-8"
+    },
+    {
+      "File":"ISAC Blenman Probe Tag Dictionary 2016 Fluorescence.xlsx#Fluorescence",
+      "ProbeTag":"ZsGreen",
+      "PreferredShortName":"ZsGreen",
+      "ExcitationMaximum(nm)":494,
+      "EmissionMaximum(nm)":517,
+      "CAS#":"1216871-88-3"
+    }
+  ]
+}
+{
+  "Isotope":[
+    {
+      "ProbeTag":"141 Praseodymium",
+      "PreferredShortName":"141Pr"
+    },
+    {
+      "ProbeTag":"142 Neodymium",
+      "PreferredShortName":"142Nd"
+    },
+    {
+      "ProbeTag":"143 Neodymium",
+      "PreferredShortName":"143Nd"
+    },
+    {
+      "ProbeTag":"144 Neodymium",
+      "PreferredShortName":"144Nd"
+    },
+    {
+      "ProbeTag":"145 Neodymium",
+      "PreferredShortName":"145Nd"
+    },
+    {
+      "ProbeTag":"146 Neodymium",
+      "PreferredShortName":"146Nd"
+    },
+    {
+      "ProbeTag":"147 Samarium",
+      "PreferredShortName":"147Sm"
+    },
+    {
+      "ProbeTag":"148 Neodymium",
+      "PreferredShortName":"148Nd"
+    },
+    {
+      "ProbeTag":"149 Samarium",
+      "PreferredShortName":"149Sm"
+    },
+    {
+      "ProbeTag":"150 Neodymium",
+      "PreferredShortName":"150Nd"
+    },
+    {
+      "ProbeTag":"151 Europium",
+      "PreferredShortName":"151Eu"
+    },
+    {
+      "ProbeTag":"152 Samarium",
+      "PreferredShortName":"152Sm"
+    },
+    {
+      "ProbeTag":"153 Europium",
+      "PreferredShortName":"153Eu"
+    },
+    {
+      "ProbeTag":"154 Samarium",
+      "PreferredShortName":"154Sm"
+    },
+    {
+      "ProbeTag":"155 Gadolinium",
+      "PreferredShortName":"155Gd"
+    },
+    {
+      "ProbeTag":"156 Gadolinium",
+      "PreferredShortName":"156Gd"
+    },
+    {
+      "ProbeTag":"158 Gadolinium",
+      "PreferredShortName":"158Gd"
+    },
+    {
+      "ProbeTag":"159 Terbium",
+      "PreferredShortName":"159Tb"
+    },
+    {
+      "ProbeTag":"160 Gadolinium",
+      "PreferredShortName":"160Gd"
+    },
+    {
+      "ProbeTag":"161 Dysprosium",
+      "PreferredShortName":"161Dy"
+    },
+    {
+      "ProbeTag":"162 Dysprosium",
+      "PreferredShortName":"162Dy"
+    },
+    {
+      "ProbeTag":"163 Dysprosium",
+      "PreferredShortName":"163Dy"
+    },
+    {
+      "ProbeTag":"164 Dysprosium",
+      "PreferredShortName":"164Dy"
+    },
+    {
+      "ProbeTag":"165 Holmium",
+      "PreferredShortName":"165Ho"
+    },
+    {
+      "ProbeTag":"166 Erbium",
+      "PreferredShortName":"166Er"
+    },
+    {
+      "ProbeTag":"167 Erbium",
+      "PreferredShortName":"167Er"
+    },
+    {
+      "ProbeTag":"168 Erbium",
+      "PreferredShortName":"168Er"
+    },
+    {
+      "ProbeTag":"169 Thulium",
+      "PreferredShortName":"169Tm"
+    },
+    {
+      "ProbeTag":"170 Erbium",
+      "PreferredShortName":"170Er"
+    },
+    {
+      "ProbeTag":"171 Ytterbium",
+      "PreferredShortName":"171Yb"
+    },
+    {
+      "ProbeTag":"172 Ytterbium",
+      "PreferredShortName":"172Yb"
+    },
+    {
+      "ProbeTag":"173 Ytterbium",
+      "PreferredShortName":"173Yb"
+    },
+    {
+      "ProbeTag":"174 Ytterbium",
+      "PreferredShortName":"174Yb"
+    },
+    {
+      "ProbeTag":"175 Lutetium",
+      "PreferredShortName":"175Lu"
+    },
+    {
+      "ProbeTag":"176 Ytterbium",
+      "PreferredShortName":"176Yb"
+    }
+  ]
+}
+{
+  "Chromogen":[
+    {
+      "ProbeTag":"3,3'-Diaminobenzidine",
+      "PreferredShortName":"DAB",
+      "PrecipitateColor":"Brown"
+    },
+    {
+      "ProbeTag":"3-amino-9-ethylcarbazole",
+      "PreferredShortName":"AEC",
+      "PrecipitateColor":"Red"
+    },
+    {
+      "ProbeTag":"5-bromo-4-chloro-3-indolyl phosphate + nitro blue tetrazolium",
+      "PreferredShortName":"BCIP-NBT",
+      "PrecipitateColor":"Indigo"
+    },
+    {
+      "ProbeTag":"Fuchsin",
+      "PreferredShortName":"Fuchsin",
+      "PrecipitateColor":"Red-Magenta"
+    },
+    {
+      "ProbeTag":"Permanent Red",
+      "PreferredShortName":"PermRed",
+      "PrecipitateColor":"Magenta"
+    },
+    {
+      "ProbeTag":"Discovery Purple",
+      "PreferredShortName":"DiscPurple",
+      "PrecipitateColor":"Purple"
+    },
+    {
+      "ProbeTag":"Discovery Silver",
+      "PreferredShortName":"DiscSilver",
+      "PrecipitateColor":"Silver"
+    },
+    {
+      "ProbeTag":"Discovery Yellow",
+      "PreferredShortName":"DiscYellow",
+      "PrecipitateColor":"Yellow"
+    },
+    {
+      "ProbeTag":"3,3\u2019,5,5\u2019-tetramethylbenzidine",
+      "PreferredShortName":"TMB",
+      "PrecipitateColor":"Blue"
+    },
+    {
+      "ProbeTag":"VECTOR Blue",
+      "PreferredShortName":"vctrBlue",
+      "PrecipitateColor":"Blue"
+    },
+    {
+      "ProbeTag":"VECTOR Black",
+      "PreferredShortName":"vctrBlack",
+      "PrecipitateColor":"Brown-Black"
+    },
+    {
+      "ProbeTag":"ImmPACT AMEC",
+      "PreferredShortName":"ipacAMEC",
+      "PrecipitateColor":"Red"
+    },
+    {
+      "ProbeTag":"VECTOR VIP",
+      "PreferredShortName":"vctrVIP",
+      "PrecipitateColor":"Purple"
+    },
+    {
+      "ProbeTag":"VECTOR SG",
+      "PreferredShortName":"vctrSG",
+      "PrecipitateColor":"Blue-Gray"
+    },
+    {
+      "ProbeTag":"VECTOR NovaRED",
+      "PreferredShortName":"vctrNovaRED",
+      "PrecipitateColor":"Red"
+    },
+    {
+      "ProbeTag":"5-bromo-4-chloro-3-indolyl-β-D-galactopyranoside",
+      "PreferredShortName":"X-gal",
+      "PrecipitateColor":"Blue-Green"
+    },
+    {
+      "ProbeTag":"Fast Red",
+      "PreferredShortName":"FastRed",
+      "PrecipitateColor":"Magenta"
+    },
+    {
+      "ProbeTag":"Fast Blue",
+      "PreferredShortName":"FastBlue",
+      "PrecipitateColor":"Blue"
+    },
+    {
+      "ProbeTag":"VECTOR Red",
+      "PreferredShortName":"vctrRed",
+      "PrecipitateColor":"Magenta"
+    },
+    {
+      "ProbeTag":"Betazoid DAB",
+      "PreferredShortName":"Betazoid-DAB",
+      "PrecipitateColor":"Brown"
+    },
+    {
+      "ProbeTag":"Cardassian DAB",
+      "PreferredShortName":"Cardassian-DAB",
+      "PrecipitateColor":"Black Brown"
+    },
+    {
+      "ProbeTag":"Romulin AEC",
+      "PreferredShortName":"Romulin-AEC",
+      "PrecipitateColor":"Brick Red"
+    },
+    {
+      "ProbeTag":"Bajoran Purple",
+      "PreferredShortName":"Bajoran-Purple",
+      "PrecipitateColor":"Purple"
+    },
+    {
+      "ProbeTag":"Vina Green",
+      "PreferredShortName":"Vina-Green",
+      "PrecipitateColor":"Green"
+    },
+    {
+      "ProbeTag":"Deep Space Black",
+      "PreferredShortName":"DS-Black",
+      "PrecipitateColor":"Black"
+    },
+    {
+      "ProbeTag":"Warp Red",
+      "PreferredShortName":"Warp-Red",
+      "PrecipitateColor":"Magenta"
+    },
+    {
+      "ProbeTag":"Vulcan Fast Red",
+      "PreferredShortName":"Vulcan-FastRed",
+      "PrecipitateColor":"Magenta"
+    },
+    {
+      "ProbeTag":"Ferangi Blue",
+      "PreferredShortName":"Ferangi-Blue",
+      "PrecipitateColor":"Royal Blue"
+    }
+  ]
+}
