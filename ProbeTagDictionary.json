@@ -1,2611 +1,3003 @@
 {
-   "ProbeTagDictionary":[
+  "ProbeTagDictionary" : [
+     {
+        "Fluorescence" : [           {
+              "Probe Tag" : "6-Carboxyfluorescein",
+              "Preferred Short Name" : "6-FAM",
+              "Excitation Maximum (nm)" : 492,
+              "Emission Maximum (nm)" : 518,
+              "CAS#" : "92557-81-8",
+              "Notes" : "N-hydroxysuccinimide ester formulation"
+           },
+           {
+              "Probe Tag" : "6-JOE",
+              "Preferred Short Name" : "6-JOE",
+              "Excitation Maximum (nm)" : 520,
+              "Emission Maximum (nm)" : 550,
+              "CAS#" : "113394-23-3",
+              "Notes" : "N-hydroxysuccinimide ester formulation"
+           },
+           {
+              "Probe Tag" : "7-Aminoactinomycin D",
+              "Preferred Short Name" : "7-AAD",
+              "Excitation Maximum (nm)" : 545,
+              "Emission Maximum (nm)" : 647,
+              "CAS#" : "7240-37-1",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Acridine Orange",
+              "Preferred Short Name" : "Acrid-O",
+              "Excitation Maximum (nm)" : 503,
+              "Emission Maximum (nm)" : 525,
+              "CAS#" : "65-61-2",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Alexa Fluor 350",
+              "Preferred Short Name" : "AF350",
+              "Excitation Maximum (nm)" : 343,
+              "Emission Maximum (nm)" : 442,
+              "CAS#" : "244636-14-4",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Alexa Fluor 405",
+              "Preferred Short Name" : "AF405",
+              "Excitation Maximum (nm)" : 401,
+              "Emission Maximum (nm)" : 425,
+              "CAS#" : "791637-08-6",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Alexa Fluor 430",
+              "Preferred Short Name" : "AF430",
+              "Excitation Maximum (nm)" : 433,
+              "Emission Maximum (nm)" : 541,
+              "CAS#" : "467233-94-9",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Alexa Fluor 488",
+              "Preferred Short Name" : "AF488",
+              "Excitation Maximum (nm)" : 496,
+              "Emission Maximum (nm)" : 519,
+              "CAS#" : "247144-99-6",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Alexa Fluor 500",
+              "Preferred Short Name" : "AF500",
+              "Excitation Maximum (nm)" : 503,
+              "Emission Maximum (nm)" : 525,
+              "CAS#" : "798557-08-1",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Alexa Fluor 514",
+              "Preferred Short Name" : "AF514",
+              "Excitation Maximum (nm)" : 517,
+              "Emission Maximum (nm)" : 542,
+              "CAS#" : "798557-07-0",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Alexa Fluor 532",
+              "Preferred Short Name" : "AF532",
+              "Excitation Maximum (nm)" : 532,
+              "Emission Maximum (nm)" : 553,
+              "CAS#" : "222159-92-4",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Alexa Fluor 546",
+              "Preferred Short Name" : "AF546",
+              "Excitation Maximum (nm)" : 556,
+              "Emission Maximum (nm)" : 573,
+              "CAS#" : "247145-23-9",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Alexa Fluor 555",
+              "Preferred Short Name" : "AF555",
+              "Excitation Maximum (nm)" : 555,
+              "Emission Maximum (nm)" : 565,
+              "CAS#" : "644990-77-2",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Alexa Fluor 568",
+              "Preferred Short Name" : "AF568",
+              "Excitation Maximum (nm)" : 578,
+              "Emission Maximum (nm)" : 603,
+              "CAS#" : "247145-38-6",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Alexa Fluor 594",
+              "Preferred Short Name" : "AF594",
+              "Excitation Maximum (nm)" : 590,
+              "Emission Maximum (nm)" : 617,
+              "CAS#" : "247145-86-4",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Alexa Fluor 610",
+              "Preferred Short Name" : "AF610",
+              "Excitation Maximum (nm)" : 612,
+              "Emission Maximum (nm)" : 628,
+              "CAS#" : "900528-62-3",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Alexa Fluor 633",
+              "Preferred Short Name" : "AF633",
+              "Excitation Maximum (nm)" : 632,
+              "Emission Maximum (nm)" : 647,
+              "CAS#" : "477780-06-6",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Alexa Fluor 635",
+              "Preferred Short Name" : "AF635",
+              "Excitation Maximum (nm)" : 633,
+              "Emission Maximum (nm)" : 647,
+              "CAS#" : "945850-82-8",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Alexa Fluor 647",
+              "Preferred Short Name" : "AF647",
+              "Excitation Maximum (nm)" : 650,
+              "Emission Maximum (nm)" : 665,
+              "CAS#" : "400051-23-2",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Alexa Fluor 660",
+              "Preferred Short Name" : "AF660",
+              "Excitation Maximum (nm)" : 663,
+              "Emission Maximum (nm)" : 690,
+              "CAS#" : "422309-89-5",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Alexa Fluor 680",
+              "Preferred Short Name" : "AF680",
+              "Excitation Maximum (nm)" : 679,
+              "Emission Maximum (nm)" : 702,
+              "CAS#" : "422309-67-9",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Alexa Fluor 700",
+              "Preferred Short Name" : "AF700",
+              "Excitation Maximum (nm)" : 702,
+              "Emission Maximum (nm)" : 723,
+              "CAS#" : "697795-05-4",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Alexa Fluor 750",
+              "Preferred Short Name" : "AF750",
+              "Excitation Maximum (nm)" : 749,
+              "Emission Maximum (nm)" : 775,
+              "CAS#" : "697795-06-5",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Alexa Fluor 790",
+              "Preferred Short Name" : "AF790",
+              "Excitation Maximum (nm)" : 784,
+              "Emission Maximum (nm)" : 814,
+              "CAS#" : "950891-33-5",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Allophycocyanin",
+              "Preferred Short Name" : "APC",
+              "Excitation Maximum (nm)" : 650,
+              "Emission Maximum (nm)" : 660,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Anemonia Majano Cyan",
+              "Preferred Short Name" : "AmCyan",
+              "Excitation Maximum (nm)" : 457,
+              "Emission Maximum (nm)" : 489,
+              "CAS#" : "1216872-44-4",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Aminomethylcoumarin Acetate",
+              "Preferred Short Name" : "AMCA",
+              "Excitation Maximum (nm)" : 346,
+              "Emission Maximum (nm)" : 448,
+              "CAS#" : "106562-32-7",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Allophycocyanin-Alexa Fluor 680",
+              "Preferred Short Name" : "APC-AF680",
+              "Excitation Maximum (nm)" : 655,
+              "Emission Maximum (nm)" : 704,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Allophycocyanin-Alexa Fluor 700",
+              "Preferred Short Name" : "APC-AF700",
+              "Excitation Maximum (nm)" : 655,
+              "Emission Maximum (nm)" : 718,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Allophycocyanin-Alexa Fluor 750",
+              "Preferred Short Name" : "APC-AF750",
+              "Excitation Maximum (nm)" : 650,
+              "Emission Maximum (nm)" : 775,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Allophycocyanin-Cy5.5",
+              "Preferred Short Name" : "APC-Cy5.5",
+              "Excitation Maximum (nm)" : 650,
+              "Emission Maximum (nm)" : 695,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Allophycocyanin-Cy7",
+              "Preferred Short Name" : "APC-Cy7",
+              "Excitation Maximum (nm)" : 650,
+              "Emission Maximum (nm)" : 767,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Allophycocyanin-eFluor 750",
+              "Preferred Short Name" : "APC-eFluor750",
+              "Excitation Maximum (nm)" : 650,
+              "Emission Maximum (nm)" : 750,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Allophycocyanin-eFluor 780",
+              "Preferred Short Name" : "APC-eFluor780",
+              "Excitation Maximum (nm)" : 650,
+              "Emission Maximum (nm)" : 780,
+              "CAS#" : "1472056-77-1",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Allophycocyanin-H7",
+              "Preferred Short Name" : "APC-H7",
+              "Excitation Maximum (nm)" : 650,
+              "Emission Maximum (nm)" : 765,
+              "CAS#" : "1366000-62-5",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Allophycocyanin-Vio770",
+              "Preferred Short Name" : "APC-Vio770",
+              "Excitation Maximum (nm)" : 652,
+              "Emission Maximum (nm)" : 775,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Atto488",
+              "Preferred Short Name" : "ATTO488",
+              "Excitation Maximum (nm)" : 501,
+              "Emission Maximum (nm)" : 523,
+              "CAS#" : "923585-42-6",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "BODIPY FL",
+              "Preferred Short Name" : "BODIPY-FL",
+              "Excitation Maximum (nm)" : 502,
+              "Emission Maximum (nm)" : 511,
+              "CAS#" : "146616-66-2",
+              "Notes" : "N-hydroxysuccinimide ester formulation"
+           },
+           {
+              "Probe Tag" : "BODIPY R6G",
+              "Preferred Short Name" : "BODIPY-R6G",
+              "Excitation Maximum (nm)" : 527,
+              "Emission Maximum (nm)" : 547,
+              "CAS#" : "335193-70-9",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Brilliant Blue 515",
+              "Preferred Short Name" : "BB515",
+              "Excitation Maximum (nm)" : 490,
+              "Emission Maximum (nm)" : 515,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Brilliant Utraviolet 395",
+              "Preferred Short Name" : "BUV395",
+              "Excitation Maximum (nm)" : 348,
+              "Emission Maximum (nm)" : 395,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Brilliant Utraviolet 496",
+              "Preferred Short Name" : "BUV496",
+              "Excitation Maximum (nm)" : 348,
+              "Emission Maximum (nm)" : 496,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Brilliant Utraviolet 563",
+              "Preferred Short Name" : "BUV563",
+              "Excitation Maximum (nm)" : 348,
+              "Emission Maximum (nm)" : 563,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Brilliant Utraviolet 661",
+              "Preferred Short Name" : "BUV661",
+              "Excitation Maximum (nm)" : 348,
+              "Emission Maximum (nm)" : 661,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Brilliant Utraviolet 737",
+              "Preferred Short Name" : "BUV737",
+              "Excitation Maximum (nm)" : 348,
+              "Emission Maximum (nm)" : 737,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Brilliant Utraviolet 805",
+              "Preferred Short Name" : "BUV805",
+              "Excitation Maximum (nm)" : 348,
+              "Emission Maximum (nm)" : 805,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Brilliant Violet 421",
+              "Preferred Short Name" : "BV421",
+              "Excitation Maximum (nm)" : 406,
+              "Emission Maximum (nm)" : 423,
+              "CAS#" : "1428441-68-2",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Brilliant Violet 480",
+              "Preferred Short Name" : "BV480",
+              "Excitation Maximum (nm)" : 436,
+              "Emission Maximum (nm)" : 478,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Brilliant Violet 510",
+              "Preferred Short Name" : "BV510",
+              "Excitation Maximum (nm)" : 405,
+              "Emission Maximum (nm)" : 510,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Brilliant Violet 570",
+              "Preferred Short Name" : "BV570",
+              "Excitation Maximum (nm)" : 407,
+              "Emission Maximum (nm)" : 571,
+              "CAS#" : "1428441-76-2",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Brilliant Violet 605",
+              "Preferred Short Name" : "BV605",
+              "Excitation Maximum (nm)" : 407,
+              "Emission Maximum (nm)" : 603,
+              "CAS#" : "1632128-60-9",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Brilliant Violet 650",
+              "Preferred Short Name" : "BV650",
+              "Excitation Maximum (nm)" : 407,
+              "Emission Maximum (nm)" : 647,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Brilliant Violet 711",
+              "Preferred Short Name" : "BV711",
+              "Excitation Maximum (nm)" : 405,
+              "Emission Maximum (nm)" : 711,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Brilliant Violet 785",
+              "Preferred Short Name" : "BV785",
+              "Excitation Maximum (nm)" : 405,
+              "Emission Maximum (nm)" : 786,
+              "CAS#" : "1613592-44-1",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Brilliant Violet 786",
+              "Preferred Short Name" : "BV786",
+              "Excitation Maximum (nm)" : 407,
+              "Emission Maximum (nm)" : 786,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Calcein",
+              "Preferred Short Name" : "Calcein",
+              "Excitation Maximum (nm)" : 493,
+              "Emission Maximum (nm)" : 514,
+              "CAS#" : "1461-15-0",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Calcein Blue AM",
+              "Preferred Short Name" : "Calcein-BAM",
+              "Excitation Maximum (nm)" : 360,
+              "Emission Maximum (nm)" : 445,
+              "CAS#" : "168482-84-6",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Calcein Violet AM",
+              "Preferred Short Name" : "Calcein-VAM",
+              "Excitation Maximum (nm)" : 400,
+              "Emission Maximum (nm)" : 452,
+              "CAS#" : "148504-34-1",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Calcium Sensor Dye eFluor 514",
+              "Preferred Short Name" : "CSD-eFluor514",
+              "Excitation Maximum (nm)" : 490,
+              "Emission Maximum (nm)" : 514,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Carboxyfluorescein Diacetate Succinimidyl Ester",
+              "Preferred Short Name" : "CFDA-SE",
+              "Excitation Maximum (nm)" : 492,
+              "Emission Maximum (nm)" : 517,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Carboxyfluorescein Succinimidyl Ester",
+              "Preferred Short Name" : "CFSE",
+              "Excitation Maximum (nm)" : 492,
+              "Emission Maximum (nm)" : 525,
+              "CAS#" : "150347-59-4",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Cascade Blue",
+              "Preferred Short Name" : "Cascade-B",
+              "Excitation Maximum (nm)" : 401,
+              "Emission Maximum (nm)" : 420,
+              "CAS#" : "1325-87-7",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Cascade Yellow",
+              "Preferred Short Name" : "Cascade-Y",
+              "Excitation Maximum (nm)" : 400,
+              "Emission Maximum (nm)" : 550,
+              "CAS#" : "220930-95-0",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Cell Proliferation Dye eFluor 450",
+              "Preferred Short Name" : "CPD-eFluor450",
+              "Excitation Maximum (nm)" : 405,
+              "Emission Maximum (nm)" : 445,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Cell Proliferation Dye eFluor 670",
+              "Preferred Short Name" : "CPD-eFluor670",
+              "Excitation Maximum (nm)" : 652,
+              "Emission Maximum (nm)" : 672,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "CellTrace Violet Cell Proliferation",
+              "Preferred Short Name" : "CellTrace-Vio",
+              "Excitation Maximum (nm)" : 392,
+              "Emission Maximum (nm)" : 455,
+              "CAS#" : "1437217-10-1",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "CellVue Claret",
+              "Preferred Short Name" : "CellVue-Claret",
+              "Excitation Maximum (nm)" : 655,
+              "Emission Maximum (nm)" : 657,
+              "CAS#" : "1042142-46-0",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Cyanine 2",
+              "Preferred Short Name" : "Cy2",
+              "Excitation Maximum (nm)" : 492,
+              "Emission Maximum (nm)" : 507,
+              "CAS#" : "102185-03-5",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Cyanine 3",
+              "Preferred Short Name" : "Cy3",
+              "Excitation Maximum (nm)" : 552,
+              "Emission Maximum (nm)" : 566,
+              "CAS#" : "146368-16-3",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Cyanine 3.5",
+              "Preferred Short Name" : "Cy3.5",
+              "Excitation Maximum (nm)" : 581,
+              "Emission Maximum (nm)" : 598,
+              "CAS#" : "189767-45-1",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Cyanine 5",
+              "Preferred Short Name" : "Cy5",
+              "Excitation Maximum (nm)" : 633,
+              "Emission Maximum (nm)" : 670,
+              "CAS#" : "144377-05-9",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Cyanine 5.5",
+              "Preferred Short Name" : "Cy5.5",
+              "Excitation Maximum (nm)" : 677,
+              "Emission Maximum (nm)" : 695,
+              "CAS#" : "210892-23-2",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Cyanine 7",
+              "Preferred Short Name" : "Cy7",
+              "Excitation Maximum (nm)" : 743,
+              "Emission Maximum (nm)" : 767,
+              "CAS#" : "169799-14-8",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "CyQUANT DNA",
+              "Preferred Short Name" : "CyQUANT-GR",
+              "Excitation Maximum (nm)" : 502,
+              "Emission Maximum (nm)" : 522,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "CyTRAK Orange",
+              "Preferred Short Name" : "CyTRAK-O",
+              "Excitation Maximum (nm)" : 514,
+              "Emission Maximum (nm)" : 609,
+              "CAS#" : "1195771-25-5",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "DAPI",
+              "Preferred Short Name" : "DAPI",
+              "Excitation Maximum (nm)" : 358,
+              "Emission Maximum (nm)" : 462,
+              "CAS#" : "47165-04-8",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "DiA",
+              "Preferred Short Name" : "DiA",
+              "Excitation Maximum (nm)" : 455,
+              "Emission Maximum (nm)" : 586,
+              "CAS#" : "371114-38-4",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dichloro-Dihydro-Fluorescein",
+              "Preferred Short Name" : "DCF",
+              "Excitation Maximum (nm)" : 505,
+              "Emission Maximum (nm)" : 525,
+              "CAS#" : "106070-31-9",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "DiD",
+              "Preferred Short Name" : "DiD",
+              "Excitation Maximum (nm)" : 647,
+              "Emission Maximum (nm)" : 669,
+              "CAS#" : "127274-91-3",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dil",
+              "Preferred Short Name" : "Dil",
+              "Excitation Maximum (nm)" : 550,
+              "Emission Maximum (nm)" : 568,
+              "CAS#" : "41085-99-8",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "DiO",
+              "Preferred Short Name" : "DiO",
+              "Excitation Maximum (nm)" : 489,
+              "Emission Maximum (nm)" : 506,
+              "CAS#" : "34215-57-1",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "DiR",
+              "Preferred Short Name" : "DiR",
+              "Excitation Maximum (nm)" : 750,
+              "Emission Maximum (nm)" : 781,
+              "CAS#" : "100068-60-8",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "DRAQ5",
+              "Preferred Short Name" : "DRAQ5",
+              "Excitation Maximum (nm)" : 645,
+              "Emission Maximum (nm)" : 683,
+              "CAS#" : "254098-36-7",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "DRAQ7",
+              "Preferred Short Name" : "DRAQ7",
+              "Excitation Maximum (nm)" : 599,
+              "Emission Maximum (nm)" : 694,
+              "CAS#" : "1533453-55-2",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Discosoma sp. Red Fluorescent Protein",
+              "Preferred Short Name" : "DsRED",
+              "Excitation Maximum (nm)" : 532,
+              "Emission Maximum (nm)" : 595,
+              "CAS#" : "469863-23-8",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "DyLight 350",
+              "Preferred Short Name" : "DL350",
+              "Excitation Maximum (nm)" : 353,
+              "Emission Maximum (nm)" : 432,
+              "CAS#" : "1436849-83-0",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "DyLight 405",
+              "Preferred Short Name" : "DL405",
+              "Excitation Maximum (nm)" : 400,
+              "Emission Maximum (nm)" : 420,
+              "CAS#" : "1051927-09-3",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "DyLight 488",
+              "Preferred Short Name" : "DL488",
+              "Excitation Maximum (nm)" : 493,
+              "Emission Maximum (nm)" : 518,
+              "CAS#" : "1051927-12-8",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "DyLight 549",
+              "Preferred Short Name" : "DL549",
+              "Excitation Maximum (nm)" : 562,
+              "Emission Maximum (nm)" : 576,
+              "CAS#" : "1051927-13-9",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "DyLight 550",
+              "Preferred Short Name" : "DL550",
+              "Excitation Maximum (nm)" : 562,
+              "Emission Maximum (nm)" : 576,
+              "CAS#" : "1340586-78-8",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "DyLight 594",
+              "Preferred Short Name" : "DL594",
+              "Excitation Maximum (nm)" : 593,
+              "Emission Maximum (nm)" : 618,
+              "CAS#" : "1268612-00-5",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "DyLight 633",
+              "Preferred Short Name" : "DL633",
+              "Excitation Maximum (nm)" : 638,
+              "Emission Maximum (nm)" : 658,
+              "CAS#" : "1051927-14-0",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "DyLight 649",
+              "Preferred Short Name" : "DL649",
+              "Excitation Maximum (nm)" : 654,
+              "Emission Maximum (nm)" : 670,
+              "CAS#" : "1051927-15-1",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "DyLight 650",
+              "Preferred Short Name" : "DL650",
+              "Excitation Maximum (nm)" : 652,
+              "Emission Maximum (nm)" : 672,
+              "CAS#" : "1364214-13-0",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "DyLight 680",
+              "Preferred Short Name" : "DL680",
+              "Excitation Maximum (nm)" : 682,
+              "Emission Maximum (nm)" : 712,
+              "CAS#" : "1051927-24-2",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "DyLight 800",
+              "Preferred Short Name" : "DL800",
+              "Excitation Maximum (nm)" : 777,
+              "Emission Maximum (nm)" : 794,
+              "CAS#" : "1051927-23-1",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-350",
+              "Preferred Short Name" : "DY-350",
+              "Excitation Maximum (nm)" : 353,
+              "Emission Maximum (nm)" : 432,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-405",
+              "Preferred Short Name" : "DY-405",
+              "Excitation Maximum (nm)" : 400,
+              "Emission Maximum (nm)" : 423,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-415",
+              "Preferred Short Name" : "DY-415",
+              "Excitation Maximum (nm)" : 418,
+              "Emission Maximum (nm)" : 467,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-430",
+              "Preferred Short Name" : "DY-430",
+              "Excitation Maximum (nm)" : 444,
+              "Emission Maximum (nm)" : 487,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-431",
+              "Preferred Short Name" : "DY-431",
+              "Excitation Maximum (nm)" : 442,
+              "Emission Maximum (nm)" : 496,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-478",
+              "Preferred Short Name" : "DY-478",
+              "Excitation Maximum (nm)" : 478,
+              "Emission Maximum (nm)" : 518,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-490",
+              "Preferred Short Name" : "DY-490",
+              "Excitation Maximum (nm)" : 491,
+              "Emission Maximum (nm)" : 515,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-495",
+              "Preferred Short Name" : "DY-495",
+              "Excitation Maximum (nm)" : 493,
+              "Emission Maximum (nm)" : 521,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-505",
+              "Preferred Short Name" : "DY-505",
+              "Excitation Maximum (nm)" : 505,
+              "Emission Maximum (nm)" : 530,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-530",
+              "Preferred Short Name" : "DY-530",
+              "Excitation Maximum (nm)" : 539,
+              "Emission Maximum (nm)" : 561,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-547",
+              "Preferred Short Name" : "DY-547",
+              "Excitation Maximum (nm)" : 551,
+              "Emission Maximum (nm)" : 565,
+              "CAS#" : "947138-67-2",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-548",
+              "Preferred Short Name" : "DY-548",
+              "Excitation Maximum (nm)" : 558,
+              "Emission Maximum (nm)" : 572,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-549",
+              "Preferred Short Name" : "DY-549",
+              "Excitation Maximum (nm)" : 550,
+              "Emission Maximum (nm)" : 575,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-550",
+              "Preferred Short Name" : "DY-550",
+              "Excitation Maximum (nm)" : 553,
+              "Emission Maximum (nm)" : 578,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-554",
+              "Preferred Short Name" : "DY-554",
+              "Excitation Maximum (nm)" : 551,
+              "Emission Maximum (nm)" : 572,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-555",
+              "Preferred Short Name" : "DY-555",
+              "Excitation Maximum (nm)" : 547,
+              "Emission Maximum (nm)" : 572,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-556",
+              "Preferred Short Name" : "DY-556",
+              "Excitation Maximum (nm)" : 548,
+              "Emission Maximum (nm)" : 573,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-560",
+              "Preferred Short Name" : "DY-560",
+              "Excitation Maximum (nm)" : 559,
+              "Emission Maximum (nm)" : 578,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-590",
+              "Preferred Short Name" : "DY-590",
+              "Excitation Maximum (nm)" : 580,
+              "Emission Maximum (nm)" : 599,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-591",
+              "Preferred Short Name" : "DY-591",
+              "Excitation Maximum (nm)" : 581,
+              "Emission Maximum (nm)" : 598,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-594",
+              "Preferred Short Name" : "DY-594",
+              "Excitation Maximum (nm)" : 594,
+              "Emission Maximum (nm)" : 615,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-605",
+              "Preferred Short Name" : "DY-605",
+              "Excitation Maximum (nm)" : 600,
+              "Emission Maximum (nm)" : 624,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-610",
+              "Preferred Short Name" : "DY-610",
+              "Excitation Maximum (nm)" : 610,
+              "Emission Maximum (nm)" : 630,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-615",
+              "Preferred Short Name" : "DY-615",
+              "Excitation Maximum (nm)" : 621,
+              "Emission Maximum (nm)" : 641,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-630",
+              "Preferred Short Name" : "DY-630",
+              "Excitation Maximum (nm)" : 636,
+              "Emission Maximum (nm)" : 657,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-631",
+              "Preferred Short Name" : "DY-631",
+              "Excitation Maximum (nm)" : 637,
+              "Emission Maximum (nm)" : 658,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-632",
+              "Preferred Short Name" : "DY-632",
+              "Excitation Maximum (nm)" : 637,
+              "Emission Maximum (nm)" : 657,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-633",
+              "Preferred Short Name" : "DY-633",
+              "Excitation Maximum (nm)" : 637,
+              "Emission Maximum (nm)" : 657,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-634",
+              "Preferred Short Name" : "DY-634",
+              "Excitation Maximum (nm)" : 635,
+              "Emission Maximum (nm)" : 658,
+              "CAS#" : "1189010-49-8",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-635",
+              "Preferred Short Name" : "DY-635",
+              "Excitation Maximum (nm)" : 647,
+              "Emission Maximum (nm)" : 671,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-636",
+              "Preferred Short Name" : "DY-636",
+              "Excitation Maximum (nm)" : 645,
+              "Emission Maximum (nm)" : 671,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-647",
+              "Preferred Short Name" : "DY-647",
+              "Excitation Maximum (nm)" : 653,
+              "Emission Maximum (nm)" : 672,
+              "CAS#" : "890317-39-2",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-648",
+              "Preferred Short Name" : "DY-648",
+              "Excitation Maximum (nm)" : 653,
+              "Emission Maximum (nm)" : 674,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-649",
+              "Preferred Short Name" : "DY-649",
+              "Excitation Maximum (nm)" : 655,
+              "Emission Maximum (nm)" : 676,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-650",
+              "Preferred Short Name" : "DY-650",
+              "Excitation Maximum (nm)" : 653,
+              "Emission Maximum (nm)" : 674,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-651",
+              "Preferred Short Name" : "DY-651",
+              "Excitation Maximum (nm)" : 656,
+              "Emission Maximum (nm)" : 678,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-652",
+              "Preferred Short Name" : "DY-652",
+              "Excitation Maximum (nm)" : 654,
+              "Emission Maximum (nm)" : 675,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-654",
+              "Preferred Short Name" : "DY-654",
+              "Excitation Maximum (nm)" : 653,
+              "Emission Maximum (nm)" : 677,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-675",
+              "Preferred Short Name" : "DY-675",
+              "Excitation Maximum (nm)" : 674,
+              "Emission Maximum (nm)" : 699,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-676",
+              "Preferred Short Name" : "DY-676",
+              "Excitation Maximum (nm)" : 674,
+              "Emission Maximum (nm)" : 699,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-677",
+              "Preferred Short Name" : "DY-677",
+              "Excitation Maximum (nm)" : 673,
+              "Emission Maximum (nm)" : 694,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-678",
+              "Preferred Short Name" : "DY-678",
+              "Excitation Maximum (nm)" : 674,
+              "Emission Maximum (nm)" : 694,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-679",
+              "Preferred Short Name" : "DY-679",
+              "Excitation Maximum (nm)" : 679,
+              "Emission Maximum (nm)" : 697,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-680",
+              "Preferred Short Name" : "DY-680",
+              "Excitation Maximum (nm)" : 690,
+              "Emission Maximum (nm)" : 709,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-681",
+              "Preferred Short Name" : "DY-681",
+              "Excitation Maximum (nm)" : 691,
+              "Emission Maximum (nm)" : 708,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-682",
+              "Preferred Short Name" : "DY-682",
+              "Excitation Maximum (nm)" : 692,
+              "Emission Maximum (nm)" : 709,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-700",
+              "Preferred Short Name" : "DY-700",
+              "Excitation Maximum (nm)" : 707,
+              "Emission Maximum (nm)" : 730,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-701",
+              "Preferred Short Name" : "DY-701",
+              "Excitation Maximum (nm)" : 706,
+              "Emission Maximum (nm)" : 731,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-703",
+              "Preferred Short Name" : "DY-703",
+              "Excitation Maximum (nm)" : 705,
+              "Emission Maximum (nm)" : 721,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-704",
+              "Preferred Short Name" : "DY-704",
+              "Excitation Maximum (nm)" : 706,
+              "Emission Maximum (nm)" : 721,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-730",
+              "Preferred Short Name" : "DY-730",
+              "Excitation Maximum (nm)" : 732,
+              "Emission Maximum (nm)" : 758,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-731",
+              "Preferred Short Name" : "DY-731",
+              "Excitation Maximum (nm)" : 736,
+              "Emission Maximum (nm)" : 760,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-732",
+              "Preferred Short Name" : "DY-732",
+              "Excitation Maximum (nm)" : 736,
+              "Emission Maximum (nm)" : 759,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-734",
+              "Preferred Short Name" : "DY-734",
+              "Excitation Maximum (nm)" : 736,
+              "Emission Maximum (nm)" : 759,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-749",
+              "Preferred Short Name" : "DY-749",
+              "Excitation Maximum (nm)" : 759,
+              "Emission Maximum (nm)" : 780,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-750",
+              "Preferred Short Name" : "DY-750",
+              "Excitation Maximum (nm)" : 747,
+              "Emission Maximum (nm)" : 776,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-751",
+              "Preferred Short Name" : "DY-751",
+              "Excitation Maximum (nm)" : 751,
+              "Emission Maximum (nm)" : 779,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-752",
+              "Preferred Short Name" : "DY-752",
+              "Excitation Maximum (nm)" : 748,
+              "Emission Maximum (nm)" : 772,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-754",
+              "Preferred Short Name" : "DY-754",
+              "Excitation Maximum (nm)" : 748,
+              "Emission Maximum (nm)" : 771,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-776",
+              "Preferred Short Name" : "DY-776",
+              "Excitation Maximum (nm)" : 771,
+              "Emission Maximum (nm)" : 793,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-777",
+              "Preferred Short Name" : "DY-777",
+              "Excitation Maximum (nm)" : 770,
+              "Emission Maximum (nm)" : 788,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-778",
+              "Preferred Short Name" : "DY-778",
+              "Excitation Maximum (nm)" : 767,
+              "Emission Maximum (nm)" : 787,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-780",
+              "Preferred Short Name" : "DY-780",
+              "Excitation Maximum (nm)" : 782,
+              "Emission Maximum (nm)" : 800,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-781",
+              "Preferred Short Name" : "DY-781",
+              "Excitation Maximum (nm)" : 783,
+              "Emission Maximum (nm)" : 800,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-782",
+              "Preferred Short Name" : "DY-782",
+              "Excitation Maximum (nm)" : 783,
+              "Emission Maximum (nm)" : 800,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-800",
+              "Preferred Short Name" : "DY-800",
+              "Excitation Maximum (nm)" : 777,
+              "Emission Maximum (nm)" : 791,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Dynomics DY-831",
+              "Preferred Short Name" : "DY-831",
+              "Excitation Maximum (nm)" : 844,
+              "Emission Maximum (nm)" : "-",
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "EdU Alexa Fluor 488",
+              "Preferred Short Name" : "EdU-AF488",
+              "Excitation Maximum (nm)" : 496,
+              "Emission Maximum (nm)" : 516,
+              "CAS#" : "1431149-10-8",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "EdU Alexa Fluor 647",
+              "Preferred Short Name" : "EdU-AF647",
+              "Excitation Maximum (nm)" : 650,
+              "Emission Maximum (nm)" : 665,
+              "CAS#" : "1431155-07-5",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "EdU Pacific Blue",
+              "Preferred Short Name" : "EdU-PacBlue",
+              "Excitation Maximum (nm)" : 405,
+              "Emission Maximum (nm)" : 455,
+              "CAS#" : "1431148-70-7",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "eFluor 450",
+              "Preferred Short Name" : "eFluor450",
+              "Excitation Maximum (nm)" : 400,
+              "Emission Maximum (nm)" : 450,
+              "CAS#" : "1592653-87-6",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "eFluor 490",
+              "Preferred Short Name" : "eFluor490",
+              "Excitation Maximum (nm)" : 350,
+              "Emission Maximum (nm)" : 490,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "eFluor 506 Fixable Viability Dye",
+              "Preferred Short Name" : "eFluor506-FVD",
+              "Excitation Maximum (nm)" : 420,
+              "Emission Maximum (nm)" : 506,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "eFluor 525",
+              "Preferred Short Name" : "eFluor525",
+              "Excitation Maximum (nm)" : 350,
+              "Emission Maximum (nm)" : 525,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "eFluor 565",
+              "Preferred Short Name" : "eFluor565",
+              "Excitation Maximum (nm)" : 350,
+              "Emission Maximum (nm)" : 565,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "eFluor 585",
+              "Preferred Short Name" : "eFluor585",
+              "Excitation Maximum (nm)" : 350,
+              "Emission Maximum (nm)" : 604,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "eFluor 605",
+              "Preferred Short Name" : "eFluor605",
+              "Excitation Maximum (nm)" : 350,
+              "Emission Maximum (nm)" : 605,
+              "CAS#" : "1248429-27-7",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "eFluor 615",
+              "Preferred Short Name" : "eFluor615",
+              "Excitation Maximum (nm)" : 590,
+              "Emission Maximum (nm)" : 622,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "eFluor 625",
+              "Preferred Short Name" : "eFluor625",
+              "Excitation Maximum (nm)" : 350,
+              "Emission Maximum (nm)" : 625,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "eFluor 650",
+              "Preferred Short Name" : "eFluor650",
+              "Excitation Maximum (nm)" : 350,
+              "Emission Maximum (nm)" : 650,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "eFluor 660",
+              "Preferred Short Name" : "eFluor660",
+              "Excitation Maximum (nm)" : 633,
+              "Emission Maximum (nm)" : 658,
+              "CAS#" : "1634649-16-3",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "eFluor 670",
+              "Preferred Short Name" : "eFluor670",
+              "Excitation Maximum (nm)" : 647,
+              "Emission Maximum (nm)" : 670,
+              "CAS#" : "1437243-07-6",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "eFluor 700",
+              "Preferred Short Name" : "eFluor700",
+              "Excitation Maximum (nm)" : 350,
+              "Emission Maximum (nm)" : 700,
+              "CAS#" : "1431525-04-0",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "eFluor 710",
+              "Preferred Short Name" : "eFluor710",
+              "Excitation Maximum (nm)" : 350,
+              "Emission Maximum (nm)" : 710,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "eFluor 780 Fixable Viability Dye",
+              "Preferred Short Name" : "eFluor780-FVD",
+              "Excitation Maximum (nm)" : 755,
+              "Emission Maximum (nm)" : 780,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Emerald 300",
+              "Preferred Short Name" : "Emerald300",
+              "Excitation Maximum (nm)" : 289,
+              "Emission Maximum (nm)" : 530,
+              "CAS#" : "608142-29-6",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Enhanced Cyan Flourescent Protein",
+              "Preferred Short Name" : "ECFP",
+              "Excitation Maximum (nm)" : 435,
+              "Emission Maximum (nm)" : 477,
+              "CAS#" : "1416379-03-7",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Enhanced Green Fluorescent Protein",
+              "Preferred Short Name" : "EGFP",
+              "Excitation Maximum (nm)" : 480,
+              "Emission Maximum (nm)" : 510,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Enhanced Yellow Fluorescent Protein",
+              "Preferred Short Name" : "EYFP",
+              "Excitation Maximum (nm)" : 515,
+              "Emission Maximum (nm)" : 528,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Eosin",
+              "Preferred Short Name" : "Eosin",
+              "Excitation Maximum (nm)" : 525,
+              "Emission Maximum (nm)" : 546,
+              "CAS#" : "17372-87-1",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Ethidium Bromide",
+              "Preferred Short Name" : "EtBr",
+              "Excitation Maximum (nm)" : 523,
+              "Emission Maximum (nm)" : 604,
+              "CAS#" : "1239-45-8",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Ethidium Homodimer-1",
+              "Preferred Short Name" : "EtHD-1",
+              "Excitation Maximum (nm)" : 528,
+              "Emission Maximum (nm)" : 617,
+              "CAS#" : "61926-22-5",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Ethidium Monoazide EMA",
+              "Preferred Short Name" : "Et-MonoAz-EMA",
+              "Excitation Maximum (nm)" : 510,
+              "Emission Maximum (nm)" : 590,
+              "CAS#" : "58880-05-0",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Fluo-3",
+              "Preferred Short Name" : "Fluo-3",
+              "Excitation Maximum (nm)" : 506,
+              "Emission Maximum (nm)" : 526,
+              "CAS#" : "123632-39-3",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Fluo-4",
+              "Preferred Short Name" : "Fluo-4",
+              "Excitation Maximum (nm)" : 494,
+              "Emission Maximum (nm)" : 516,
+              "CAS#" : "273221-59-3",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Fluorescein Isothiocyanate",
+              "Preferred Short Name" : "Fluorescein",
+              "Excitation Maximum (nm)" : 500,
+              "Emission Maximum (nm)" : 520,
+              "CAS#" : "27072-45-3",
+              "Notes" : "aka FITC"
+           },
+           {
+              "Probe Tag" : "Fluorescein Mercuric Acetate",
+              "Preferred Short Name" : "Fluorescein",
+              "Excitation Maximum (nm)" : 495,
+              "Emission Maximum (nm)" : 520,
+              "CAS#" : "75350-46-8",
+              "Notes" : "aka FLMA"
+           },
+           {
+              "Probe Tag" : "Fluoro-Emerald",
+              "Preferred Short Name" : "Fluoro-Emerald",
+              "Excitation Maximum (nm)" : 495,
+              "Emission Maximum (nm)" : 523,
+              "CAS#" : "194369-11-4",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Fura Red",
+              "Preferred Short Name" : "Fura-Red",
+              "Excitation Maximum (nm)" : 435,
+              "Emission Maximum (nm)" : 670,
+              "CAS#" : "149732-62-7",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Fura-3",
+              "Preferred Short Name" : "Fura3",
+              "Excitation Maximum (nm)" : 325,
+              "Emission Maximum (nm)" : 510,
+              "CAS#" : "172890-84-5 ",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "FxCycle Far Red",
+              "Preferred Short Name" : "FxCycle-FR",
+              "Excitation Maximum (nm)" : 640,
+              "Emission Maximum (nm)" : 658,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "FxCycle Violet",
+              "Preferred Short Name" : "FxCycle-Vio",
+              "Excitation Maximum (nm)" : 358,
+              "Emission Maximum (nm)" : 462,
+              "CAS#" : "28718-90-3",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Green Fluorescent Protein - Violet Excitation",
+              "Preferred Short Name" : "GFP-Vex",
+              "Excitation Maximum (nm)" : 398,
+              "Emission Maximum (nm)" : 515,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Green Flourescent Protein",
+              "Preferred Short Name" : "GFP",
+              "Excitation Maximum (nm)" : 488,
+              "Emission Maximum (nm)" : 515,
+              "CAS#" : "147336-22-9",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "HiLyte Fluor 488",
+              "Preferred Short Name" : "HLF488",
+              "Excitation Maximum (nm)" : 501,
+              "Emission Maximum (nm)" : 527,
+              "CAS#" : "1051927-29-7",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "HiLyte Fluor 555",
+              "Preferred Short Name" : "HLF555",
+              "Excitation Maximum (nm)" : 550,
+              "Emission Maximum (nm)" : 566,
+              "CAS#" : "1051927-30-0",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "HiLyte Fluor 647",
+              "Preferred Short Name" : "HLF647",
+              "Excitation Maximum (nm)" : 649,
+              "Emission Maximum (nm)" : 674,
+              "CAS#" : "925693-87-4",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "HiLyte Fluor 680",
+              "Preferred Short Name" : "HLF680",
+              "Excitation Maximum (nm)" : 678,
+              "Emission Maximum (nm)" : 699,
+              "CAS#" : "1051927-34-4",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "HiLyte Fluor 750",
+              "Preferred Short Name" : "HLF750",
+              "Excitation Maximum (nm)" : 754,
+              "Emission Maximum (nm)" : 778,
+              "CAS#" : "1051927-32-2",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Hoechst 33258",
+              "Preferred Short Name" : "Hoechst-33258",
+              "Excitation Maximum (nm)" : 345,
+              "Emission Maximum (nm)" : 455,
+              "CAS#" : "23491-45-4",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Hoechst 33342",
+              "Preferred Short Name" : "Hoechst-33342",
+              "Excitation Maximum (nm)" : 343,
+              "Emission Maximum (nm)" : 455,
+              "CAS#" : "23491-52-3",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Hydroxycoumarin",
+              "Preferred Short Name" : "Hydroxycoumarin",
+              "Excitation Maximum (nm)" : 360,
+              "Emission Maximum (nm)" : 450,
+              "CAS#" : "43070-85-5",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Indo-1 Calcium Indicator",
+              "Preferred Short Name" : "Indo-1",
+              "Excitation Maximum (nm)" : 347,
+              "Emission Maximum (nm)" : 480,
+              "CAS#" : "96314-96-4",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "JC-1 Mitochondrial Potential Sensor",
+              "Preferred Short Name" : "JC-1",
+              "Excitation Maximum (nm)" : 593,
+              "Emission Maximum (nm)" : 595,
+              "CAS#" : "3520-43-2",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Krome Orange",
+              "Preferred Short Name" : "Krome-O",
+              "Excitation Maximum (nm)" : 398,
+              "Emission Maximum (nm)" : 530,
+              "CAS#" : "1558035-65-6",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Leadmium Green AM",
+              "Preferred Short Name" : "Leadmium",
+              "Excitation Maximum (nm)" : 490,
+              "Emission Maximum (nm)" : 520,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "LIVE/DEAD Fixable Aqua Dead Cell Stain",
+              "Preferred Short Name" : "LIVE/DEAD-Aqua",
+              "Excitation Maximum (nm)" : 367,
+              "Emission Maximum (nm)" : 526,
+              "CAS#" : "1431148-98-9",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "LIVE/DEAD Fixable Blue Dead Cell Stain",
+              "Preferred Short Name" : "LIVE/DEAD-Blue",
+              "Excitation Maximum (nm)" : 343,
+              "Emission Maximum (nm)" : 442,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "LIVE/DEAD Fixable Far Red Dead Cell Stain",
+              "Preferred Short Name" : "LIVE/DEAD-FarRed",
+              "Excitation Maximum (nm)" : 650,
+              "Emission Maximum (nm)" : 670,
+              "CAS#" : "1431155-49-5",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "LIVE/DEAD Fixable Green Dead Cell Stain",
+              "Preferred Short Name" : "LIVE/DEAD-Green",
+              "Excitation Maximum (nm)" : 498,
+              "Emission Maximum (nm)" : 525,
+              "CAS#" : "1431152-82-7",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "LIVE/DEAD Fixable Near-IR Dead Cell Stain",
+              "Preferred Short Name" : "LIVE/DEAD-Near-IR",
+              "Excitation Maximum (nm)" : 752,
+              "Emission Maximum (nm)" : 776,
+              "CAS#" : "1431159-71-5",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "LIVE/DEAD Fixable Red Dead Cell Stain",
+              "Preferred Short Name" : "LIVE/DEAD-Red",
+              "Excitation Maximum (nm)" : 594,
+              "Emission Maximum (nm)" : 612,
+              "CAS#" : "1431152-85-0",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "LIVE/DEAD Fixable Violet Dead Cell Stain",
+              "Preferred Short Name" : "LIVE/DEADiViolet",
+              "Excitation Maximum (nm)" : 403,
+              "Emission Maximum (nm)" : 455,
+              "CAS#" : "1431148-96-7",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "LIVE/DEAD Fixable Yellow Dead Cell Stain",
+              "Preferred Short Name" : "LIVE/DEAD-Yellow",
+              "Excitation Maximum (nm)" : 401,
+              "Emission Maximum (nm)" : 551,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Lucifer Yellow",
+              "Preferred Short Name" : "Lucifer-Yellow",
+              "Excitation Maximum (nm)" : 428,
+              "Emission Maximum (nm)" : 544,
+              "CAS#" : "82446-52-4",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Magnesium Green",
+              "Preferred Short Name" : "Magnesium-Green",
+              "Excitation Maximum (nm)" : 507,
+              "Emission Maximum (nm)" : 531,
+              "CAS#" : "170516-41-3",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Marina Blue",
+              "Preferred Short Name" : "Marina-Blue",
+              "Excitation Maximum (nm)" : 364,
+              "Emission Maximum (nm)" : 461,
+              "CAS#" : "215868-23-8",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "mBanana",
+              "Preferred Short Name" : "mBanana",
+              "Excitation Maximum (nm)" : 540,
+              "Emission Maximum (nm)" : 553,
+              "CAS#" : "1114839-40-5",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "mCherry",
+              "Preferred Short Name" : "mCherry",
+              "Excitation Maximum (nm)" : 587,
+              "Emission Maximum (nm)" : 610,
+              "CAS#" : "1628764-31-7",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "mCitrine",
+              "Preferred Short Name" : "mCitrine",
+              "Excitation Maximum (nm)" : 516,
+              "Emission Maximum (nm)" : 529,
+              "CAS#" : "1357606-54-2",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "MethylCoumarin",
+              "Preferred Short Name" : "MetCoumarin",
+              "Excitation Maximum (nm)" : 360,
+              "Emission Maximum (nm)" : 448,
+              "CAS#" : "1333-47-7",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "MitoTracker Green",
+              "Preferred Short Name" : "MitoTracker-Green",
+              "Excitation Maximum (nm)" : 490,
+              "Emission Maximum (nm)" : 512,
+              "CAS#" : "1304563-13-0",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "MitoTracker Orange",
+              "Preferred Short Name" : "MitoTracker-Orange",
+              "Excitation Maximum (nm)" : 550,
+              "Emission Maximum (nm)" : 575,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "MitoTracker Red",
+              "Preferred Short Name" : "MitoTracker-Red",
+              "Excitation Maximum (nm)" : 578,
+              "Emission Maximum (nm)" : 598,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "mOrange",
+              "Preferred Short Name" : "mOrange",
+              "Excitation Maximum (nm)" : 548,
+              "Emission Maximum (nm)" : 562,
+              "CAS#" : "1114839-60-9",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "mPlum",
+              "Preferred Short Name" : "mPlum",
+              "Excitation Maximum (nm)" : 590,
+              "Emission Maximum (nm)" : 649,
+              "CAS#" : "1399820-93-9",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "mRaspberry",
+              "Preferred Short Name" : "mRaspberry",
+              "Excitation Maximum (nm)" : 597,
+              "Emission Maximum (nm)" : 624,
+              "CAS#" : "1452799-41-5",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "mRed Fluorescent Protein",
+              "Preferred Short Name" : "mRFP",
+              "Excitation Maximum (nm)" : 584,
+              "Emission Maximum (nm)" : 607,
+              "CAS#" : "1452799-30-2",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "mStrawberry",
+              "Preferred Short Name" : "mStrawberry",
+              "Excitation Maximum (nm)" : 574,
+              "Emission Maximum (nm)" : 596,
+              "CAS#" : "1114834-99-9",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Na-Green",
+              "Preferred Short Name" : "Na-Green",
+              "Excitation Maximum (nm)" : 506,
+              "Emission Maximum (nm)" : 532,
+              "CAS#" : "195244-55-4",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Nile Red",
+              "Preferred Short Name" : "Nile-Red",
+              "Excitation Maximum (nm)" : 559,
+              "Emission Maximum (nm)" : 637,
+              "CAS#" : "7385-67-3",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "O\u2010Cresolphthalein Complexone",
+              "Preferred Short Name" : "CPC",
+              "Excitation Maximum (nm)" : 488,
+              "Emission Maximum (nm)" : 660,
+              "CAS#" : "2411-89-4",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Oregon Green",
+              "Preferred Short Name" : "Oregon-Gr488",
+              "Excitation Maximum (nm)" : 491,
+              "Emission Maximum (nm)" : 519,
+              "CAS#" : "195136-58-4",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Oregon Green 514",
+              "Preferred Short Name" : "Oregon-Gr514",
+              "Excitation Maximum (nm)" : 510,
+              "Emission Maximum (nm)" : 532,
+              "CAS#" : "198139-53-6",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Pacific Blue",
+              "Preferred Short Name" : "PacBlue",
+              "Excitation Maximum (nm)" : 405,
+              "Emission Maximum (nm)" : 455,
+              "CAS#" : "215868-31-8",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Pacific Orange",
+              "Preferred Short Name" : "PacOrange",
+              "Excitation Maximum (nm)" : 403,
+              "Emission Maximum (nm)" : 551,
+              "CAS#" : "1122414-42-9",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Phycoerythrin-Alexa Fluor 610",
+              "Preferred Short Name" : "PE-AF610",
+              "Excitation Maximum (nm)" : 563,
+              "Emission Maximum (nm)" : 628,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Phycoerythrin-Alexa Fluor 647",
+              "Preferred Short Name" : "PE-AF647",
+              "Excitation Maximum (nm)" : 567,
+              "Emission Maximum (nm)" : 669,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Phycoerythrin-Alexa Fluor 680",
+              "Preferred Short Name" : "PE-AF680",
+              "Excitation Maximum (nm)" : 570,
+              "Emission Maximum (nm)" : 702,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Phycoerythrin-Alexa Fluor 700",
+              "Preferred Short Name" : "PE-AF700",
+              "Excitation Maximum (nm)" : 563,
+              "Emission Maximum (nm)" : 720,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Phycoerythrin-Alexa Fluor 750",
+              "Preferred Short Name" : "PE-AF750",
+              "Excitation Maximum (nm)" : 570,
+              "Emission Maximum (nm)" : 776,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Phycoerythrin-CF594",
+              "Preferred Short Name" : "PE-CF594",
+              "Excitation Maximum (nm)" : 564,
+              "Emission Maximum (nm)" : 612,
+              "CAS#" : "1613592-67-8",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Phycoerythrin-Cy5",
+              "Preferred Short Name" : "PE-Cy5",
+              "Excitation Maximum (nm)" : 565,
+              "Emission Maximum (nm)" : 667,
+              "CAS#" : "1448849-77-1",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Phycoerythrin-Cy5.5",
+              "Preferred Short Name" : "PE-Cy5.5",
+              "Excitation Maximum (nm)" : 563,
+              "Emission Maximum (nm)" : 695,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Phycoerythrin-Cy7",
+              "Preferred Short Name" : "PE-Cy7",
+              "Excitation Maximum (nm)" : 563,
+              "Emission Maximum (nm)" : 760,
+              "CAS#" : "1429496-42-3",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Phycoerythrin-DY590",
+              "Preferred Short Name" : "PE-DY590",
+              "Excitation Maximum (nm)" : 563,
+              "Emission Maximum (nm)" : 599,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Phycoerythrin-DY647",
+              "Preferred Short Name" : "PE-DY647",
+              "Excitation Maximum (nm)" : 563,
+              "Emission Maximum (nm)" : 672,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Peridinin-Chlorophyll Proteins",
+              "Preferred Short Name" : "PerCP",
+              "Excitation Maximum (nm)" : 490,
+              "Emission Maximum (nm)" : 675,
+              "CAS#" : "422551-33-5",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Peridinin-Chlorophyll Proteins-Cy5.5",
+              "Preferred Short Name" : "PerCP-Cy5.5",
+              "Excitation Maximum (nm)" : 488,
+              "Emission Maximum (nm)" : 695,
+              "CAS#" : "1474026-81-7",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Peridinin-Chlorophyll Proteins-eFluor 710",
+              "Preferred Short Name" : "PerCP-eFluor710",
+              "Excitation Maximum (nm)" : 488,
+              "Emission Maximum (nm)" : 710,
+              "CAS#" : "1353683-31-4",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Phycoerythrin-Texas Red",
+              "Preferred Short Name" : "PE-TxRed",
+              "Excitation Maximum (nm)" : 563,
+              "Emission Maximum (nm)" : 613,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Phycoerythrin-Vio770",
+              "Preferred Short Name" : "PE-Vio770",
+              "Excitation Maximum (nm)" : 565,
+              "Emission Maximum (nm)" : 775,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "pHrodo Green STP Ester ",
+              "Preferred Short Name" : "pHrodo-Green",
+              "Excitation Maximum (nm)" : 509,
+              "Emission Maximum (nm)" : 533,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "pHrodo Red, succinimidyl ester",
+              "Preferred Short Name" : "pHrodo-Red",
+              "Excitation Maximum (nm)" : 560,
+              "Emission Maximum (nm)" : 585,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Phycocyanin",
+              "Preferred Short Name" : "PC",
+              "Excitation Maximum (nm)" : 617,
+              "Emission Maximum (nm)" : 646,
+              "CAS#" : "11016-15-2",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Phycoerythrin",
+              "Preferred Short Name" : "PE",
+              "Excitation Maximum (nm)" : 563,
+              "Emission Maximum (nm)" : 578,
+              "CAS#" : "11016-17-4",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "PicoGreen",
+              "Preferred Short Name" : "PicoGreen",
+              "Excitation Maximum (nm)" : 502,
+              "Emission Maximum (nm)" : 522,
+              "CAS#" : "177571-06-1",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "PKH2",
+              "Preferred Short Name" : "PKH2-Green",
+              "Excitation Maximum (nm)" : 490,
+              "Emission Maximum (nm)" : 504,
+              "CAS#" : "145687-07-6",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "PKH26",
+              "Preferred Short Name" : "PKH26-Red ",
+              "Excitation Maximum (nm)" : 551,
+              "Emission Maximum (nm)" : 567,
+              "CAS#" : "154214-55-8",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "PKH67",
+              "Preferred Short Name" : "PKH67",
+              "Excitation Maximum (nm)" : 490,
+              "Emission Maximum (nm)" : 504,
+              "CAS#" : "257277-27-3",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "POPO-1 Iodide",
+              "Preferred Short Name" : "POPO-1",
+              "Excitation Maximum (nm)" : 433,
+              "Emission Maximum (nm)" : 457,
+              "CAS#" : "169454-15-3",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "PO-PRO-1 Iodide",
+              "Preferred Short Name" : "PO-PRO-1",
+              "Excitation Maximum (nm)" : 435,
+              "Emission Maximum (nm)" : 457,
+              "CAS#" : "157199-56-9",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Propidium Iodide",
+              "Preferred Short Name" : "PI",
+              "Excitation Maximum (nm)" : 350,
+              "Emission Maximum (nm)" : 617,
+              "CAS#" : "25535-16-4",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Pyronin Y",
+              "Preferred Short Name" : "Pyronin-Y",
+              "Excitation Maximum (nm)" : 547,
+              "Emission Maximum (nm)" : 560,
+              "CAS#" : "92-32-0",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Quantum Dots 525",
+              "Preferred Short Name" : "QD525",
+              "Excitation Maximum (nm)" : 350,
+              "Emission Maximum (nm)" : 525,
+              "CAS#" : "885332-45-6",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Quantum Dots 545",
+              "Preferred Short Name" : "QD545",
+              "Excitation Maximum (nm)" : 350,
+              "Emission Maximum (nm)" : 545,
+              "CAS#" : "948906-89-6",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Quantum Dots 565",
+              "Preferred Short Name" : "QD565",
+              "Excitation Maximum (nm)" : 350,
+              "Emission Maximum (nm)" : 565,
+              "CAS#" : "859509-02-7",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Quantum Dots 585",
+              "Preferred Short Name" : "QD585",
+              "Excitation Maximum (nm)" : 350,
+              "Emission Maximum (nm)" : 585,
+              "CAS#" : "885332-46-7",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Quantum Dots 605",
+              "Preferred Short Name" : "QD605",
+              "Excitation Maximum (nm)" : 350,
+              "Emission Maximum (nm)" : 605,
+              "CAS#" : "849813-89-4",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Quantum Dots 625",
+              "Preferred Short Name" : "QD625",
+              "Excitation Maximum (nm)" : 350,
+              "Emission Maximum (nm)" : 625,
+              "CAS#" : "1144512-19-5",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Quantum Dots 655",
+              "Preferred Short Name" : "QD655",
+              "Excitation Maximum (nm)" : 350,
+              "Emission Maximum (nm)" : 655,
+              "CAS#" : "674287-64-0",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Quantum Dots 705",
+              "Preferred Short Name" : "QD705",
+              "Excitation Maximum (nm)" : 350,
+              "Emission Maximum (nm)" : 705,
+              "CAS#" : "885332-47-8",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Quantum Dots 800",
+              "Preferred Short Name" : "QD800",
+              "Excitation Maximum (nm)" : 350,
+              "Emission Maximum (nm)" : 800,
+              "CAS#" : "885332-50-3",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Rhodamine",
+              "Preferred Short Name" : "Rho",
+              "Excitation Maximum (nm)" : 550,
+              "Emission Maximum (nm)" : 570,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Rhodamine 110",
+              "Preferred Short Name" : "Rho110",
+              "Excitation Maximum (nm)" : 497,
+              "Emission Maximum (nm)" : 520,
+              "CAS#" : "13558-31-1",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Rhodamine 123",
+              "Preferred Short Name" : "Rho123",
+              "Excitation Maximum (nm)" : 507,
+              "Emission Maximum (nm)" : 529,
+              "CAS#" : "62669-70-9",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Rhodamine Green",
+              "Preferred Short Name" : "RhoGreen",
+              "Excitation Maximum (nm)" : 505,
+              "Emission Maximum (nm)" : 527,
+              "CAS#" : "189200-71-3",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Rhodamine Red",
+              "Preferred Short Name" : "RhoRed",
+              "Excitation Maximum (nm)" : 573,
+              "Emission Maximum (nm)" : 591,
+              "CAS#" : "99752-92-8",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Rhodamine Red-X",
+              "Preferred Short Name" : "RhoRed-X",
+              "Excitation Maximum (nm)" : 560,
+              "Emission Maximum (nm)" : 580,
+              "CAS#" : "178623-12-6",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "RiboFlavin",
+              "Preferred Short Name" : "RiboFlavin",
+              "Excitation Maximum (nm)" : 266,
+              "Emission Maximum (nm)" : 531,
+              "CAS#" : "83-88-5",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "SNARF-1",
+              "Preferred Short Name" : "SNARF1",
+              "Excitation Maximum (nm)" : 549,
+              "Emission Maximum (nm)" : 586,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Spectral Red",
+              "Preferred Short Name" : "Spectral-Red",
+              "Excitation Maximum (nm)" : 506,
+              "Emission Maximum (nm)" : 665,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "SureLight P1",
+              "Preferred Short Name" : "SureLight-P1",
+              "Excitation Maximum (nm)" : 545,
+              "Emission Maximum (nm)" : 667,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "SureLight P3",
+              "Preferred Short Name" : "SureLight-P3",
+              "Excitation Maximum (nm)" : 614,
+              "Emission Maximum (nm)" : 662,
+              "CAS#" : "1365659-06-8",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "SYBR Green",
+              "Preferred Short Name" : "SYBRGreen",
+              "Excitation Maximum (nm)" : 498,
+              "Emission Maximum (nm)" : 522,
+              "CAS#" : "217087-73-5",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "SYTO 11",
+              "Preferred Short Name" : "SYTO-11",
+              "Excitation Maximum (nm)" : 506,
+              "Emission Maximum (nm)" : 526,
+              "CAS#" : "173080-67-6",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "SYTO 13",
+              "Preferred Short Name" : "SYTO-13",
+              "Excitation Maximum (nm)" : 488,
+              "Emission Maximum (nm)" : 506,
+              "CAS#" : "173080-69-8",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "SYTO 16",
+              "Preferred Short Name" : "SYTO-16",
+              "Excitation Maximum (nm)" : 488,
+              "Emission Maximum (nm)" : 520,
+              "CAS#" : "173080-72-3",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "SYTO 17",
+              "Preferred Short Name" : "SYTO-17",
+              "Excitation Maximum (nm)" : 618,
+              "Emission Maximum (nm)" : 637,
+              "CAS#" : "189233-66-7",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "SYTO 45",
+              "Preferred Short Name" : "SYTO-45",
+              "Excitation Maximum (nm)" : 450,
+              "Emission Maximum (nm)" : 486,
+              "CAS#" : "335078-86-9",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "SYTO 59",
+              "Preferred Short Name" : "SYTO-59",
+              "Excitation Maximum (nm)" : 622,
+              "Emission Maximum (nm)" : 643,
+              "CAS#" : "235422-34-1",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "SYTO 60",
+              "Preferred Short Name" : "SYTO-60",
+              "Excitation Maximum (nm)" : 650,
+              "Emission Maximum (nm)" : 681,
+              "CAS#" : "335079-14-6",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "SYTO 61",
+              "Preferred Short Name" : "SYTO-61",
+              "Excitation Maximum (nm)" : 618,
+              "Emission Maximum (nm)" : 651,
+              "CAS#" : "335079-15-7",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "SYTO 62",
+              "Preferred Short Name" : "SYTO-62",
+              "Excitation Maximum (nm)" : 650,
+              "Emission Maximum (nm)" : 681,
+              "CAS#" : "286951-08-4",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "SYTO 82",
+              "Preferred Short Name" : "SYTO-82",
+              "Excitation Maximum (nm)" : 540,
+              "Emission Maximum (nm)" : 560,
+              "CAS#" : "335079-10-2",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "SYTO 9",
+              "Preferred Short Name" : "SYTO-9",
+              "Excitation Maximum (nm)" : 482,
+              "Emission Maximum (nm)" : 500,
+              "CAS#" : "208540-89-0",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "SYTOX AADvanced Stain",
+              "Preferred Short Name" : "SYTOX-AAD",
+              "Excitation Maximum (nm)" : 546,
+              "Emission Maximum (nm)" : 646,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "SYTOX Blue Stain",
+              "Preferred Short Name" : "SYTOX-B",
+              "Excitation Maximum (nm)" : 431,
+              "Emission Maximum (nm)" : 480,
+              "CAS#" : "396077-00-2",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "SYTOX Green Stain",
+              "Preferred Short Name" : "SYTOX-G",
+              "Excitation Maximum (nm)" : 504,
+              "Emission Maximum (nm)" : 523,
+              "CAS#" : "194100-76-0",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "SYTOX Orange Stain",
+              "Preferred Short Name" : "SYTOX-O",
+              "Excitation Maximum (nm)" : 547,
+              "Emission Maximum (nm)" : 570,
+              "CAS#" : "324767-53-5",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "SYTOX Red Stain",
+              "Preferred Short Name" : "SYTOX-R",
+              "Excitation Maximum (nm)" : 640,
+              "Emission Maximum (nm)" : 658,
+              "CAS#" : "915152-67-9",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "tdTomato",
+              "Preferred Short Name" : "tdTomato",
+              "Excitation Maximum (nm)" : 554,
+              "Emission Maximum (nm)" : 581,
+              "CAS#" : "1114838-94-6",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Texas Red",
+              "Preferred Short Name" : "TxRed",
+              "Excitation Maximum (nm)" : 589,
+              "Emission Maximum (nm)" : 615,
+              "CAS#" : "82354-19-6",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Thiazole Orange",
+              "Preferred Short Name" : "Thiazole-Orange",
+              "Excitation Maximum (nm)" : 500,
+              "Emission Maximum (nm)" : 530,
+              "CAS#" : "107091-89-4",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "ThiolTracker Violet",
+              "Preferred Short Name" : "ThiolTracker-Vio",
+              "Excitation Maximum (nm)" : 406,
+              "Emission Maximum (nm)" : 526,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "TO-PRO-1",
+              "Preferred Short Name" : "TO-PRO-1",
+              "Excitation Maximum (nm)" : 509,
+              "Emission Maximum (nm)" : 533,
+              "CAS#" : "157199-59-2",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "TO-PRO-3",
+              "Preferred Short Name" : "TO-PRO-3",
+              "Excitation Maximum (nm)" : 642,
+              "Emission Maximum (nm)" : 661,
+              "CAS#" : "157199-63-8",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "TOTO-1",
+              "Preferred Short Name" : "TOTO-1",
+              "Excitation Maximum (nm)" : 509,
+              "Emission Maximum (nm)" : 533,
+              "CAS#" : "143413-84-7",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "TOTO-3",
+              "Preferred Short Name" : "TOTO-3",
+              "Excitation Maximum (nm)" : 642,
+              "Emission Maximum (nm)" : 661,
+              "CAS#" : "166196-17-4",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Tetramethylrhodamine",
+              "Preferred Short Name" : "Rhodamine",
+              "Excitation Maximum (nm)" : 547,
+              "Emission Maximum (nm)" : 572,
+              "CAS#" : "745735-42-6",
+              "Notes" : "aka TRITC"
+           },
+           {
+              "Probe Tag" : "TruRed",
+              "Preferred Short Name" : "TruRed",
+              "Excitation Maximum (nm)" : 490,
+              "Emission Maximum (nm)" : 695,
+              "CAS#" : "396076-95-2",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "V450",
+              "Preferred Short Name" : "V450",
+              "Excitation Maximum (nm)" : 405,
+              "Emission Maximum (nm)" : 448,
+              "CAS#" : "1257844-82-8",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "V500",
+              "Preferred Short Name" : "V500",
+              "Excitation Maximum (nm)" : 415,
+              "Emission Maximum (nm)" : 500,
+              "CAS#" : "1333160-12-5",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "VioBlue",
+              "Preferred Short Name" : "VioBlue",
+              "Excitation Maximum (nm)" : 400,
+              "Emission Maximum (nm)" : 452,
+              "CAS#" : "1431147-59-9",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "VioGreen",
+              "Preferred Short Name" : "VioGreen",
+              "Excitation Maximum (nm)" : 388,
+              "Emission Maximum (nm)" : 520,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Vybrant DyeCycle Green",
+              "Preferred Short Name" : "VDC-Green",
+              "Excitation Maximum (nm)" : 505,
+              "Emission Maximum (nm)" : 535,
+              "CAS#" : "1431152-50-9",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Vybrant DyeCycle Orange",
+              "Preferred Short Name" : "VDC-Orange",
+              "Excitation Maximum (nm)" : 518,
+              "Emission Maximum (nm)" : 563,
+              "CAS#" : "1055990-89-0",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Vybrant DyeCycle Ruby",
+              "Preferred Short Name" : "VDC-Ruby",
+              "Excitation Maximum (nm)" : 637,
+              "Emission Maximum (nm)" : 686,
+              "CAS#" : "1345202-72-3",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Vybrant DyeCycle Violet",
+              "Preferred Short Name" : "VDC-Violet",
+              "Excitation Maximum (nm)" : 370,
+              "Emission Maximum (nm)" : 436,
+              "CAS#" : "1015439-88-9",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "Yellow Flourescent Protein",
+              "Preferred Short Name" : "YFP",
+              "Excitation Maximum (nm)" : 505,
+              "Emission Maximum (nm)" : 530,
+              "CAS#" : "1477601-52-7",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "YO-PRO-1",
+              "Preferred Short Name" : "YO-PRO-1",
+              "Excitation Maximum (nm)" : 491,
+              "Emission Maximum (nm)" : 506,
+              "CAS#" : "152068-09-2",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "YO-PRO-3",
+              "Preferred Short Name" : "YO-PRO-3",
+              "Excitation Maximum (nm)" : 613,
+              "Emission Maximum (nm)" : 629,
+              "CAS#" : "157199-62-7",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "YOYO-1",
+              "Preferred Short Name" : "YOYO-1",
+              "Excitation Maximum (nm)" : 491,
+              "Emission Maximum (nm)" : 509,
+              "CAS#" : "143413-85-8",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "YOYO-3",
+              "Preferred Short Name" : "YOYO-3",
+              "Excitation Maximum (nm)" : 613,
+              "Emission Maximum (nm)" : 629,
+              "CAS#" : "156312-20-8",
+              "Notes" : "-"
+           },
+           {
+              "Probe Tag" : "ZsGreen",
+              "Preferred Short Name" : "ZsGreen",
+              "Excitation Maximum (nm)" : 494,
+              "Emission Maximum (nm)" : 517,
+              "CAS#" : "1216871-88-3",
+              "Notes" : "-"
+           }
+         ]
+      },
       {
-         "Fluorescence":[
+         "Isotopes":[
             {
-               "ProbeTag":"6-Carboxyfluorescein",
-               "PreferredShortName":"6-FAM",
-               "ExcitationMaximum(nm)":492,
-               "EmissionMaximum(nm)":518,
-               "CAS#":"92557-81-8*"
+               "Probe Tag" : "141 Praseodymium",
+               "Preferred Short Name" : "141Pr",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"6-JOE",
-               "PreferredShortName":"6-JOE",
-               "ExcitationMaximum(nm)":520,
-               "EmissionMaximum(nm)":550,
-               "CAS#":"113394-23-3*"
+               "Probe Tag" : "142 Neodymium",
+               "Preferred Short Name" : "142Nd",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"7-Aminoactinomycin D",
-               "PreferredShortName":"7-AAD",
-               "ExcitationMaximum(nm)":545,
-               "EmissionMaximum(nm)":647,
-               "CAS#":"7240-37-1"
+               "Probe Tag" : "143 Neodymium",
+               "Preferred Short Name" : "143Nd",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Acridine Orange",
-               "PreferredShortName":"Acrid-O",
-               "ExcitationMaximum(nm)":503,
-               "EmissionMaximum(nm)":525,
-               "CAS#":"65-61-2"
+               "Probe Tag" : "144 Neodymium",
+               "Preferred Short Name" : "144Nd",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Alexa Fluor 350",
-               "PreferredShortName":"AF350",
-               "ExcitationMaximum(nm)":343,
-               "EmissionMaximum(nm)":442,
-               "CAS#":"244636-14-4"
+               "Probe Tag" : "145 Neodymium",
+               "Preferred Short Name" : "145Nd",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Alexa Fluor 405",
-               "PreferredShortName":"AF405",
-               "ExcitationMaximum(nm)":401,
-               "EmissionMaximum(nm)":425,
-               "CAS#":"791637-08-6"
+               "Probe Tag" : "146 Neodymium",
+               "Preferred Short Name" : "146Nd",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Alexa Fluor 430",
-               "PreferredShortName":"AF430",
-               "ExcitationMaximum(nm)":433,
-               "EmissionMaximum(nm)":541,
-               "CAS#":"467233-94-9"
+               "Probe Tag" : "147 Samarium",
+               "Preferred Short Name" : "147Sm",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Alexa Fluor 488",
-               "PreferredShortName":"AF488",
-               "ExcitationMaximum(nm)":496,
-               "EmissionMaximum(nm)":519,
-               "CAS#":"247144-99-6"
+               "Probe Tag" : "148 Neodymium",
+               "Preferred Short Name" : "148Nd",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Alexa Fluor 500",
-               "PreferredShortName":"AF500",
-               "ExcitationMaximum(nm)":503,
-               "EmissionMaximum(nm)":525,
-               "CAS#":"798557-08-1"
+               "Probe Tag" : "149 Samarium",
+               "Preferred Short Name" : "149Sm",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Alexa Fluor 514",
-               "PreferredShortName":"AF514",
-               "ExcitationMaximum(nm)":517,
-               "EmissionMaximum(nm)":542,
-               "CAS#":"798557-07-0"
+               "Probe Tag" : "150 Neodymium",
+               "Preferred Short Name" : "150Nd",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Alexa Fluor 532",
-               "PreferredShortName":"AF532",
-               "ExcitationMaximum(nm)":532,
-               "EmissionMaximum(nm)":553,
-               "CAS#":"222159-92-4"
+               "Probe Tag" : "151 Europium",
+               "Preferred Short Name" : "151Eu",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Alexa Fluor 546",
-               "PreferredShortName":"AF546",
-               "ExcitationMaximum(nm)":556,
-               "EmissionMaximum(nm)":573,
-               "CAS#":"247145-23-9"
+               "Probe Tag" : "152 Samarium",
+               "Preferred Short Name" : "152Sm",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Alexa Fluor 555",
-               "PreferredShortName":"AF555",
-               "ExcitationMaximum(nm)":555,
-               "EmissionMaximum(nm)":565,
-               "CAS#":"644990-77-2"
+               "Probe Tag" : "153 Europium",
+               "Preferred Short Name" : "153Eu",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Alexa Fluor 568",
-               "PreferredShortName":"AF568",
-               "ExcitationMaximum(nm)":578,
-               "EmissionMaximum(nm)":603,
-               "CAS#":"247145-38-6"
+               "Probe Tag" : "154 Samarium",
+               "Preferred Short Name" : "154Sm",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Alexa Fluor 594",
-               "PreferredShortName":"AF594",
-               "ExcitationMaximum(nm)":590,
-               "EmissionMaximum(nm)":617,
-               "CAS#":"247145-86-4"
+               "Probe Tag" : "155 Gadolinium",
+               "Preferred Short Name" : "155Gd",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Alexa Fluor 610",
-               "PreferredShortName":"AF610",
-               "ExcitationMaximum(nm)":612,
-               "EmissionMaximum(nm)":628,
-               "CAS#":"900528-62-3"
+               "Probe Tag" : "156 Gadolinium",
+               "Preferred Short Name" : "156Gd",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Alexa Fluor 633",
-               "PreferredShortName":"AF633",
-               "ExcitationMaximum(nm)":632,
-               "EmissionMaximum(nm)":647,
-               "CAS#":"477780-06-6"
+               "Probe Tag" : "158 Gadolinium",
+               "Preferred Short Name" : "158Gd",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Alexa Fluor 635",
-               "PreferredShortName":"AF635",
-               "ExcitationMaximum(nm)":633,
-               "EmissionMaximum(nm)":647,
-               "CAS#":"945850-82-8"
+               "Probe Tag" : "159 Terbium",
+               "Preferred Short Name" : "159Tb",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Alexa Fluor 647",
-               "PreferredShortName":"AF647",
-               "ExcitationMaximum(nm)":650,
-               "EmissionMaximum(nm)":665,
-               "CAS#":"400051-23-2"
+               "Probe Tag" : "160 Gadolinium",
+               "Preferred Short Name" : "160Gd",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Alexa Fluor 660",
-               "PreferredShortName":"AF660",
-               "ExcitationMaximum(nm)":663,
-               "EmissionMaximum(nm)":690,
-               "CAS#":"422309-89-5"
+               "Probe Tag" : "161 Dysprosium",
+               "Preferred Short Name" : "161Dy",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Alexa Fluor 680",
-               "PreferredShortName":"AF680",
-               "ExcitationMaximum(nm)":679,
-               "EmissionMaximum(nm)":702,
-               "CAS#":"422309-67-9"
+               "Probe Tag" : "162 Dysprosium",
+               "Preferred Short Name" : "162Dy",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Alexa Fluor 700",
-               "PreferredShortName":"AF700",
-               "ExcitationMaximum(nm)":702,
-               "EmissionMaximum(nm)":723,
-               "CAS#":"697795-05-4"
+               "Probe Tag" : "163 Dysprosium",
+               "Preferred Short Name" : "163Dy",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Alexa Fluor 750",
-               "PreferredShortName":"AF750",
-               "ExcitationMaximum(nm)":749,
-               "EmissionMaximum(nm)":775,
-               "CAS#":"697795-06-5"
+               "Probe Tag" : "164 Dysprosium",
+               "Preferred Short Name" : "164Dy",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Alexa Fluor 790",
-               "PreferredShortName":"AF790",
-               "ExcitationMaximum(nm)":784,
-               "EmissionMaximum(nm)":814,
-               "CAS#":"950891-33-5"
+               "Probe Tag" : "165 Holmium",
+               "Preferred Short Name" : "165Ho",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Allophycocyanin",
-               "PreferredShortName":"APC",
-               "ExcitationMaximum(nm)":650,
-               "EmissionMaximum(nm)":660,
-               "CAS#":"-"
+               "Probe Tag" : "166 Erbium",
+               "Preferred Short Name" : "166Er",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Anemonia Majano Cyan",
-               "PreferredShortName":"AmCyan",
-               "ExcitationMaximum(nm)":457,
-               "EmissionMaximum(nm)":489,
-               "CAS#":"1216872-44-4"
+               "Probe Tag" : "167 Erbium",
+               "Preferred Short Name" : "167Er",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Aminomethylcoumarin Acetate",
-               "PreferredShortName":"AMCA",
-               "ExcitationMaximum(nm)":346,
-               "EmissionMaximum(nm)":448,
-               "CAS#":"106562-32-7"
+               "Probe Tag" : "168 Erbium",
+               "Preferred Short Name" : "168Er",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Allophycocyanin-Alexa Fluor 680",
-               "PreferredShortName":"APC-AF680",
-               "ExcitationMaximum(nm)":655,
-               "EmissionMaximum(nm)":704,
-               "CAS#":"-"
+               "Probe Tag" : "169 Thulium",
+               "Preferred Short Name" : "169Tm",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Allophycocyanin-Alexa Fluor 700",
-               "PreferredShortName":"APC-AF700",
-               "ExcitationMaximum(nm)":655,
-               "EmissionMaximum(nm)":718,
-               "CAS#":"-"
+               "Probe Tag" : "170 Erbium",
+               "Preferred Short Name" : "170Er",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Allophycocyanin-Alexa Fluor 750",
-               "PreferredShortName":"APC-AF750",
-               "ExcitationMaximum(nm)":650,
-               "EmissionMaximum(nm)":775,
-               "CAS#":"-"
+               "Probe Tag" : "171 Ytterbium",
+               "Preferred Short Name" : "171Yb",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Allophycocyanin-Cy5.5",
-               "PreferredShortName":"APC-Cy5.5",
-               "ExcitationMaximum(nm)":650,
-               "EmissionMaximum(nm)":695,
-               "CAS#":"-"
+               "Probe Tag" : "172 Ytterbium",
+               "Preferred Short Name" : "172Yb",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Allophycocyanin-Cy7",
-               "PreferredShortName":"APC-Cy7",
-               "ExcitationMaximum(nm)":650,
-               "EmissionMaximum(nm)":767,
-               "CAS#":"-"
+               "Probe Tag" : "173 Ytterbium",
+               "Preferred Short Name" : "173Yb",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Allophycocyanin-eFluor 750",
-               "PreferredShortName":"APC-eFluor750",
-               "ExcitationMaximum(nm)":650,
-               "EmissionMaximum(nm)":750,
-               "CAS#":"-"
+               "Probe Tag" : "174 Ytterbium",
+               "Preferred Short Name" : "174Yb",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Allophycocyanin-eFluor 780",
-               "PreferredShortName":"APC-eFluor780",
-               "ExcitationMaximum(nm)":650,
-               "EmissionMaximum(nm)":780,
-               "CAS#":"1472056-77-1"
+               "Probe Tag" : "175 Lutetium",
+               "Preferred Short Name" : "175Lu",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"Allophycocyanin-H7",
-               "PreferredShortName":"APC-H7",
-               "ExcitationMaximum(nm)":650,
-               "EmissionMaximum(nm)":765,
-               "CAS#":"1366000-62-5"
-            },
-            {
-               "ProbeTag":"Allophycocyanin-Vio770",
-               "PreferredShortName":"APC-Vio770",
-               "ExcitationMaximum(nm)":652,
-               "EmissionMaximum(nm)":775,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Atto488",
-               "PreferredShortName":"ATTO488",
-               "ExcitationMaximum(nm)":501,
-               "EmissionMaximum(nm)":523,
-               "CAS#":"923585-42-6"
-            },
-            {
-               "ProbeTag":"BODIPY FL",
-               "PreferredShortName":"BODIPY-FL",
-               "ExcitationMaximum(nm)":502,
-               "EmissionMaximum(nm)":511,
-               "CAS#":"146616-66-2*"
-            },
-            {
-               "ProbeTag":"BODIPY R6G",
-               "PreferredShortName":"BODIPY-R6G",
-               "ExcitationMaximum(nm)":527,
-               "EmissionMaximum(nm)":547,
-               "CAS#":"335193-70-9"
-            },
-            {
-               "ProbeTag":"Brilliant Blue 515",
-               "PreferredShortName":"BB515",
-               "ExcitationMaximum(nm)":490,
-               "EmissionMaximum(nm)":515,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Brilliant Utraviolet 395",
-               "PreferredShortName":"BUV395",
-               "ExcitationMaximum(nm)":348,
-               "EmissionMaximum(nm)":395,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Brilliant Utraviolet 496",
-               "PreferredShortName":"BUV496",
-               "ExcitationMaximum(nm)":348,
-               "EmissionMaximum(nm)":496,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Brilliant Utraviolet 563",
-               "PreferredShortName":"BUV563",
-               "ExcitationMaximum(nm)":348,
-               "EmissionMaximum(nm)":563,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Brilliant Utraviolet 661",
-               "PreferredShortName":"BUV661",
-               "ExcitationMaximum(nm)":348,
-               "EmissionMaximum(nm)":661,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Brilliant Utraviolet 737",
-               "PreferredShortName":"BUV737",
-               "ExcitationMaximum(nm)":348,
-               "EmissionMaximum(nm)":737,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Brilliant Utraviolet 805",
-               "PreferredShortName":"BUV805",
-               "ExcitationMaximum(nm)":348,
-               "EmissionMaximum(nm)":805,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Brilliant Violet 421",
-               "PreferredShortName":"BV421",
-               "ExcitationMaximum(nm)":406,
-               "EmissionMaximum(nm)":423,
-               "CAS#":"1428441-68-2"
-            },
-            {
-               "ProbeTag":"Brilliant Violet 480",
-               "PreferredShortName":"BV480",
-               "ExcitationMaximum(nm)":436,
-               "EmissionMaximum(nm)":478,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Brilliant Violet 510",
-               "PreferredShortName":"BV510",
-               "ExcitationMaximum(nm)":405,
-               "EmissionMaximum(nm)":510,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Brilliant Violet 570",
-               "PreferredShortName":"BV570",
-               "ExcitationMaximum(nm)":407,
-               "EmissionMaximum(nm)":571,
-               "CAS#":"1428441-76-2"
-            },
-            {
-               "ProbeTag":"Brilliant Violet 605",
-               "PreferredShortName":"BV605",
-               "ExcitationMaximum(nm)":407,
-               "EmissionMaximum(nm)":603,
-               "CAS#":"1632128-60-9"
-            },
-            {
-               "ProbeTag":"Brilliant Violet 650",
-               "PreferredShortName":"BV650",
-               "ExcitationMaximum(nm)":407,
-               "EmissionMaximum(nm)":647,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Brilliant Violet 711",
-               "PreferredShortName":"BV711",
-               "ExcitationMaximum(nm)":405,
-               "EmissionMaximum(nm)":711,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Brilliant Violet 785",
-               "PreferredShortName":"BV785",
-               "ExcitationMaximum(nm)":405,
-               "EmissionMaximum(nm)":786,
-               "CAS#":"1613592-44-1"
-            },
-            {
-               "ProbeTag":"Brilliant Violet 786",
-               "PreferredShortName":"BV786",
-               "ExcitationMaximum(nm)":407,
-               "EmissionMaximum(nm)":786,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Calcein",
-               "PreferredShortName":"Calcein",
-               "ExcitationMaximum(nm)":493,
-               "EmissionMaximum(nm)":514,
-               "CAS#":"1461-15-0"
-            },
-            {
-               "ProbeTag":"Calcein Blue AM",
-               "PreferredShortName":"Calcein-BAM",
-               "ExcitationMaximum(nm)":360,
-               "EmissionMaximum(nm)":445,
-               "CAS#":"168482-84-6"
-            },
-            {
-               "ProbeTag":"Calcein Violet AM",
-               "PreferredShortName":"Calcein-VAM",
-               "ExcitationMaximum(nm)":400,
-               "EmissionMaximum(nm)":452,
-               "CAS#":"148504-34-1"
-            },
-            {
-               "ProbeTag":"Calcium Sensor Dye eFluor 514",
-               "PreferredShortName":"CSD-eFluor514",
-               "ExcitationMaximum(nm)":490,
-               "EmissionMaximum(nm)":514,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Carboxyfluorescein Diacetate Succinimidyl Ester",
-               "PreferredShortName":"CFDA-SE",
-               "ExcitationMaximum(nm)":492,
-               "EmissionMaximum(nm)":517,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Carboxyfluorescein Succinimidyl Ester",
-               "PreferredShortName":"CFSE",
-               "ExcitationMaximum(nm)":492,
-               "EmissionMaximum(nm)":525,
-               "CAS#":"150347-59-4"
-            },
-            {
-               "ProbeTag":"Cascade Blue",
-               "PreferredShortName":"Cascade-B",
-               "ExcitationMaximum(nm)":401,
-               "EmissionMaximum(nm)":420,
-               "CAS#":"1325-87-7"
-            },
-            {
-               "ProbeTag":"Cascade Yellow",
-               "PreferredShortName":"Cascade-Y",
-               "ExcitationMaximum(nm)":400,
-               "EmissionMaximum(nm)":550,
-               "CAS#":"220930-95-0"
-            },
-            {
-               "ProbeTag":"Cell Proliferation Dye eFluor 450",
-               "PreferredShortName":"CPD-eFluor450",
-               "ExcitationMaximum(nm)":405,
-               "EmissionMaximum(nm)":445,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Cell Proliferation Dye eFluor 670",
-               "PreferredShortName":"CPD-eFluor670",
-               "ExcitationMaximum(nm)":652,
-               "EmissionMaximum(nm)":672,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"CellTrace Violet Cell Proliferation",
-               "PreferredShortName":"CellTrace-Vio",
-               "ExcitationMaximum(nm)":392,
-               "EmissionMaximum(nm)":455,
-               "CAS#":"1437217-10-1"
-            },
-            {
-               "ProbeTag":"CellVue Claret",
-               "PreferredShortName":"CellVue-Claret",
-               "ExcitationMaximum(nm)":655,
-               "EmissionMaximum(nm)":657,
-               "CAS#":"1042142-46-0"
-            },
-            {
-               "ProbeTag":"Cyanine 2",
-               "PreferredShortName":"Cy2",
-               "ExcitationMaximum(nm)":492,
-               "EmissionMaximum(nm)":507,
-               "CAS#":"102185-03-5"
-            },
-            {
-               "ProbeTag":"Cyanine 3",
-               "PreferredShortName":"Cy3",
-               "ExcitationMaximum(nm)":552,
-               "EmissionMaximum(nm)":566,
-               "CAS#":"146368-16-3"
-            },
-            {
-               "ProbeTag":"Cyanine 3.5",
-               "PreferredShortName":"Cy3.5",
-               "ExcitationMaximum(nm)":581,
-               "EmissionMaximum(nm)":598,
-               "CAS#":"189767-45-1"
-            },
-            {
-               "ProbeTag":"Cyanine 5",
-               "PreferredShortName":"Cy5",
-               "ExcitationMaximum(nm)":633,
-               "EmissionMaximum(nm)":670,
-               "CAS#":"144377-05-9"
-            },
-            {
-               "ProbeTag":"Cyanine 5.5",
-               "PreferredShortName":"Cy5.5",
-               "ExcitationMaximum(nm)":677,
-               "EmissionMaximum(nm)":695,
-               "CAS#":"210892-23-2"
-            },
-            {
-               "ProbeTag":"Cyanine 7",
-               "PreferredShortName":"Cy7",
-               "ExcitationMaximum(nm)":743,
-               "EmissionMaximum(nm)":767,
-               "CAS#":"169799-14-8"
-            },
-            {
-               "ProbeTag":"CyQUANT DNA",
-               "PreferredShortName":"CyQUANT-GR",
-               "ExcitationMaximum(nm)":502,
-               "EmissionMaximum(nm)":522,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"CyTRAK Orange",
-               "PreferredShortName":"CyTRAK-O",
-               "ExcitationMaximum(nm)":514,
-               "EmissionMaximum(nm)":609,
-               "CAS#":"1195771-25-5"
-            },
-            {
-               "ProbeTag":"DAPI",
-               "PreferredShortName":"DAPI",
-               "ExcitationMaximum(nm)":358,
-               "EmissionMaximum(nm)":462,
-               "CAS#":"47165-04-8"
-            },
-            {
-               "ProbeTag":"DiA",
-               "PreferredShortName":"DiA",
-               "ExcitationMaximum(nm)":455,
-               "EmissionMaximum(nm)":586,
-               "CAS#":"371114-38-4"
-            },
-            {
-               "ProbeTag":"Dichloro-Dihydro-Fluorescein",
-               "PreferredShortName":"DCF",
-               "ExcitationMaximum(nm)":505,
-               "EmissionMaximum(nm)":525,
-               "CAS#":"106070-31-9"
-            },
-            {
-               "ProbeTag":"DiD",
-               "PreferredShortName":"DiD",
-               "ExcitationMaximum(nm)":647,
-               "EmissionMaximum(nm)":669,
-               "CAS#":"127274-91-3"
-            },
-            {
-               "ProbeTag":"Dil",
-               "PreferredShortName":"Dil",
-               "ExcitationMaximum(nm)":550,
-               "EmissionMaximum(nm)":568,
-               "CAS#":"41085-99-8"
-            },
-            {
-               "ProbeTag":"DiO",
-               "PreferredShortName":"DiO",
-               "ExcitationMaximum(nm)":489,
-               "EmissionMaximum(nm)":506,
-               "CAS#":"34215-57-1"
-            },
-            {
-               "ProbeTag":"DiR",
-               "PreferredShortName":"DiR",
-               "ExcitationMaximum(nm)":750,
-               "EmissionMaximum(nm)":781,
-               "CAS#":"100068-60-8"
-            },
-            {
-               "ProbeTag":"DRAQ5",
-               "PreferredShortName":"DRAQ5",
-               "ExcitationMaximum(nm)":645,
-               "EmissionMaximum(nm)":683,
-               "CAS#":"254098-36-7"
-            },
-            {
-               "ProbeTag":"DRAQ7",
-               "PreferredShortName":"DRAQ7",
-               "ExcitationMaximum(nm)":599,
-               "EmissionMaximum(nm)":694,
-               "CAS#":"1533453-55-2"
-            },
-            {
-               "ProbeTag":"Discosoma sp. Red Fluorescent Protein",
-               "PreferredShortName":"DsRED",
-               "ExcitationMaximum(nm)":532,
-               "EmissionMaximum(nm)":595,
-               "CAS#":"469863-23-8"
-            },
-            {
-               "ProbeTag":"DyLight 350",
-               "PreferredShortName":"DL350",
-               "ExcitationMaximum(nm)":353,
-               "EmissionMaximum(nm)":432,
-               "CAS#":"1436849-83-0"
-            },
-            {
-               "ProbeTag":"DyLight 405",
-               "PreferredShortName":"DL405",
-               "ExcitationMaximum(nm)":400,
-               "EmissionMaximum(nm)":420,
-               "CAS#":"1051927-09-3"
-            },
-            {
-               "ProbeTag":"DyLight 488",
-               "PreferredShortName":"DL488",
-               "ExcitationMaximum(nm)":493,
-               "EmissionMaximum(nm)":518,
-               "CAS#":"1051927-12-8"
-            },
-            {
-               "ProbeTag":"DyLight 549",
-               "PreferredShortName":"DL549",
-               "ExcitationMaximum(nm)":562,
-               "EmissionMaximum(nm)":576,
-               "CAS#":"1051927-13-9"
-            },
-            {
-               "ProbeTag":"DyLight 550",
-               "PreferredShortName":"DL550",
-               "ExcitationMaximum(nm)":562,
-               "EmissionMaximum(nm)":576,
-               "CAS#":"1340586-78-8"
-            },
-            {
-               "ProbeTag":"DyLight 594",
-               "PreferredShortName":"DL594",
-               "ExcitationMaximum(nm)":593,
-               "EmissionMaximum(nm)":618,
-               "CAS#":"1268612-00-5"
-            },
-            {
-               "ProbeTag":"DyLight 633",
-               "PreferredShortName":"DL633",
-               "ExcitationMaximum(nm)":638,
-               "EmissionMaximum(nm)":658,
-               "CAS#":"1051927-14-0"
-            },
-            {
-               "ProbeTag":"DyLight 649",
-               "PreferredShortName":"DL649",
-               "ExcitationMaximum(nm)":654,
-               "EmissionMaximum(nm)":670,
-               "CAS#":"1051927-15-1"
-            },
-            {
-               "ProbeTag":"DyLight 650",
-               "PreferredShortName":"DL650",
-               "ExcitationMaximum(nm)":652,
-               "EmissionMaximum(nm)":672,
-               "CAS#":"1364214-13-0"
-            },
-            {
-               "ProbeTag":"DyLight 680",
-               "PreferredShortName":"DL680",
-               "ExcitationMaximum(nm)":682,
-               "EmissionMaximum(nm)":712,
-               "CAS#":"1051927-24-2"
-            },
-            {
-               "ProbeTag":"DyLight 800",
-               "PreferredShortName":"DL800",
-               "ExcitationMaximum(nm)":777,
-               "EmissionMaximum(nm)":794,
-               "CAS#":"1051927-23-1"
-            },
-            {
-               "ProbeTag":"Dynomics DY-350",
-               "PreferredShortName":"DY-350",
-               "ExcitationMaximum(nm)":353,
-               "EmissionMaximum(nm)":432,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-405",
-               "PreferredShortName":"DY-405",
-               "ExcitationMaximum(nm)":400,
-               "EmissionMaximum(nm)":423,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-415",
-               "PreferredShortName":"DY-415",
-               "ExcitationMaximum(nm)":418,
-               "EmissionMaximum(nm)":467,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-430",
-               "PreferredShortName":"DY-430",
-               "ExcitationMaximum(nm)":444,
-               "EmissionMaximum(nm)":487,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-431",
-               "PreferredShortName":"DY-431",
-               "ExcitationMaximum(nm)":442,
-               "EmissionMaximum(nm)":496,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-478",
-               "PreferredShortName":"DY-478",
-               "ExcitationMaximum(nm)":478,
-               "EmissionMaximum(nm)":518,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-490",
-               "PreferredShortName":"DY-490",
-               "ExcitationMaximum(nm)":491,
-               "EmissionMaximum(nm)":515,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-495",
-               "PreferredShortName":"DY-495",
-               "ExcitationMaximum(nm)":493,
-               "EmissionMaximum(nm)":521,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-505",
-               "PreferredShortName":"DY-505",
-               "ExcitationMaximum(nm)":505,
-               "EmissionMaximum(nm)":530,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-530",
-               "PreferredShortName":"DY-530",
-               "ExcitationMaximum(nm)":539,
-               "EmissionMaximum(nm)":561,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-547",
-               "PreferredShortName":"DY-547",
-               "ExcitationMaximum(nm)":551,
-               "EmissionMaximum(nm)":565,
-               "CAS#":"947138-67-2"
-            },
-            {
-               "ProbeTag":"Dynomics DY-548",
-               "PreferredShortName":"DY-548",
-               "ExcitationMaximum(nm)":558,
-               "EmissionMaximum(nm)":572,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-549",
-               "PreferredShortName":"DY-549",
-               "ExcitationMaximum(nm)":550,
-               "EmissionMaximum(nm)":575,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-550",
-               "PreferredShortName":"DY-550",
-               "ExcitationMaximum(nm)":553,
-               "EmissionMaximum(nm)":578,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-554",
-               "PreferredShortName":"DY-554",
-               "ExcitationMaximum(nm)":551,
-               "EmissionMaximum(nm)":572,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-555",
-               "PreferredShortName":"DY-555",
-               "ExcitationMaximum(nm)":547,
-               "EmissionMaximum(nm)":572,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-556",
-               "PreferredShortName":"DY-556",
-               "ExcitationMaximum(nm)":548,
-               "EmissionMaximum(nm)":573,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-560",
-               "PreferredShortName":"DY-560",
-               "ExcitationMaximum(nm)":559,
-               "EmissionMaximum(nm)":578,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-590",
-               "PreferredShortName":"DY-590",
-               "ExcitationMaximum(nm)":580,
-               "EmissionMaximum(nm)":599,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-591",
-               "PreferredShortName":"DY-591",
-               "ExcitationMaximum(nm)":581,
-               "EmissionMaximum(nm)":598,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-594",
-               "PreferredShortName":"DY-594",
-               "ExcitationMaximum(nm)":594,
-               "EmissionMaximum(nm)":615,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-605",
-               "PreferredShortName":"DY-605",
-               "ExcitationMaximum(nm)":600,
-               "EmissionMaximum(nm)":624,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-610",
-               "PreferredShortName":"DY-610",
-               "ExcitationMaximum(nm)":610,
-               "EmissionMaximum(nm)":630,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-615",
-               "PreferredShortName":"DY-615",
-               "ExcitationMaximum(nm)":621,
-               "EmissionMaximum(nm)":641,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-630",
-               "PreferredShortName":"DY-630",
-               "ExcitationMaximum(nm)":636,
-               "EmissionMaximum(nm)":657,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-631",
-               "PreferredShortName":"DY-631",
-               "ExcitationMaximum(nm)":637,
-               "EmissionMaximum(nm)":658,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-632",
-               "PreferredShortName":"DY-632",
-               "ExcitationMaximum(nm)":637,
-               "EmissionMaximum(nm)":657,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-633",
-               "PreferredShortName":"DY-633",
-               "ExcitationMaximum(nm)":637,
-               "EmissionMaximum(nm)":657,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-634",
-               "PreferredShortName":"DY-634",
-               "ExcitationMaximum(nm)":635,
-               "EmissionMaximum(nm)":658,
-               "CAS#":"1189010-49-8"
-            },
-            {
-               "ProbeTag":"Dynomics DY-635",
-               "PreferredShortName":"DY-635",
-               "ExcitationMaximum(nm)":647,
-               "EmissionMaximum(nm)":671,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-636",
-               "PreferredShortName":"DY-636",
-               "ExcitationMaximum(nm)":645,
-               "EmissionMaximum(nm)":671,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-647",
-               "PreferredShortName":"DY-647",
-               "ExcitationMaximum(nm)":653,
-               "EmissionMaximum(nm)":672,
-               "CAS#":"890317-39-2"
-            },
-            {
-               "ProbeTag":"Dynomics DY-648",
-               "PreferredShortName":"DY-648",
-               "ExcitationMaximum(nm)":653,
-               "EmissionMaximum(nm)":674,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-649",
-               "PreferredShortName":"DY-649",
-               "ExcitationMaximum(nm)":655,
-               "EmissionMaximum(nm)":676,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-650",
-               "PreferredShortName":"DY-650",
-               "ExcitationMaximum(nm)":653,
-               "EmissionMaximum(nm)":674,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-651",
-               "PreferredShortName":"DY-651",
-               "ExcitationMaximum(nm)":656,
-               "EmissionMaximum(nm)":678,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-652",
-               "PreferredShortName":"DY-652",
-               "ExcitationMaximum(nm)":654,
-               "EmissionMaximum(nm)":675,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-654",
-               "PreferredShortName":"DY-654",
-               "ExcitationMaximum(nm)":653,
-               "EmissionMaximum(nm)":677,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-675",
-               "PreferredShortName":"DY-675",
-               "ExcitationMaximum(nm)":674,
-               "EmissionMaximum(nm)":699,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-676",
-               "PreferredShortName":"DY-676",
-               "ExcitationMaximum(nm)":674,
-               "EmissionMaximum(nm)":699,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-677",
-               "PreferredShortName":"DY-677",
-               "ExcitationMaximum(nm)":673,
-               "EmissionMaximum(nm)":694,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-678",
-               "PreferredShortName":"DY-678",
-               "ExcitationMaximum(nm)":674,
-               "EmissionMaximum(nm)":694,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-679",
-               "PreferredShortName":"DY-679",
-               "ExcitationMaximum(nm)":679,
-               "EmissionMaximum(nm)":697,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-680",
-               "PreferredShortName":"DY-680",
-               "ExcitationMaximum(nm)":690,
-               "EmissionMaximum(nm)":709,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-681",
-               "PreferredShortName":"DY-681",
-               "ExcitationMaximum(nm)":691,
-               "EmissionMaximum(nm)":708,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-682",
-               "PreferredShortName":"DY-682",
-               "ExcitationMaximum(nm)":692,
-               "EmissionMaximum(nm)":709,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-700",
-               "PreferredShortName":"DY-700",
-               "ExcitationMaximum(nm)":707,
-               "EmissionMaximum(nm)":730,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-701",
-               "PreferredShortName":"DY-701",
-               "ExcitationMaximum(nm)":706,
-               "EmissionMaximum(nm)":731,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-703",
-               "PreferredShortName":"DY-703",
-               "ExcitationMaximum(nm)":705,
-               "EmissionMaximum(nm)":721,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-704",
-               "PreferredShortName":"DY-704",
-               "ExcitationMaximum(nm)":706,
-               "EmissionMaximum(nm)":721,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-730",
-               "PreferredShortName":"DY-730",
-               "ExcitationMaximum(nm)":732,
-               "EmissionMaximum(nm)":758,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-731",
-               "PreferredShortName":"DY-731",
-               "ExcitationMaximum(nm)":736,
-               "EmissionMaximum(nm)":760,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-732",
-               "PreferredShortName":"DY-732",
-               "ExcitationMaximum(nm)":736,
-               "EmissionMaximum(nm)":759,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-734",
-               "PreferredShortName":"DY-734",
-               "ExcitationMaximum(nm)":736,
-               "EmissionMaximum(nm)":759,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-749",
-               "PreferredShortName":"DY-749",
-               "ExcitationMaximum(nm)":759,
-               "EmissionMaximum(nm)":780,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-750",
-               "PreferredShortName":"DY-750",
-               "ExcitationMaximum(nm)":747,
-               "EmissionMaximum(nm)":776,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-751",
-               "PreferredShortName":"DY-751",
-               "ExcitationMaximum(nm)":751,
-               "EmissionMaximum(nm)":779,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-752",
-               "PreferredShortName":"DY-752",
-               "ExcitationMaximum(nm)":748,
-               "EmissionMaximum(nm)":772,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-754",
-               "PreferredShortName":"DY-754",
-               "ExcitationMaximum(nm)":748,
-               "EmissionMaximum(nm)":771,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-776",
-               "PreferredShortName":"DY-776",
-               "ExcitationMaximum(nm)":771,
-               "EmissionMaximum(nm)":793,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-777",
-               "PreferredShortName":"DY-777",
-               "ExcitationMaximum(nm)":770,
-               "EmissionMaximum(nm)":788,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-778",
-               "PreferredShortName":"DY-778",
-               "ExcitationMaximum(nm)":767,
-               "EmissionMaximum(nm)":787,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-780",
-               "PreferredShortName":"DY-780",
-               "ExcitationMaximum(nm)":782,
-               "EmissionMaximum(nm)":800,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-781",
-               "PreferredShortName":"DY-781",
-               "ExcitationMaximum(nm)":783,
-               "EmissionMaximum(nm)":800,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-782",
-               "PreferredShortName":"DY-782",
-               "ExcitationMaximum(nm)":783,
-               "EmissionMaximum(nm)":800,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-800",
-               "PreferredShortName":"DY-800",
-               "ExcitationMaximum(nm)":777,
-               "EmissionMaximum(nm)":791,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Dynomics DY-831",
-               "PreferredShortName":"DY-831",
-               "ExcitationMaximum(nm)":844,
-               "EmissionMaximum(nm)":"-",
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"EdU Alexa Fluor 488",
-               "PreferredShortName":"EdU-AF488",
-               "ExcitationMaximum(nm)":496,
-               "EmissionMaximum(nm)":516,
-               "CAS#":"1431149-10-8"
-            },
-            {
-               "ProbeTag":"EdU Alexa Fluor 647",
-               "PreferredShortName":"EdU-AF647",
-               "ExcitationMaximum(nm)":650,
-               "EmissionMaximum(nm)":665,
-               "CAS#":"1431155-07-5"
-            },
-            {
-               "ProbeTag":"EdU Pacific Blue",
-               "PreferredShortName":"EdU-PacBlue",
-               "ExcitationMaximum(nm)":405,
-               "EmissionMaximum(nm)":455,
-               "CAS#":"1431148-70-7"
-            },
-            {
-               "ProbeTag":"eFluor 450",
-               "PreferredShortName":"eFluor450",
-               "ExcitationMaximum(nm)":400,
-               "EmissionMaximum(nm)":450,
-               "CAS#":"1592653-87-6"
-            },
-            {
-               "ProbeTag":"eFluor 490",
-               "PreferredShortName":"eFluor490",
-               "ExcitationMaximum(nm)":350,
-               "EmissionMaximum(nm)":490,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"eFluor 506 Fixable Viability Dye",
-               "PreferredShortName":"eFluor506-FVD",
-               "ExcitationMaximum(nm)":420,
-               "EmissionMaximum(nm)":506,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"eFluor 525",
-               "PreferredShortName":"eFluor525",
-               "ExcitationMaximum(nm)":350,
-               "EmissionMaximum(nm)":525,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"eFluor 565",
-               "PreferredShortName":"eFluor565",
-               "ExcitationMaximum(nm)":350,
-               "EmissionMaximum(nm)":565,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"eFluor 585",
-               "PreferredShortName":"eFluor585",
-               "ExcitationMaximum(nm)":350,
-               "EmissionMaximum(nm)":604,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"eFluor 605",
-               "PreferredShortName":"eFluor605",
-               "ExcitationMaximum(nm)":350,
-               "EmissionMaximum(nm)":605,
-               "CAS#":"1248429-27-7"
-            },
-            {
-               "ProbeTag":"eFluor 615",
-               "PreferredShortName":"eFluor615",
-               "ExcitationMaximum(nm)":590,
-               "EmissionMaximum(nm)":622,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"eFluor 625",
-               "PreferredShortName":"eFluor625",
-               "ExcitationMaximum(nm)":350,
-               "EmissionMaximum(nm)":625,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"eFluor 650",
-               "PreferredShortName":"eFluor650",
-               "ExcitationMaximum(nm)":350,
-               "EmissionMaximum(nm)":650,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"eFluor 660",
-               "PreferredShortName":"eFluor660",
-               "ExcitationMaximum(nm)":633,
-               "EmissionMaximum(nm)":658,
-               "CAS#":"1634649-16-3"
-            },
-            {
-               "ProbeTag":"eFluor 670",
-               "PreferredShortName":"eFluor670",
-               "ExcitationMaximum(nm)":647,
-               "EmissionMaximum(nm)":670,
-               "CAS#":"1437243-07-6"
-            },
-            {
-               "ProbeTag":"eFluor 700",
-               "PreferredShortName":"eFluor700",
-               "ExcitationMaximum(nm)":350,
-               "EmissionMaximum(nm)":700,
-               "CAS#":"1431525-04-0"
-            },
-            {
-               "ProbeTag":"eFluor 710",
-               "PreferredShortName":"eFluor710",
-               "ExcitationMaximum(nm)":350,
-               "EmissionMaximum(nm)":710,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"eFluor 780 Fixable Viability Dye",
-               "PreferredShortName":"eFluor780-FVD",
-               "ExcitationMaximum(nm)":755,
-               "EmissionMaximum(nm)":780,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Emerald 300",
-               "PreferredShortName":"Emerald300",
-               "ExcitationMaximum(nm)":289,
-               "EmissionMaximum(nm)":530,
-               "CAS#":"608142-29-6"
-            },
-            {
-               "ProbeTag":"Enhanced Cyan Flourescent Protein",
-               "PreferredShortName":"ECFP",
-               "ExcitationMaximum(nm)":435,
-               "EmissionMaximum(nm)":477,
-               "CAS#":"1416379-03-7"
-            },
-            {
-               "ProbeTag":"Enhanced Green Fluorescent Protein",
-               "PreferredShortName":"EGFP",
-               "ExcitationMaximum(nm)":480,
-               "EmissionMaximum(nm)":510,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Enhanced Yellow Fluorescent Protein",
-               "PreferredShortName":"EYFP",
-               "ExcitationMaximum(nm)":515,
-               "EmissionMaximum(nm)":528,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Eosin",
-               "PreferredShortName":"Eosin",
-               "ExcitationMaximum(nm)":525,
-               "EmissionMaximum(nm)":546,
-               "CAS#":"17372-87-1"
-            },
-            {
-               "ProbeTag":"Ethidium Bromide",
-               "PreferredShortName":"EtBr",
-               "ExcitationMaximum(nm)":523,
-               "EmissionMaximum(nm)":604,
-               "CAS#":"1239-45-8"
-            },
-            {
-               "ProbeTag":"Ethidium Homodimer-1",
-               "PreferredShortName":"EtHD-1",
-               "ExcitationMaximum(nm)":528,
-               "EmissionMaximum(nm)":617,
-               "CAS#":"61926-22-5"
-            },
-            {
-               "ProbeTag":"Ethidium Monoazide EMA",
-               "PreferredShortName":"Et-MonoAz-EMA",
-               "ExcitationMaximum(nm)":510,
-               "EmissionMaximum(nm)":590,
-               "CAS#":"58880-05-0"
-            },
-            {
-               "ProbeTag":"Fluo-3",
-               "PreferredShortName":"Fluo-3",
-               "ExcitationMaximum(nm)":506,
-               "EmissionMaximum(nm)":526,
-               "CAS#":"123632-39-3"
-            },
-            {
-               "ProbeTag":"Fluo-4",
-               "PreferredShortName":"Fluo-4",
-               "ExcitationMaximum(nm)":494,
-               "EmissionMaximum(nm)":516,
-               "CAS#":"273221-59-3"
-            },
-            {
-               "ProbeTag":"Fluorescein Isothiocyanate",
-               "PreferredShortName":"FITC",
-               "ExcitationMaximum(nm)":500,
-               "EmissionMaximum(nm)":520,
-               "CAS#":"27072-45-3"
-            },
-            {
-               "ProbeTag":"Fluorescein Mercuric Acetate",
-               "PreferredShortName":"FLMA",
-               "ExcitationMaximum(nm)":495,
-               "EmissionMaximum(nm)":520,
-               "CAS#":"75350-46-8"
-            },
-            {
-               "ProbeTag":"Fluoro-Emerald",
-               "PreferredShortName":"Fluoro-Emerald",
-               "ExcitationMaximum(nm)":495,
-               "EmissionMaximum(nm)":523,
-               "CAS#":"194369-11-4"
-            },
-            {
-               "ProbeTag":"Fura Red",
-               "PreferredShortName":"Fura-Red",
-               "ExcitationMaximum(nm)":435,
-               "EmissionMaximum(nm)":670,
-               "CAS#":"149732-62-7"
-            },
-            {
-               "ProbeTag":"Fura-3",
-               "PreferredShortName":"Fura3",
-               "ExcitationMaximum(nm)":325,
-               "EmissionMaximum(nm)":510,
-               "CAS#":"172890-84-5 "
-            },
-            {
-               "ProbeTag":"FxCycle Far Red",
-               "PreferredShortName":"FxCycle-FR",
-               "ExcitationMaximum(nm)":640,
-               "EmissionMaximum(nm)":658,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"FxCycle Violet",
-               "PreferredShortName":"FxCycle-Vio",
-               "ExcitationMaximum(nm)":358,
-               "EmissionMaximum(nm)":462,
-               "CAS#":"28718-90-3"
-            },
-            {
-               "ProbeTag":"Green Fluorescent Protein - Violet Excitation",
-               "PreferredShortName":"GFP-Vex",
-               "ExcitationMaximum(nm)":398,
-               "EmissionMaximum(nm)":515,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Green Flourescent Protein",
-               "PreferredShortName":"GFP",
-               "ExcitationMaximum(nm)":488,
-               "EmissionMaximum(nm)":515,
-               "CAS#":"147336-22-9"
-            },
-            {
-               "ProbeTag":"HiLyte Fluor 488",
-               "PreferredShortName":"HLF488",
-               "ExcitationMaximum(nm)":501,
-               "EmissionMaximum(nm)":527,
-               "CAS#":"1051927-29-7"
-            },
-            {
-               "ProbeTag":"HiLyte Fluor 555",
-               "PreferredShortName":"HLF555",
-               "ExcitationMaximum(nm)":550,
-               "EmissionMaximum(nm)":566,
-               "CAS#":"1051927-30-0"
-            },
-            {
-               "ProbeTag":"HiLyte Fluor 647",
-               "PreferredShortName":"HLF647",
-               "ExcitationMaximum(nm)":649,
-               "EmissionMaximum(nm)":674,
-               "CAS#":"925693-87-4"
-            },
-            {
-               "ProbeTag":"HiLyte Fluor 680",
-               "PreferredShortName":"HLF680",
-               "ExcitationMaximum(nm)":678,
-               "EmissionMaximum(nm)":699,
-               "CAS#":"1051927-34-4"
-            },
-            {
-               "ProbeTag":"HiLyte Fluor 750",
-               "PreferredShortName":"HLF750",
-               "ExcitationMaximum(nm)":754,
-               "EmissionMaximum(nm)":778,
-               "CAS#":"1051927-32-2"
-            },
-            {
-               "ProbeTag":"Hoechst 33258",
-               "PreferredShortName":"Hoechst-33258",
-               "ExcitationMaximum(nm)":345,
-               "EmissionMaximum(nm)":455,
-               "CAS#":"23491-45-4"
-            },
-            {
-               "ProbeTag":"Hoechst 33342",
-               "PreferredShortName":"Hoechst-33342",
-               "ExcitationMaximum(nm)":343,
-               "EmissionMaximum(nm)":455,
-               "CAS#":"23491-52-3"
-            },
-            {
-               "ProbeTag":"Hydroxycoumarin",
-               "PreferredShortName":"Hydroxycoumarin",
-               "ExcitationMaximum(nm)":360,
-               "EmissionMaximum(nm)":450,
-               "CAS#":"43070-85-5"
-            },
-            {
-               "ProbeTag":"Indo-1 Calcium Indicator",
-               "PreferredShortName":"Indo-1",
-               "ExcitationMaximum(nm)":347,
-               "EmissionMaximum(nm)":480,
-               "CAS#":"96314-96-4"
-            },
-            {
-               "ProbeTag":"JC-1 Mitochondrial Potential Sensor",
-               "PreferredShortName":"JC-1",
-               "ExcitationMaximum(nm)":593,
-               "EmissionMaximum(nm)":595,
-               "CAS#":"3520-43-2"
-            },
-            {
-               "ProbeTag":"Krome Orange",
-               "PreferredShortName":"Krome-O",
-               "ExcitationMaximum(nm)":398,
-               "EmissionMaximum(nm)":530,
-               "CAS#":"1558035-65-6"
-            },
-            {
-               "ProbeTag":"Leadmium Green AM",
-               "PreferredShortName":"Leadmium",
-               "ExcitationMaximum(nm)":490,
-               "EmissionMaximum(nm)":520,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"LIVE/DEAD Fixable Aqua Dead Cell Stain",
-               "PreferredShortName":"LIVE/DEAD-Aqua",
-               "ExcitationMaximum(nm)":367,
-               "EmissionMaximum(nm)":526,
-               "CAS#":"1431148-98-9"
-            },
-            {
-               "ProbeTag":"LIVE/DEAD Fixable Blue Dead Cell Stain",
-               "PreferredShortName":"LIVE/DEAD-Blue",
-               "ExcitationMaximum(nm)":343,
-               "EmissionMaximum(nm)":442,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"LIVE/DEAD Fixable Far Red Dead Cell Stain",
-               "PreferredShortName":"LIVE/DEAD-FarRed",
-               "ExcitationMaximum(nm)":650,
-               "EmissionMaximum(nm)":670,
-               "CAS#":"1431155-49-5"
-            },
-            {
-               "ProbeTag":"LIVE/DEAD Fixable Green Dead Cell Stain",
-               "PreferredShortName":"LIVE/DEAD-Green",
-               "ExcitationMaximum(nm)":498,
-               "EmissionMaximum(nm)":525,
-               "CAS#":"1431152-82-7"
-            },
-            {
-               "ProbeTag":"LIVE/DEAD Fixable Near-IR Dead Cell Stain",
-               "PreferredShortName":"LIVE/DEAD-Near-IR",
-               "ExcitationMaximum(nm)":752,
-               "EmissionMaximum(nm)":776,
-               "CAS#":"1431159-71-5"
-            },
-            {
-               "ProbeTag":"LIVE/DEAD Fixable Red Dead Cell Stain",
-               "PreferredShortName":"LIVE/DEAD-Red",
-               "ExcitationMaximum(nm)":594,
-               "EmissionMaximum(nm)":612,
-               "CAS#":"1431152-85-0"
-            },
-            {
-               "ProbeTag":"LIVE/DEAD Fixable Violet Dead Cell Stain",
-               "PreferredShortName":"LIVE/DEADiViolet",
-               "ExcitationMaximum(nm)":403,
-               "EmissionMaximum(nm)":455,
-               "CAS#":"1431148-96-7"
-            },
-            {
-               "ProbeTag":"LIVE/DEAD Fixable Yellow Dead Cell Stain",
-               "PreferredShortName":"LIVE/DEAD-Yellow",
-               "ExcitationMaximum(nm)":401,
-               "EmissionMaximum(nm)":551,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Lucifer Yellow",
-               "PreferredShortName":"Lucifer-Yellow",
-               "ExcitationMaximum(nm)":428,
-               "EmissionMaximum(nm)":544,
-               "CAS#":"82446-52-4"
-            },
-            {
-               "ProbeTag":"Magnesium Green",
-               "PreferredShortName":"Magnesium-Green",
-               "ExcitationMaximum(nm)":507,
-               "EmissionMaximum(nm)":531,
-               "CAS#":"170516-41-3"
-            },
-            {
-               "ProbeTag":"Marina Blue",
-               "PreferredShortName":"Marina-Blue",
-               "ExcitationMaximum(nm)":364,
-               "EmissionMaximum(nm)":461,
-               "CAS#":"215868-23-8"
-            },
-            {
-               "ProbeTag":"mBanana",
-               "PreferredShortName":"mBanana",
-               "ExcitationMaximum(nm)":540,
-               "EmissionMaximum(nm)":553,
-               "CAS#":"1114839-40-5"
-            },
-            {
-               "ProbeTag":"mCherry",
-               "PreferredShortName":"mCherry",
-               "ExcitationMaximum(nm)":587,
-               "EmissionMaximum(nm)":610,
-               "CAS#":"1628764-31-7"
-            },
-            {
-               "ProbeTag":"mCitrine",
-               "PreferredShortName":"mCitrine",
-               "ExcitationMaximum(nm)":516,
-               "EmissionMaximum(nm)":529,
-               "CAS#":"1357606-54-2"
-            },
-            {
-               "ProbeTag":"MethylCoumarin",
-               "PreferredShortName":"MetCoumarin",
-               "ExcitationMaximum(nm)":360,
-               "EmissionMaximum(nm)":448,
-               "CAS#":"1333-47-7"
-            },
-            {
-               "ProbeTag":"MitoTracker Green",
-               "PreferredShortName":"MitoTracker-Green",
-               "ExcitationMaximum(nm)":490,
-               "EmissionMaximum(nm)":512,
-               "CAS#":"1304563-13-0"
-            },
-            {
-               "ProbeTag":"MitoTracker Orange",
-               "PreferredShortName":"MitoTracker-Orange",
-               "ExcitationMaximum(nm)":550,
-               "EmissionMaximum(nm)":575,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"MitoTracker Red",
-               "PreferredShortName":"MitoTracker-Red",
-               "ExcitationMaximum(nm)":578,
-               "EmissionMaximum(nm)":598,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"mOrange",
-               "PreferredShortName":"mOrange",
-               "ExcitationMaximum(nm)":548,
-               "EmissionMaximum(nm)":562,
-               "CAS#":"1114839-60-9"
-            },
-            {
-               "ProbeTag":"mPlum",
-               "PreferredShortName":"mPlum",
-               "ExcitationMaximum(nm)":590,
-               "EmissionMaximum(nm)":649,
-               "CAS#":"1399820-93-9"
-            },
-            {
-               "ProbeTag":"mRaspberry",
-               "PreferredShortName":"mRaspberry",
-               "ExcitationMaximum(nm)":597,
-               "EmissionMaximum(nm)":624,
-               "CAS#":"1452799-41-5"
-            },
-            {
-               "ProbeTag":"mRed Fluorescent Protein",
-               "PreferredShortName":"mRFP",
-               "ExcitationMaximum(nm)":584,
-               "EmissionMaximum(nm)":607,
-               "CAS#":"1452799-30-2"
-            },
-            {
-               "ProbeTag":"mStrawberry",
-               "PreferredShortName":"mStrawberry",
-               "ExcitationMaximum(nm)":574,
-               "EmissionMaximum(nm)":596,
-               "CAS#":"1114834-99-9"
-            },
-            {
-               "ProbeTag":"Na-Green",
-               "PreferredShortName":"Na-Green",
-               "ExcitationMaximum(nm)":506,
-               "EmissionMaximum(nm)":532,
-               "CAS#":"195244-55-4"
-            },
-            {
-               "ProbeTag":"Nile Red",
-               "PreferredShortName":"Nile-Red",
-               "ExcitationMaximum(nm)":559,
-               "EmissionMaximum(nm)":637,
-               "CAS#":"7385-67-3"
-            },
-            {
-               "ProbeTag":"O\u2010Cresolphthalein Complexone",
-               "PreferredShortName":"CPC",
-               "ExcitationMaximum(nm)":488,
-               "EmissionMaximum(nm)":660,
-               "CAS#":"2411-89-4"
-            },
-            {
-               "ProbeTag":"Oregon Green",
-               "PreferredShortName":"Oregon-Gr488",
-               "ExcitationMaximum(nm)":491,
-               "EmissionMaximum(nm)":519,
-               "CAS#":"195136-58-4"
-            },
-            {
-               "ProbeTag":"Oregon Green 514",
-               "PreferredShortName":"Oregon-Gr514",
-               "ExcitationMaximum(nm)":510,
-               "EmissionMaximum(nm)":532,
-               "CAS#":"198139-53-6"
-            },
-            {
-               "ProbeTag":"Pacific Blue",
-               "PreferredShortName":"PacBlue",
-               "ExcitationMaximum(nm)":405,
-               "EmissionMaximum(nm)":455,
-               "CAS#":"215868-31-8"
-            },
-            {
-               "ProbeTag":"Pacific Orange",
-               "PreferredShortName":"PacOrange",
-               "ExcitationMaximum(nm)":403,
-               "EmissionMaximum(nm)":551,
-               "CAS#":"1122414-42-9"
-            },
-            {
-               "ProbeTag":"Phycoerythrin-Alexa Fluor 610",
-               "PreferredShortName":"PE-AF610",
-               "ExcitationMaximum(nm)":563,
-               "EmissionMaximum(nm)":628,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Phycoerythrin-Alexa Fluor 647",
-               "PreferredShortName":"PE-AF647",
-               "ExcitationMaximum(nm)":567,
-               "EmissionMaximum(nm)":669,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Phycoerythrin-Alexa Fluor 680",
-               "PreferredShortName":"PE-AF680",
-               "ExcitationMaximum(nm)":570,
-               "EmissionMaximum(nm)":702,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Phycoerythrin-Alexa Fluor 700",
-               "PreferredShortName":"PE-AF700",
-               "ExcitationMaximum(nm)":563,
-               "EmissionMaximum(nm)":720,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Phycoerythrin-Alexa Fluor 750",
-               "PreferredShortName":"PE-AF750",
-               "ExcitationMaximum(nm)":570,
-               "EmissionMaximum(nm)":776,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Phycoerythrin-CF594",
-               "PreferredShortName":"PE-CF594",
-               "ExcitationMaximum(nm)":564,
-               "EmissionMaximum(nm)":612,
-               "CAS#":"1613592-67-8"
-            },
-            {
-               "ProbeTag":"Phycoerythrin-Cy5",
-               "PreferredShortName":"PE-Cy5",
-               "ExcitationMaximum(nm)":565,
-               "EmissionMaximum(nm)":667,
-               "CAS#":"1448849-77-1"
-            },
-            {
-               "ProbeTag":"Phycoerythrin-Cy5.5",
-               "PreferredShortName":"PE-Cy5.5",
-               "ExcitationMaximum(nm)":563,
-               "EmissionMaximum(nm)":695,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Phycoerythrin-Cy7",
-               "PreferredShortName":"PE-Cy7",
-               "ExcitationMaximum(nm)":563,
-               "EmissionMaximum(nm)":760,
-               "CAS#":"1429496-42-3"
-            },
-            {
-               "ProbeTag":"Phycoerythrin-DY590",
-               "PreferredShortName":"PE-DY590",
-               "ExcitationMaximum(nm)":563,
-               "EmissionMaximum(nm)":599,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Phycoerythrin-DY647",
-               "PreferredShortName":"PE-DY647",
-               "ExcitationMaximum(nm)":563,
-               "EmissionMaximum(nm)":672,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Peridinin-Chlorophyll Proteins",
-               "PreferredShortName":"PerCP",
-               "ExcitationMaximum(nm)":490,
-               "EmissionMaximum(nm)":675,
-               "CAS#":"422551-33-5"
-            },
-            {
-               "ProbeTag":"Peridinin-Chlorophyll Proteins-Cy5.5",
-               "PreferredShortName":"PerCP-Cy5.5",
-               "ExcitationMaximum(nm)":488,
-               "EmissionMaximum(nm)":695,
-               "CAS#":"1474026-81-7"
-            },
-            {
-               "ProbeTag":"Peridinin-Chlorophyll Proteins-eFluor 710",
-               "PreferredShortName":"PerCP-eFluor710",
-               "ExcitationMaximum(nm)":488,
-               "EmissionMaximum(nm)":710,
-               "CAS#":"1353683-31-4"
-            },
-            {
-               "ProbeTag":"Phycoerythrin-Texas Red",
-               "PreferredShortName":"PE-TxRed",
-               "ExcitationMaximum(nm)":563,
-               "EmissionMaximum(nm)":613,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Phycoerythrin-Vio770",
-               "PreferredShortName":"PE-Vio770",
-               "ExcitationMaximum(nm)":565,
-               "EmissionMaximum(nm)":775,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"pHrodo Green STP Ester ",
-               "PreferredShortName":"pHrodo-Green",
-               "ExcitationMaximum(nm)":509,
-               "EmissionMaximum(nm)":533,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"pHrodo Red, succinimidyl ester",
-               "PreferredShortName":"pHrodo-Red",
-               "ExcitationMaximum(nm)":560,
-               "EmissionMaximum(nm)":585,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Phycocyanin",
-               "PreferredShortName":"PC",
-               "ExcitationMaximum(nm)":617,
-               "EmissionMaximum(nm)":646,
-               "CAS#":"11016-15-2"
-            },
-            {
-               "ProbeTag":"Phycoerythrin",
-               "PreferredShortName":"PE",
-               "ExcitationMaximum(nm)":563,
-               "EmissionMaximum(nm)":578,
-               "CAS#":"11016-17-4"
-            },
-            {
-               "ProbeTag":"PicoGreen",
-               "PreferredShortName":"PicoGreen",
-               "ExcitationMaximum(nm)":502,
-               "EmissionMaximum(nm)":522,
-               "CAS#":"177571-06-1"
-            },
-            {
-               "ProbeTag":"PKH2",
-               "PreferredShortName":"PKH2-Green",
-               "ExcitationMaximum(nm)":490,
-               "EmissionMaximum(nm)":504,
-               "CAS#":"145687-07-6"
-            },
-            {
-               "ProbeTag":"PKH26",
-               "PreferredShortName":"PKH26-Red ",
-               "ExcitationMaximum(nm)":551,
-               "EmissionMaximum(nm)":567,
-               "CAS#":"154214-55-8"
-            },
-            {
-               "ProbeTag":"PKH67",
-               "PreferredShortName":"PKH67",
-               "ExcitationMaximum(nm)":490,
-               "EmissionMaximum(nm)":504,
-               "CAS#":"257277-27-3"
-            },
-            {
-               "ProbeTag":"POPO-1 Iodide",
-               "PreferredShortName":"POPO-1",
-               "ExcitationMaximum(nm)":433,
-               "EmissionMaximum(nm)":457,
-               "CAS#":"169454-15-3"
-            },
-            {
-               "ProbeTag":"PO-PRO-1 Iodide",
-               "PreferredShortName":"PO-PRO-1",
-               "ExcitationMaximum(nm)":435,
-               "EmissionMaximum(nm)":457,
-               "CAS#":"157199-56-9"
-            },
-            {
-               "ProbeTag":"Propidium Iodide",
-               "PreferredShortName":"PI",
-               "ExcitationMaximum(nm)":350,
-               "EmissionMaximum(nm)":617,
-               "CAS#":"25535-16-4"
-            },
-            {
-               "ProbeTag":"Pyronin Y",
-               "PreferredShortName":"Pyronin-Y",
-               "ExcitationMaximum(nm)":547,
-               "EmissionMaximum(nm)":560,
-               "CAS#":"92-32-0"
-            },
-            {
-               "ProbeTag":"Quantum Dots 525",
-               "PreferredShortName":"QD525",
-               "ExcitationMaximum(nm)":350,
-               "EmissionMaximum(nm)":525,
-               "CAS#":"885332-45-6"
-            },
-            {
-               "ProbeTag":"Quantum Dots 545",
-               "PreferredShortName":"QD545",
-               "ExcitationMaximum(nm)":350,
-               "EmissionMaximum(nm)":545,
-               "CAS#":"948906-89-6"
-            },
-            {
-               "ProbeTag":"Quantum Dots 565",
-               "PreferredShortName":"QD565",
-               "ExcitationMaximum(nm)":350,
-               "EmissionMaximum(nm)":565,
-               "CAS#":"859509-02-7"
-            },
-            {
-               "ProbeTag":"Quantum Dots 585",
-               "PreferredShortName":"QD585",
-               "ExcitationMaximum(nm)":350,
-               "EmissionMaximum(nm)":585,
-               "CAS#":"885332-46-7"
-            },
-            {
-               "ProbeTag":"Quantum Dots 605",
-               "PreferredShortName":"QD605",
-               "ExcitationMaximum(nm)":350,
-               "EmissionMaximum(nm)":605,
-               "CAS#":"849813-89-4"
-            },
-            {
-               "ProbeTag":"Quantum Dots 625",
-               "PreferredShortName":"QD625",
-               "ExcitationMaximum(nm)":350,
-               "EmissionMaximum(nm)":625,
-               "CAS#":"1144512-19-5"
-            },
-            {
-               "ProbeTag":"Quantum Dots 655",
-               "PreferredShortName":"QD655",
-               "ExcitationMaximum(nm)":350,
-               "EmissionMaximum(nm)":655,
-               "CAS#":"674287-64-0"
-            },
-            {
-               "ProbeTag":"Quantum Dots 705",
-               "PreferredShortName":"QD705",
-               "ExcitationMaximum(nm)":350,
-               "EmissionMaximum(nm)":705,
-               "CAS#":"885332-47-8"
-            },
-            {
-               "ProbeTag":"Quantum Dots 800",
-               "PreferredShortName":"QD800",
-               "ExcitationMaximum(nm)":350,
-               "EmissionMaximum(nm)":800,
-               "CAS#":"885332-50-3"
-            },
-            {
-               "ProbeTag":"Rhodamine",
-               "PreferredShortName":"Rho",
-               "ExcitationMaximum(nm)":550,
-               "EmissionMaximum(nm)":570,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Rhodamine 110",
-               "PreferredShortName":"Rho110",
-               "ExcitationMaximum(nm)":497,
-               "EmissionMaximum(nm)":520,
-               "CAS#":"13558-31-1"
-            },
-            {
-               "ProbeTag":"Rhodamine 123",
-               "PreferredShortName":"Rho123",
-               "ExcitationMaximum(nm)":507,
-               "EmissionMaximum(nm)":529,
-               "CAS#":"62669-70-9"
-            },
-            {
-               "ProbeTag":"Rhodamine Green",
-               "PreferredShortName":"RhoGreen",
-               "ExcitationMaximum(nm)":505,
-               "EmissionMaximum(nm)":527,
-               "CAS#":"189200-71-3"
-            },
-            {
-               "ProbeTag":"Rhodamine Red",
-               "PreferredShortName":"RhoRed",
-               "ExcitationMaximum(nm)":573,
-               "EmissionMaximum(nm)":591,
-               "CAS#":"99752-92-8"
-            },
-            {
-               "ProbeTag":"Rhodamine Red-X",
-               "PreferredShortName":"RhoRed-X",
-               "ExcitationMaximum(nm)":560,
-               "EmissionMaximum(nm)":580,
-               "CAS#":"178623-12-6"
-            },
-            {
-               "ProbeTag":"RiboFlavin",
-               "PreferredShortName":"RiboFlavin",
-               "ExcitationMaximum(nm)":266,
-               "EmissionMaximum(nm)":531,
-               "CAS#":"83-88-5"
-            },
-            {
-               "ProbeTag":"SNARF-1",
-               "PreferredShortName":"SNARF1",
-               "ExcitationMaximum(nm)":549,
-               "EmissionMaximum(nm)":586,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Spectral Red",
-               "PreferredShortName":"Spectral-Red",
-               "ExcitationMaximum(nm)":506,
-               "EmissionMaximum(nm)":665,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"SureLight P1",
-               "PreferredShortName":"SureLight-P1",
-               "ExcitationMaximum(nm)":545,
-               "EmissionMaximum(nm)":667,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"SureLight P3",
-               "PreferredShortName":"SureLight-P3",
-               "ExcitationMaximum(nm)":614,
-               "EmissionMaximum(nm)":662,
-               "CAS#":"1365659-06-8"
-            },
-            {
-               "ProbeTag":"SYBR Green",
-               "PreferredShortName":"SYBRGreen",
-               "ExcitationMaximum(nm)":498,
-               "EmissionMaximum(nm)":522,
-               "CAS#":"217087-73-5"
-            },
-            {
-               "ProbeTag":"SYTO 11",
-               "PreferredShortName":"SYTO-11",
-               "ExcitationMaximum(nm)":506,
-               "EmissionMaximum(nm)":526,
-               "CAS#":"173080-67-6"
-            },
-            {
-               "ProbeTag":"SYTO 13",
-               "PreferredShortName":"SYTO-13",
-               "ExcitationMaximum(nm)":488,
-               "EmissionMaximum(nm)":506,
-               "CAS#":"173080-69-8"
-            },
-            {
-               "ProbeTag":"SYTO 16",
-               "PreferredShortName":"SYTO-16",
-               "ExcitationMaximum(nm)":488,
-               "EmissionMaximum(nm)":520,
-               "CAS#":"173080-72-3"
-            },
-            {
-               "ProbeTag":"SYTO 17",
-               "PreferredShortName":"SYTO-17",
-               "ExcitationMaximum(nm)":618,
-               "EmissionMaximum(nm)":637,
-               "CAS#":"189233-66-7"
-            },
-            {
-               "ProbeTag":"SYTO 45",
-               "PreferredShortName":"SYTO-45",
-               "ExcitationMaximum(nm)":450,
-               "EmissionMaximum(nm)":486,
-               "CAS#":"335078-86-9"
-            },
-            {
-               "ProbeTag":"SYTO 59",
-               "PreferredShortName":"SYTO-59",
-               "ExcitationMaximum(nm)":622,
-               "EmissionMaximum(nm)":643,
-               "CAS#":"235422-34-1"
-            },
-            {
-               "ProbeTag":"SYTO 60",
-               "PreferredShortName":"SYTO-60",
-               "ExcitationMaximum(nm)":650,
-               "EmissionMaximum(nm)":681,
-               "CAS#":"335079-14-6"
-            },
-            {
-               "ProbeTag":"SYTO 61",
-               "PreferredShortName":"SYTO-61",
-               "ExcitationMaximum(nm)":618,
-               "EmissionMaximum(nm)":651,
-               "CAS#":"335079-15-7"
-            },
-            {
-               "ProbeTag":"SYTO 62",
-               "PreferredShortName":"SYTO-62",
-               "ExcitationMaximum(nm)":650,
-               "EmissionMaximum(nm)":681,
-               "CAS#":"286951-08-4"
-            },
-            {
-               "ProbeTag":"SYTO 82",
-               "PreferredShortName":"SYTO-82",
-               "ExcitationMaximum(nm)":540,
-               "EmissionMaximum(nm)":560,
-               "CAS#":"335079-10-2"
-            },
-            {
-               "ProbeTag":"SYTO 9",
-               "PreferredShortName":"SYTO-9",
-               "ExcitationMaximum(nm)":482,
-               "EmissionMaximum(nm)":500,
-               "CAS#":"208540-89-0"
-            },
-            {
-               "ProbeTag":"SYTOX AADvanced Stain",
-               "PreferredShortName":"SYTOX-AAD",
-               "ExcitationMaximum(nm)":546,
-               "EmissionMaximum(nm)":646,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"SYTOX Blue Stain",
-               "PreferredShortName":"SYTOX-B",
-               "ExcitationMaximum(nm)":431,
-               "EmissionMaximum(nm)":480,
-               "CAS#":"396077-00-2"
-            },
-            {
-               "ProbeTag":"SYTOX Green Stain",
-               "PreferredShortName":"SYTOX-G",
-               "ExcitationMaximum(nm)":504,
-               "EmissionMaximum(nm)":523,
-               "CAS#":"194100-76-0"
-            },
-            {
-               "ProbeTag":"SYTOX Orange Stain",
-               "PreferredShortName":"SYTOX-O",
-               "ExcitationMaximum(nm)":547,
-               "EmissionMaximum(nm)":570,
-               "CAS#":"324767-53-5"
-            },
-            {
-               "ProbeTag":"SYTOX Red Stain",
-               "PreferredShortName":"SYTOX-R",
-               "ExcitationMaximum(nm)":640,
-               "EmissionMaximum(nm)":658,
-               "CAS#":"915152-67-9"
-            },
-            {
-               "ProbeTag":"tdTomato",
-               "PreferredShortName":"tdTomato",
-               "ExcitationMaximum(nm)":554,
-               "EmissionMaximum(nm)":581,
-               "CAS#":"1114838-94-6"
-            },
-            {
-               "ProbeTag":"Texas Red",
-               "PreferredShortName":"TxRed",
-               "ExcitationMaximum(nm)":589,
-               "EmissionMaximum(nm)":615,
-               "CAS#":"82354-19-6"
-            },
-            {
-               "ProbeTag":"Thiazole Orange",
-               "PreferredShortName":"Thiazole-Orange",
-               "ExcitationMaximum(nm)":500,
-               "EmissionMaximum(nm)":530,
-               "CAS#":"107091-89-4"
-            },
-            {
-               "ProbeTag":"ThiolTracker Violet",
-               "PreferredShortName":"ThiolTracker-Vio",
-               "ExcitationMaximum(nm)":406,
-               "EmissionMaximum(nm)":526,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"TO-PRO-1",
-               "PreferredShortName":"TO-PRO-1",
-               "ExcitationMaximum(nm)":509,
-               "EmissionMaximum(nm)":533,
-               "CAS#":"157199-59-2"
-            },
-            {
-               "ProbeTag":"TO-PRO-3",
-               "PreferredShortName":"TO-PRO-3",
-               "ExcitationMaximum(nm)":642,
-               "EmissionMaximum(nm)":661,
-               "CAS#":"157199-63-8"
-            },
-            {
-               "ProbeTag":"TOTO-1",
-               "PreferredShortName":"TOTO-1",
-               "ExcitationMaximum(nm)":509,
-               "EmissionMaximum(nm)":533,
-               "CAS#":"143413-84-7"
-            },
-            {
-               "ProbeTag":"TOTO-3",
-               "PreferredShortName":"TOTO-3",
-               "ExcitationMaximum(nm)":642,
-               "EmissionMaximum(nm)":661,
-               "CAS#":"166196-17-4"
-            },
-            {
-               "ProbeTag":"Tetramethylrhodamine",
-               "PreferredShortName":"TRITC",
-               "ExcitationMaximum(nm)":547,
-               "EmissionMaximum(nm)":572,
-               "CAS#":"745735-42-6"
-            },
-            {
-               "ProbeTag":"TruRed",
-               "PreferredShortName":"TruRed",
-               "ExcitationMaximum(nm)":490,
-               "EmissionMaximum(nm)":695,
-               "CAS#":"396076-95-2"
-            },
-            {
-               "ProbeTag":"V450",
-               "PreferredShortName":"V450",
-               "ExcitationMaximum(nm)":405,
-               "EmissionMaximum(nm)":448,
-               "CAS#":"1257844-82-8"
-            },
-            {
-               "ProbeTag":"V500",
-               "PreferredShortName":"V500",
-               "ExcitationMaximum(nm)":415,
-               "EmissionMaximum(nm)":500,
-               "CAS#":"1333160-12-5"
-            },
-            {
-               "ProbeTag":"VioBlue",
-               "PreferredShortName":"VioBlue",
-               "ExcitationMaximum(nm)":400,
-               "EmissionMaximum(nm)":452,
-               "CAS#":"1431147-59-9"
-            },
-            {
-               "ProbeTag":"VioGreen",
-               "PreferredShortName":"VioGreen",
-               "ExcitationMaximum(nm)":388,
-               "EmissionMaximum(nm)":520,
-               "CAS#":"-"
-            },
-            {
-               "ProbeTag":"Vybrant DyeCycle Green",
-               "PreferredShortName":"VDC-Green",
-               "ExcitationMaximum(nm)":505,
-               "EmissionMaximum(nm)":535,
-               "CAS#":"1431152-50-9"
-            },
-            {
-               "ProbeTag":"Vybrant DyeCycle Orange",
-               "PreferredShortName":"VDC-Orange",
-               "ExcitationMaximum(nm)":518,
-               "EmissionMaximum(nm)":563,
-               "CAS#":"1055990-89-0"
-            },
-            {
-               "ProbeTag":"Vybrant DyeCycle Ruby",
-               "PreferredShortName":"VDC-Ruby",
-               "ExcitationMaximum(nm)":637,
-               "EmissionMaximum(nm)":686,
-               "CAS#":"1345202-72-3"
-            },
-            {
-               "ProbeTag":"Vybrant DyeCycle Violet",
-               "PreferredShortName":"VDC-Violet",
-               "ExcitationMaximum(nm)":370,
-               "EmissionMaximum(nm)":436,
-               "CAS#":"1015439-88-9"
-            },
-            {
-               "ProbeTag":"Yellow Flourescent Protein",
-               "PreferredShortName":"YFP",
-               "ExcitationMaximum(nm)":505,
-               "EmissionMaximum(nm)":530,
-               "CAS#":"1477601-52-7"
-            },
-            {
-               "ProbeTag":"YO-PRO-1",
-               "PreferredShortName":"YO-PRO-1",
-               "ExcitationMaximum(nm)":491,
-               "EmissionMaximum(nm)":506,
-               "CAS#":"152068-09-2"
-            },
-            {
-               "ProbeTag":"YO-PRO-3",
-               "PreferredShortName":"YO-PRO-3",
-               "ExcitationMaximum(nm)":613,
-               "EmissionMaximum(nm)":629,
-               "CAS#":"157199-62-7"
-            },
-            {
-               "ProbeTag":"YOYO-1",
-               "PreferredShortName":"YOYO-1",
-               "ExcitationMaximum(nm)":491,
-               "EmissionMaximum(nm)":509,
-               "CAS#":"143413-85-8"
-            },
-            {
-               "ProbeTag":"YOYO-3",
-               "PreferredShortName":"YOYO-3",
-               "ExcitationMaximum(nm)":613,
-               "EmissionMaximum(nm)":629,
-               "CAS#":"156312-20-8"
-            },
-            {
-               "ProbeTag":"ZsGreen",
-               "PreferredShortName":"ZsGreen",
-               "ExcitationMaximum(nm)":494,
-               "EmissionMaximum(nm)":517,
-               "CAS#":"1216871-88-3"
+               "Probe Tag" : "176 Ytterbium",
+               "Preferred Short Name" : "176Yb",
+               "Notes" : "-"
             }
          ]
       },
       {
-         "Isotope":[
-            {
-               "ProbeTag":"141 Praseodymium",
-               "PreferredShortName":"141Pr"
+         "Chromogens":[            {
+               "Probe Tag" : "3,3'-Diaminobenzidine",
+               "Preferred Short Name" : "DAB",
+               "Precipitate Color" : "Brown",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"142 Neodymium",
-               "PreferredShortName":"142Nd"
+               "Probe Tag" : "3-amino-9-ethylcarbazole",
+               "Preferred Short Name" : "AEC",
+               "Precipitate Color" : "Red",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"143 Neodymium",
-               "PreferredShortName":"143Nd"
+               "Probe Tag" : "5-bromo-4-chloro-3-indolyl phosphate + nitro blue tetrazolium",
+               "Preferred Short Name" : "BCIP-NBT",
+               "Precipitate Color" : "Indigo",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"144 Neodymium",
-               "PreferredShortName":"144Nd"
+               "Probe Tag" : "Fuchsin",
+               "Preferred Short Name" : "Fuchsin",
+               "Precipitate Color" : "Red-Magenta",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"145 Neodymium",
-               "PreferredShortName":"145Nd"
+               "Probe Tag" : "Permanent Red",
+               "Preferred Short Name" : "PermRed",
+               "Precipitate Color" : "Magenta",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"146 Neodymium",
-               "PreferredShortName":"146Nd"
+               "Probe Tag" : "Discovery Purple",
+               "Preferred Short Name" : "DiscPurple",
+               "Precipitate Color" : "Purple",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"147 Samarium",
-               "PreferredShortName":"147Sm"
+               "Probe Tag" : "Discovery Silver",
+               "Preferred Short Name" : "DiscSilver",
+               "Precipitate Color" : "Silver",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"148 Neodymium",
-               "PreferredShortName":"148Nd"
+               "Probe Tag" : "Discovery Yellow",
+               "Preferred Short Name" : "DiscYellow",
+               "Precipitate Color" : "Yellow",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"149 Samarium",
-               "PreferredShortName":"149Sm"
+               "Probe Tag" : "3,3\u2019,5,5\u2019-tetramethylbenzidine",
+               "Preferred Short Name" : "TMB",
+               "Precipitate Color" : "Blue",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"150 Neodymium",
-               "PreferredShortName":"150Nd"
+               "Probe Tag" : "VECTOR Blue",
+               "Preferred Short Name" : "vctrBlue",
+               "Precipitate Color" : "Blue",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"151 Europium",
-               "PreferredShortName":"151Eu"
+               "Probe Tag" : "VECTOR Black",
+               "Preferred Short Name" : "vctrBlack",
+               "Precipitate Color" : "Brown-Black",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"152 Samarium",
-               "PreferredShortName":"152Sm"
+               "Probe Tag" : "ImmPACT AMEC",
+               "Preferred Short Name" : "ipacAMEC",
+               "Precipitate Color" : "Red",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"153 Europium",
-               "PreferredShortName":"153Eu"
+               "Probe Tag" : "VECTOR VIP",
+               "Preferred Short Name" : "vctrVIP",
+               "Precipitate Color" : "Purple",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"154 Samarium",
-               "PreferredShortName":"154Sm"
+               "Probe Tag" : "VECTOR SG",
+               "Preferred Short Name" : "vctrSG",
+               "Precipitate Color" : "Blue-Gray",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"155 Gadolinium",
-               "PreferredShortName":"155Gd"
+               "Probe Tag" : "VECTOR NovaRED",
+               "Preferred Short Name" : "vctrNovaRED",
+               "Precipitate Color" : "Red",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"156 Gadolinium",
-               "PreferredShortName":"156Gd"
+               "Probe Tag" : "5-bromo-4-chloro-3-indolyl-β-D-galactopyranoside",
+               "Preferred Short Name" : "X-gal",
+               "Precipitate Color" : "Blue-Green",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"158 Gadolinium",
-               "PreferredShortName":"158Gd"
+               "Probe Tag" : "Fast Red",
+               "Preferred Short Name" : "FastRed",
+               "Precipitate Color" : "Magenta",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"159 Terbium",
-               "PreferredShortName":"159Tb"
+               "Probe Tag" : "Fast Blue",
+               "Preferred Short Name" : "FastBlue",
+               "Precipitate Color" : "Blue",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"160 Gadolinium",
-               "PreferredShortName":"160Gd"
+               "Probe Tag" : "VECTOR Red",
+               "Preferred Short Name" : "vctrRed",
+               "Precipitate Color" : "Magenta",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"161 Dysprosium",
-               "PreferredShortName":"161Dy"
+               "Probe Tag" : "Betazoid DAB",
+               "Preferred Short Name" : "Betazoid-DAB",
+               "Precipitate Color" : "Brown",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"162 Dysprosium",
-               "PreferredShortName":"162Dy"
+               "Probe Tag" : "Cardassian DAB",
+               "Preferred Short Name" : "Cardassian-DAB",
+               "Precipitate Color" : "Black Brown",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"163 Dysprosium",
-               "PreferredShortName":"163Dy"
+               "Probe Tag" : "Romulin AEC",
+               "Preferred Short Name" : "Romulin-AEC",
+               "Precipitate Color" : "Brick Red",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"164 Dysprosium",
-               "PreferredShortName":"164Dy"
+               "Probe Tag" : "Bajoran Purple",
+               "Preferred Short Name" : "Bajoran-Purple",
+               "Precipitate Color" : "Purple",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"165 Holmium",
-               "PreferredShortName":"165Ho"
+               "Probe Tag" : "Vina Green",
+               "Preferred Short Name" : "Vina-Green",
+               "Precipitate Color" : "Green",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"166 Erbium",
-               "PreferredShortName":"166Er"
+               "Probe Tag" : "Deep Space Black",
+               "Preferred Short Name" : "DS-Black",
+               "Precipitate Color" : "Black",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"167 Erbium",
-               "PreferredShortName":"167Er"
+               "Probe Tag" : "Warp Red",
+               "Preferred Short Name" : "Warp-Red",
+               "Precipitate Color" : "Magenta",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"168 Erbium",
-               "PreferredShortName":"168Er"
+               "Probe Tag" : "Vulcan Fast Red",
+               "Preferred Short Name" : "Vulcan-FastRed",
+               "Precipitate Color" : "Magenta",
+               "Notes" : "-"
             },
             {
-               "ProbeTag":"169 Thulium",
-               "PreferredShortName":"169Tm"
-            },
-            {
-               "ProbeTag":"170 Erbium",
-               "PreferredShortName":"170Er"
-            },
-            {
-               "ProbeTag":"171 Ytterbium",
-               "PreferredShortName":"171Yb"
-            },
-            {
-               "ProbeTag":"172 Ytterbium",
-               "PreferredShortName":"172Yb"
-            },
-            {
-               "ProbeTag":"173 Ytterbium",
-               "PreferredShortName":"173Yb"
-            },
-            {
-               "ProbeTag":"174 Ytterbium",
-               "PreferredShortName":"174Yb"
-            },
-            {
-               "ProbeTag":"175 Lutetium",
-               "PreferredShortName":"175Lu"
-            },
-            {
-               "ProbeTag":"176 Ytterbium",
-               "PreferredShortName":"176Yb"
-            }
-         ]
-      },
-      {
-         "Chromogen":[
-            {
-               "ProbeTag":"3,3'-Diaminobenzidine",
-               "PreferredShortName":"DAB",
-               "PrecipitateColor":"Brown"
-            },
-            {
-               "ProbeTag":"3-amino-9-ethylcarbazole",
-               "PreferredShortName":"AEC",
-               "PrecipitateColor":"Red"
-            },
-            {
-               "ProbeTag":"5-bromo-4-chloro-3-indolyl phosphate + nitro blue tetrazolium",
-               "PreferredShortName":"BCIP-NBT",
-               "PrecipitateColor":"Indigo"
-            },
-            {
-               "ProbeTag":"Fuchsin",
-               "PreferredShortName":"Fuchsin",
-               "PrecipitateColor":"Red-Magenta"
-            },
-            {
-               "ProbeTag":"Permanent Red",
-               "PreferredShortName":"PermRed",
-               "PrecipitateColor":"Magenta"
-            },
-            {
-               "ProbeTag":"Discovery Purple",
-               "PreferredShortName":"DiscPurple",
-               "PrecipitateColor":"Purple"
-            },
-            {
-               "ProbeTag":"Discovery Silver",
-               "PreferredShortName":"DiscSilver",
-               "PrecipitateColor":"Silver"
-            },
-            {
-               "ProbeTag":"Discovery Yellow",
-               "PreferredShortName":"DiscYellow",
-               "PrecipitateColor":"Yellow"
-            },
-            {
-               "ProbeTag":"3,3\u2019,5,5\u2019-tetramethylbenzidine",
-               "PreferredShortName":"TMB",
-               "PrecipitateColor":"Blue"
-            },
-            {
-               "ProbeTag":"VECTOR Blue",
-               "PreferredShortName":"vctrBlue",
-               "PrecipitateColor":"Blue"
-            },
-            {
-               "ProbeTag":"VECTOR Black",
-               "PreferredShortName":"vctrBlack",
-               "PrecipitateColor":"Brown-Black"
-            },
-            {
-               "ProbeTag":"ImmPACT AMEC",
-               "PreferredShortName":"ipacAMEC",
-               "PrecipitateColor":"Red"
-            },
-            {
-               "ProbeTag":"VECTOR VIP",
-               "PreferredShortName":"vctrVIP",
-               "PrecipitateColor":"Purple"
-            },
-            {
-               "ProbeTag":"VECTOR SG",
-               "PreferredShortName":"vctrSG",
-               "PrecipitateColor":"Blue-Gray"
-            },
-            {
-               "ProbeTag":"VECTOR NovaRED",
-               "PreferredShortName":"vctrNovaRED",
-               "PrecipitateColor":"Red"
-            },
-            {
-               "ProbeTag":"5-bromo-4-chloro-3-indolyl-β-D-galactopyranoside",
-               "PreferredShortName":"X-gal",
-               "PrecipitateColor":"Blue-Green"
-            },
-            {
-               "ProbeTag":"Fast Red",
-               "PreferredShortName":"FastRed",
-               "PrecipitateColor":"Magenta"
-            },
-            {
-               "ProbeTag":"Fast Blue",
-               "PreferredShortName":"FastBlue",
-               "PrecipitateColor":"Blue"
-            },
-            {
-               "ProbeTag":"VECTOR Red",
-               "PreferredShortName":"vctrRed",
-               "PrecipitateColor":"Magenta"
-            },
-            {
-               "ProbeTag":"Betazoid DAB",
-               "PreferredShortName":"Betazoid-DAB",
-               "PrecipitateColor":"Brown"
-            },
-            {
-               "ProbeTag":"Cardassian DAB",
-               "PreferredShortName":"Cardassian-DAB",
-               "PrecipitateColor":"Black Brown"
-            },
-            {
-               "ProbeTag":"Romulin AEC",
-               "PreferredShortName":"Romulin-AEC",
-               "PrecipitateColor":"Brick Red"
-            },
-            {
-               "ProbeTag":"Bajoran Purple",
-               "PreferredShortName":"Bajoran-Purple",
-               "PrecipitateColor":"Purple"
-            },
-            {
-               "ProbeTag":"Vina Green",
-               "PreferredShortName":"Vina-Green",
-               "PrecipitateColor":"Green"
-            },
-            {
-               "ProbeTag":"Deep Space Black",
-               "PreferredShortName":"DS-Black",
-               "PrecipitateColor":"Black"
-            },
-            {
-               "ProbeTag":"Warp Red",
-               "PreferredShortName":"Warp-Red",
-               "PrecipitateColor":"Magenta"
-            },
-            {
-               "ProbeTag":"Vulcan Fast Red",
-               "PreferredShortName":"Vulcan-FastRed",
-               "PrecipitateColor":"Magenta"
-            },
-            {
-               "ProbeTag":"Ferangi Blue",
-               "PreferredShortName":"Ferangi-Blue",
-               "PrecipitateColor":"Royal Blue"
+               "Probe Tag" : "Ferangi Blue",
+               "Preferred Short Name" : "Ferangi-Blue",
+               "Precipitate Color" : "Royal Blue",
+               "Notes" : "-"
             }
          ]
       }
