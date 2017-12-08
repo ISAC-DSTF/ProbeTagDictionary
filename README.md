@@ -3,12 +3,14 @@ Standardized Nomenclature for Detection and Visualization Labels Used in Cytomet
 
 Column Definitions
 
-Probe Tag = trade name (from vendor)
+Probe Tag = Trade name (from vendor)
 
-Preferred Short Name = recommended standard nomenclature for use by Users and Developers in cases where an abbreviation is required
+Preferred Short Name = Recommended standard nomenclature for use by Users and Developers in cases where an abbreviation is required
 
-Tag Type = fluorescence, isotope (e.g. Cytof reagents), chromogen (e.g. DAB)
+Tag Type = Fluorescence, isotope (e.g. Cytof reagents), chromogen (e.g. DAB)
 
-CAS#s = Chemical Abstract Service numbers generated solely from the American Chemical Society. Normally  these numbers are unique identifiers for unique non-proprietary chemical structures. However, a significant portion of our probe tags are proprietary and therefore have no associated chemical structure. Therefore, for our purposes using CAS#s to distinquish/identify not a viable option.
+CAS#s = Chemical Abstract Service numbers generated solely from the American Chemical Society. Normally  these numbers are unique identifiers for unique non-proprietary chemical structures. However, a significant portion of Probe Tags are proprietary and therefore have no associated chemical structure.
 
-Precipitate Color = color of the precipitate formed after the enzymatic reaction with the chromogen
+Precipitate Color = Color of the precipitate formed after the enzymatic reaction with the chromogen
+
+Notes = Additonal information relevant to the interpretation of the information provided for the Probe Tagn with the chromogen
