@@ -14,3 +14,5 @@ CAS#s = Chemical Abstract Service numbers generated solely from the American Che
 Precipitate Color = Color of the precipitate formed after the enzymatic reaction with the chromogen
 
 Notes = Additonal information relevant to the interpretation of the information provided for the Probe Tagn with the chromogen
+
+Additions to the Probe Tag Dictionary should be submitted to: kim.blenman@yale.edu
