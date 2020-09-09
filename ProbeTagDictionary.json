@@ -674,6 +674,14 @@
               "Notes" : "-"
            },
            {
+              "Probe Tag" : "DRAQ9",
+              "Preferred Short Name" : "DRAQ9",
+              "Excitation Maximum (nm)" : 605,
+              "Emission Maximum (nm)" : 698,
+              "CAS#" : "-",
+              "Notes" : "-"
+           },
+           {
               "Probe Tag" : "Discosoma sp. Red Fluorescent Protein",
               "Preferred Short Name" : "DsRED",
               "Excitation Maximum (nm)" : 532,
