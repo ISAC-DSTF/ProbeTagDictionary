@@ -1,4 +1,4 @@
-Copyright (c) 2021 Kim R M Blenman, Josef Spidle, David R Parks, Wayne Moore, Adam Treister, Robert Leif, Chris Bray, Michael Goldberg, Ryan Brinkman, International Society for Advancement of Cytometry
+Copyright (c) 2021 Kim R M Blenman, Josef Spidlen, David R Parks, Wayne Moore, Adam Treister, Robert Leif, Chris Bray, Michael Goldberg, Ryan Brinkman, International Society for Advancement of Cytometry
 
 This work is licensed under a Creative Commons Attribution-NoDerivs 3.0 Unported License.
 https://creativecommons.org/licenses/by-nd/3.0/
